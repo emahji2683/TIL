@@ -1,3 +1,9 @@
+## ブランケット化したJS
+オブジェクト内にオブジェクトを作成することをブランケット記法という。
+以下のコード内に、``person1``というオブジェクトを作成した。
+
+
+```
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -32,8 +38,7 @@
           document.body.appendChild(para);
         }
       };
-      const lotsOfDecimal = 1.766584958675746364;
-      const twoDecimalPlaces = lotsOfDecimal.toFixed(2);
     </script>
   </body>
 </html>
+```
