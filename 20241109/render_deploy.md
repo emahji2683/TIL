@@ -8,5 +8,13 @@ https://ja.stackoverflow.com/questions/93827/render%E3%81%A7%E3%81%AE%E3%83%87%E
 
 https://qiita.com/hashioga2017/items/b69cb070c0073e9c26c7
 
-https://qiita.com/terufumi1122/items/b5678bae891ba9cf1e57
+https://qiita.com/terufumi1122/items/b5678bae891ba9cf1e57i
 
+https://qiita.com/koki_73/items/60b327a586129d157f38
+
+# アセットパイプライン周りのファイル
+https://qiita.com/MIDO-ruby7/items/9718b40c97e4d282ae8
+https://railsguides.jp/v7.1/asset_pipeline.html
+https://qiita.com/saki_y/items/be7ceed71aa67911740ci
+https://blog.aiandrox.com/posts/tech/2020/03/11/
+https://zenn.dev/katsumanarisawa/articles/c9da48652f399d
