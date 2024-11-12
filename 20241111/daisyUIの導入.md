@@ -19,7 +19,9 @@ module.exports = {
 }
 ```
 
+
 # docker compose restart
+
 buildファイルを再生生成する。
 
 [Dockerでrails7 + tailwind + daisyuiの環境構築をする](https://qiita.com/ICU1234/items/4c7c3e974ae290e68792#docker-composeyml)
