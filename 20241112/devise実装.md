@@ -29,6 +29,7 @@ docker compose exec app rails db:migrate
 
 # カラムの追加
 
+
 以下のような命名規則に従って実装されている。
 
 ```
