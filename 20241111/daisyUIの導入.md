@@ -4,7 +4,7 @@
 docker compose exec app yarn add daisyui
 
 # tailwind.config.jsの編集
-
+o
 ```
 module.exports = {
   content: [
