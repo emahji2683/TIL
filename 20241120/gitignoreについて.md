@@ -26,4 +26,9 @@ Gitのリモートリポジトリにあるブランチの状態をローカル�
 ./gitignoreファイルに〇〇の対象とするファイルを表す文字列を記載する。
 
 
-[gitignore を正しく理解したい](https://kmyk.github.io/blog/blog/2020/11/08/man-gitignore/)
+# 参考文献
+- [chatGPTからの回答結果](https://chatgpt.com/c/673dd423-1148-8003-be5b-726b997be6f0)
+- [.gitignore の書き方](https://qiita.com/inabe49/items/16ee3d9d1ce68daa9fff)
+- [3.5 Git のブランチ機能 - リモートブランチ](https://git-scm.com/book/ja/v2/Git-%e3%81%ae%e3%83%96%e3%83%a9%e3%83%b3%e3%83%81%e6%a9%9f%e8%83%bd-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%83%96%e3%83%a9%e3%83%b3%e3%83%81)
+- [git add を取り消す](https://qiita.com/yukure/items/89562e5eb1d03995dc5b)
+- [gitignore を正しく理解したい](https://kmyk.github.io/blog/blog/2020/11/08/man-gitignore/)
