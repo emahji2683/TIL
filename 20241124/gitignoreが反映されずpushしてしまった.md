@@ -2,7 +2,7 @@
 - リモートからのpushの削除
 
 ```
-git reset --hard HEAD^
+git reset --soft HEAD^
 ```
 
 - .gitignoreの修正
