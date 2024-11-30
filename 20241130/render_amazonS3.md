@@ -7,11 +7,19 @@ render, amazonS3で本番環境に画像保存機能を実装する。
 - [AWSのS3で本番環境の画像を保存する①AWSの設定](https://qiita.com/joinus_ibuki/items/050816c83234837167bc)
 ※記事が古い？
 
+### IAMユーザーの作成
+[IAMユーザーでAmazon S3にアクセスするために必要な設定](https://www.jpcyber.com/support/create-iam-user-and-iam-policy)
+
+### Active Storageによるデプロイ
+
+[RailsActive Storageの画像をAWS S3へ保存する](https://qiita.com/libra_lt/items/284b2723eaae26c5a39b)
+
 
 - [AWSのS3で本番環境でも画像を保存できるようにしよう。【vol1】](https://qiita.com/iijima-naoya-45b/items/0bdf75bde960787c9c04)
 
 ## 手順のまとめ
 - amazonS3の登録・設定
+  - IAMユーザーの作成 
   - amazonS3のバケットの作成
   - バケットポリシーの作成
 - config/environments/production.rb
@@ -26,7 +34,7 @@ render, amazonS3で本番環境に画像保存機能を実装する。
 #### 手順
 - AWS Policy Generatorによりポリシーを作成する
 - [ポリシージェネレーター](https://awspolicygen.s3.amazonaws.com/policygen.html)
-  - 
+- [AWS のポリシーを楽に作成する方法（ポリシージェネレーター）](https://qiita.com/libra_lt/items/284b2723eaae26c5a39b) 
 
 ## 結果
 ## 課題
