@@ -6,3 +6,7 @@
 - shift + a で行末に複数行入力可能な挿入モードに移行できます。
 
 https://blog.junpeko.com/blogs/vim_start_end_insert
+
+#vim_table_plugin
+以下のサイトでプラグインを自由に作成できそう。
+- [Markdownの表を整形するVim Plugin](https://usagikeri.net/posts/vim-prettier/)
