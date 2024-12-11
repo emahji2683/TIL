@@ -15,6 +15,8 @@
 - [x] routeの定義
 - [x] ビューの作成
 - [ ] 料金体系調べる
+- [ ] プロンプトの改良
+- [ ] フッターページからのリンクボタン
 
 # 実装方法詳細
 [OpenAI公式](https://openai.com/index/openai-api/)
