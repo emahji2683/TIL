@@ -9,4 +9,3 @@
 ## 文献調査
 [マーカー（従来版](https://developers.google.com/maps/documentation/javascript/markers?hl=ja)
 
-
