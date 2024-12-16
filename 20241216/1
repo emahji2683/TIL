@@ -1,0 +1,9 @@
+
+require 'net/http'
+require 'uri'
+
+params = {"a": "ワニ", "b": "ひつじ", "c": "へび"}
+encoded_uri = URI.encode_www_form(params)
+puts encoded_uri
+encoded_uri.query = {"a": "なし", "b": "なし", "c": "なし"}
+puts encoded_uri
