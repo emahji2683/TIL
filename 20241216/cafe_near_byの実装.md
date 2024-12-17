@@ -65,3 +65,6 @@ end
 
 # 課題
 
+# 参考資料
+- [chatGPT](https://chatgpt.com/share/67611a9f-5f5c-8003-bc2f-96102cb5752a)
+
