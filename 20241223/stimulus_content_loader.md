@@ -79,3 +79,6 @@ end
 
 # 実装結果
 基本的には上記と同じ実装を行なった。
+
+# 参考資料
+[公式Doc](https://www.stimulus-components.com/docs/stimulus-content-loader)
