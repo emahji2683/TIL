@@ -1,0 +1,1 @@
+- [日次のメモファイル作成処理をシェルスクリプトで自動化する](https://learningbox.co.jp/2021/01/22/blog_automate-daily-memo-creation-process/)
