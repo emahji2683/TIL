@@ -25,6 +25,7 @@ stimulusのコンポーネントにより、実装してみた。
 # 具体のコード
 <details>
 <summary>コード一覧</summary>
+
 >terminal
 ```
 yarn add @stimulus-components/chartjs
@@ -94,6 +95,7 @@ application.register("chart", Chart);
   end
 ```
 </details>
+
 # 結果
 実装でき、実際に稼働している状況が確認された。
 
