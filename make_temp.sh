@@ -3,10 +3,10 @@
 cd -- "${0%/*}"
 script_dir="$(pwd)"
 
-memo_dir="${script_dir}/memo" # input your memo directory
-mkdir -p "${memo_dir}"
-today="$(date +%Y-%m-%d)"
-file="${memo_dir}/${today}.md"
+today="$(date +%Y%m%d)"
+memo_dir="${script_dir}/${today}" # input your memo directory
+read file_name
+file="${memo_dir}/${file_name}.md"
 if [ ! -f "${file}" ]; then
   template="${script_dir}/template"
   if [ -f "${template}" ]; then
