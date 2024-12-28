@@ -15,3 +15,5 @@ if [ ! -f "${file}" ]; then
     touch "${file}"
   fi
 fi
+
+vim ${file}
