@@ -46,6 +46,19 @@ bin/rails assets:clobber
 bin/rails assets:precompile
 docker compose restart
 ```
+## 対応方針
+- bin/devに上記のコマンドを追記することによって、自動でclobber, precompileできるようにした。
+
+<details>
+
+<summary>コード一覧</summary>
+```
+```
+
+</details>
+
+
+
 # 参考文献
 
 [chatGPTからの回答](https://chatgpt.com/share/676924b2-e5c4-8003-9091-f732c7f45a0e)

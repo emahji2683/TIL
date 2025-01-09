@@ -13,7 +13,7 @@
   }
 ```
 
-## :address
+# :address
 
 >:address: リモートのメールサーバーを指定します。デフォルトの"localhost"設定から変更します。
 
