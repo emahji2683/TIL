@@ -36,7 +36,7 @@
 yarn add @stimulus-components/content-loader 
 ```
 
-> app/javascript/controllers/index.js
+ app/javascript/controllers/application.js
 ```
 import { Application } from '@hotwired/stimulus'
 import ContentLoader from '@stimulus-components/content-loader'
