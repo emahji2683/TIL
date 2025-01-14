@@ -1,0 +1,101 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  /* このなかにダークモード時のスタイルを記述します */
+  body {
+    background-color: #333;
+    width: 1400px;
+  }
+
+  h1, h2, h3, p, li {
+    color: #ddd;
+  }
+}
+
+.red {
+  color: red;
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+  margin: auto;
+  display: block;
+  border: 3px solid; 
+}
+
+h1 {
+  border-left: 15px solid #00A968;
+  padding-left: 10px;
+  border-bottom: 3px solid #00A968;
+  margin-bottom: 4px;
+  margin-top: 32px;
+}
+
+h2 {
+  border-left: 10px solid #3454b4;
+  border-bottom: 3px solid #3454b4;
+  padding-left: 15px;
+  margin-top: 32px;
+}
+
+h3 {
+  border-left: 5px solid #3454b4;
+  padding-left: 20px;
+  margin-top: 32px;
+}
+
+p {
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+table {
+  border-collapse: collapse; /* セルの境界を結合 */
+  font-size: 16px;
+  width: 100%; /* テーブルの幅 */
+  border: 1px solid #ddd; /* テーブル全体の枠線 */
+}
+
+table th, table td {
+  border: 1px solid #ddd; /* セルごとの枠線 */
+  text-align: center;
+}
+
+thead tr {
+  background-color: #009879; /* ヘッダーの背景色 */
+  color: #ffffff; /* ヘッダーの文字色 */
+  font-weight: bold;
+}
+
+
+tbody tr {
+  background-color: #f3f3f3; /* 奇数行の背景色 */
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: #ffffff; /* 偶数行の背景色 */
+}
+
+
+a {
+  text-decoration: none; /* 下線を消す */
+  color: #007BFF; /* 通常時のリンクの色 */
+  font-size: 16px;
+  font-weight: bold; /* 太字にする */
+  transition: color 0.3s ease, text-decoration 0.3s ease; /* スムーズな効果 */
+}
+
+a:hover {
+  color: #0056b3; /* ホバー時のリンクの色 */
+  text-decoration: underline; /* ホバー時に下線を追加 */
+}
+
+a:active {
+  color: #003d80; /* クリック時のリンクの色 */
+}
+
