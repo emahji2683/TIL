@@ -36,3 +36,9 @@ To github.com:emahji2683/TIL.git
  * [new branch]      2025-01-26 -> 2025-01-26
 ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
 fatal: a branch named '2025-01-26' already exists
+[2025-01-26 8b71870] 2025-01-26
+ 1 file changed, 22 insertions(+)
+To github.com:emahji2683/TIL.git
+   4c75f92..8b71870  2025-01-26 -> 2025-01-26
+ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
+fatal: a branch named '2025-01-26' already exists

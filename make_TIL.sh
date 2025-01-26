@@ -1,8 +1,7 @@
 
 #!/bin/bash
-
 # スクリプトのパスを指定
-SCRIPT_PATH="/Users/a81906/TIL/git_submit.sh"
+SCRIPT_PATH="/Users/a81906/TIL/make_TIL.sh"
 WORK_DIR="/Users/a81906/TIL/"
 
 # 作業ディレクトリに移動
