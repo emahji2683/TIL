@@ -1,0 +1,44 @@
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
+Switched to a new branch '2025-01-26'
+[2025-01-26 4c75f92] 2025-01-26
+ 17 files changed, 347 insertions(+), 9 deletions(-)
+ create mode 100644 20250124/.md
+ create mode 100644 20250124/1
+ create mode 100644 20250124/appendChild.html
+ create mode 100644 20250124/blob_javascript.md
+ create mode 100644 20250124/blob_practice.js
+ create mode 100644 20250124/javascript_blob.md
+ create mode 100644 20250126/N+1.md
+ create mode 100644 "20250126/tailwind\343\201\256\347\222\260\345\242\203\346\247\213\347\257\211.md"
+ create mode 100644 "20250126/\343\202\255\343\203\243\343\203\203\343\202\267\343\203\245\343\202\271\343\203\210\343\202\242.md"
+ create mode 100644 "20250126/\343\203\206\343\203\274\343\203\226\343\203\253\347\265\220\345\220\210.md"
+ create mode 100644 cron_test.log
+ create mode 100644 render_deploy.md
+remote: 
+remote: Create a pull request for '2025-01-26' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-01-26        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-01-26 -> 2025-01-26
+ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
+fatal: a branch named '2025-01-26' already exists
+[2025-01-26 8b71870] 2025-01-26
+ 1 file changed, 22 insertions(+)
+To github.com:emahji2683/TIL.git
+   4c75f92..8b71870  2025-01-26 -> 2025-01-26
+ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
+fatal: a branch named '2025-01-26' already exists

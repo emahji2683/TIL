@@ -1,5 +1,10 @@
 
 #!/bin/bash
+SCRIPT_PATH="/Users/a81906/TIL/git_submit.sh"
+WORK_DIR="/Users/a81906/TIL/"
+
+# 作業ディレクトリに移動
+cd "$WORK_DIR" || { echo "作業ディレクトリへの移動に失敗しました。"; exit 1; }
 
 # 今日の日付を取得（YYYY-MM-DD形式）
 DATE=$(date +%Y-%m-%d)
