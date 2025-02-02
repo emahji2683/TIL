@@ -1,4 +1,3 @@
-
 #!/bin/bash
 SCRIPT_PATH="/Users/a81906/TIL/git_submit.sh"
 WORK_DIR="/Users/a81906/TIL/"
@@ -22,10 +21,16 @@ git add .
 COMMIT_MESSAGE="Add learning records for $DATE"
 
 # 変更をコミット
-git commit -m $BRANCH_NAME
+git commit -m "$COMMIT_MESSAGE"
 
 # リモートリポジトリにプッシュ
 git push origin $BRANCH_NAME
 
+# GitHubでプルリクエストを作成
+gh pr create --base main --head $BRANCH_NAME --title "Add learning records for $DATE" --body "This PR adds learning records for $DATE."
+
+# プルリクエストをマージ
+gh pr merge --auto --merge
+
 # 成功メッセージを表示
-echo "ブランチ '$BRANCH_NAME' を作成し、変更をコミットしてプッシュしました。"
+echo "ブランチ '$BRANCH_NAME' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。"
