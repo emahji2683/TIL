@@ -59,3 +59,28 @@ To github.com:emahji2683/TIL.git
  * [new branch]      2025-01-27 -> 2025-01-27
 ブランチ '2025-01-27' を作成し、変更をコミットしてプッシュしました。
 Switched to a new branch '2025-02-02'
+[2025-02-02 fc8c81a] 2025-02-02
+ 16 files changed, 616 insertions(+)
+ create mode 100644 1
+ create mode 100644 20250113/Rspec.mdOD
+ create mode 100644 20250127/cd
+ create mode 100644 "20250129/OGP_twitter\346\212\225\347\250\277.md"
+ create mode 100644 "20250129/sample\347\224\273\345\203\217\343\201\256\344\277\256\346\255\243.md"
+ create mode 100644 "20250129/\343\201\212\345\225\217\343\201\204\345\220\210\343\202\217\343\201\233\343\203\225\343\202\251\343\203\274\343\203\240\343\201\256\344\277\256\346\255\243.md"
+ create mode 100644 "20250129/\343\203\220\343\203\252\343\203\207\343\203\274\343\202\267\343\203\247\343\203\263\343\201\256\345\256\237\350\243\205_review.md"
+ create mode 100644 "20250129/\343\203\254\343\203\223\343\203\245\343\203\274\350\251\263\347\264\260\343\201\256\350\241\250\347\244\272.md"
+ create mode 100644 20250130/1
+ create mode 100644 20250130/has_belong_to.md
+ create mode 100644 "20250131/GithubActions\343\201\250\343\201\257.md"
+ create mode 100644 20250131/RspecV02.md
+ create mode 100644 20250131/form_with.md
+ create mode 100644 20250131/popup.html
+ create mode 100644 cron_test_makeTIL.log
+remote: 
+remote: Create a pull request for '2025-02-02' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-02-02        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-02-02 -> 2025-02-02
+ブランチ '2025-02-02' を作成し、変更をコミットしてプッシュしました。
+fatal: a branch named '2025-02-02' already exists
