@@ -90,3 +90,4 @@ fatal: a branch named '2025-02-02' already exists
 To github.com:emahji2683/TIL.git
    fc8c81a..9ffb8ac  2025-02-02 -> 2025-02-02
 ブランチ '2025-02-02' を作成し、変更をコミットしてプッシュしました。
+fatal: a branch named '2025-02-03' already exists
