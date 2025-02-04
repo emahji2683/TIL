@@ -103,3 +103,15 @@ To github.com:emahji2683/TIL.git
 /Users/a81906/TIL/git_submit.sh: line 33: gh: command not found
 ブランチ '2025-02-03' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
 Switched to a new branch '2025-02-04'
+[2025-02-04 7c2a88b] Add learning records for 2025-02-04
+ 4 files changed, 20 insertions(+)
+ delete mode 100644 80_photo_mordal_review
+remote: 
+remote: Create a pull request for '2025-02-04' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-02-04        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-02-04 -> 2025-02-04
+/Users/a81906/TIL/git_submit.sh: line 30: gh: command not found
+/Users/a81906/TIL/git_submit.sh: line 33: gh: command not found
+ブランチ '2025-02-04' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
