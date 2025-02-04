@@ -90,3 +90,28 @@ fatal: a branch named '2025-02-02' already exists
 To github.com:emahji2683/TIL.git
    fc8c81a..9ffb8ac  2025-02-02 -> 2025-02-02
 ブランチ '2025-02-02' を作成し、変更をコミットしてプッシュしました。
+fatal: a branch named '2025-02-03' already exists
+[2025-02-03 e49db4a] Add learning records for 2025-02-03
+ 6 files changed, 127 insertions(+)
+ create mode 100644 "20250203/\351\203\275\351\201\223\345\272\234\347\234\214\343\202\253\343\203\206\343\202\264\343\203\252\343\203\274\343\201\256\350\277\275\345\212\240.md"
+ create mode 100644 "20250203/\351\203\275\351\201\223\345\272\234\347\234\214\343\203\207\343\203\274\343\202\277\343\201\253\343\202\210\343\202\213\346\244\234\347\264\242.md"
+ create mode 100644 80_photo_mordal_review
+ create mode 100644 cron_test_studyapp.log
+To github.com:emahji2683/TIL.git
+   5b62e76..e49db4a  2025-02-03 -> 2025-02-03
+/Users/a81906/TIL/git_submit.sh: line 30: gh: command not found
+/Users/a81906/TIL/git_submit.sh: line 33: gh: command not found
+ブランチ '2025-02-03' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-02-04'
+[2025-02-04 7c2a88b] Add learning records for 2025-02-04
+ 4 files changed, 20 insertions(+)
+ delete mode 100644 80_photo_mordal_review
+remote: 
+remote: Create a pull request for '2025-02-04' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-02-04        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-02-04 -> 2025-02-04
+/Users/a81906/TIL/git_submit.sh: line 30: gh: command not found
+/Users/a81906/TIL/git_submit.sh: line 33: gh: command not found
+ブランチ '2025-02-04' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
