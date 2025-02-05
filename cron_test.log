@@ -115,3 +115,4 @@ To github.com:emahji2683/TIL.git
 /Users/a81906/TIL/git_submit.sh: line 30: gh: command not found
 /Users/a81906/TIL/git_submit.sh: line 33: gh: command not found
 ブランチ '2025-02-04' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+fatal: a branch named '2025-02-05' already exists
