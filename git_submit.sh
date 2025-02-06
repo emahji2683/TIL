@@ -3,8 +3,6 @@
 SCRIPT_PATH="/Users/a81906/TIL/git_submit.sh"
 WORK_DIR="/Users/a81906/TIL/"
 
-echo "$GH_TOKEN" | gh auth login --with-token
-
 # 作業ディレクトリに移動
 cd "$WORK_DIR" || { echo "作業ディレクトリへの移動に失敗しました。"; exit 1; }
 
