@@ -115,3 +115,13 @@ To github.com:emahji2683/TIL.git
 /Users/a81906/TIL/git_submit.sh: line 30: gh: command not found
 /Users/a81906/TIL/git_submit.sh: line 33: gh: command not found
 ブランチ '2025-02-04' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+fatal: a branch named '2025-02-05' already exists
+[2025-02-05 5b3e201] Add learning records for 2025-02-05
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+To github.com:emahji2683/TIL.git
+   4bbed05..5b3e201  2025-02-05 -> 2025-02-05
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-02-05' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+fatal: a branch named '2025-02-05' already exists
