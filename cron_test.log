@@ -1,141 +1,39 @@
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
-Switched to a new branch '2025-01-26'
-[2025-01-26 4c75f92] 2025-01-26
- 17 files changed, 347 insertions(+), 9 deletions(-)
- create mode 100644 20250124/.md
- create mode 100644 20250124/1
- create mode 100644 20250124/appendChild.html
- create mode 100644 20250124/blob_javascript.md
- create mode 100644 20250124/blob_practice.js
- create mode 100644 20250124/javascript_blob.md
- create mode 100644 20250126/N+1.md
- create mode 100644 "20250126/tailwind\343\201\256\347\222\260\345\242\203\346\247\213\347\257\211.md"
- create mode 100644 "20250126/\343\202\255\343\203\243\343\203\203\343\202\267\343\203\245\343\202\271\343\203\210\343\202\242.md"
- create mode 100644 "20250126/\343\203\206\343\203\274\343\203\226\343\203\253\347\265\220\345\220\210.md"
- create mode 100644 cron_test.log
- create mode 100644 render_deploy.md
-remote: 
-remote: Create a pull request for '2025-01-26' on GitHub by visiting:        
-remote:      https://github.com/emahji2683/TIL/pull/new/2025-01-26        
-remote: 
-To github.com:emahji2683/TIL.git
- * [new branch]      2025-01-26 -> 2025-01-26
-ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
-fatal: a branch named '2025-01-26' already exists
-[2025-01-26 8b71870] 2025-01-26
- 1 file changed, 22 insertions(+)
-To github.com:emahji2683/TIL.git
-   4c75f92..8b71870  2025-01-26 -> 2025-01-26
-ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
-fatal: a branch named '2025-01-26' already exists
-[2025-01-26 aa2f444] 2025-01-26
- 2 files changed, 7 insertions(+), 2 deletions(-)
-To github.com:emahji2683/TIL.git
-   8b71870..aa2f444  2025-01-26 -> 2025-01-26
-ブランチ '2025-01-26' を作成し、変更をコミットしてプッシュしました。
-Switched to a new branch '2025-01-27'
-[2025-01-27 279b34f] 2025-01-27
- 2 files changed, 23 insertions(+)
- create mode 100644 "20250127/\343\203\225\343\202\251\343\203\274\343\203\240\343\203\207\343\202\266\343\202\244\343\203\263\343\201\256\344\277\256\346\255\243.md"
-remote: 
-remote: Create a pull request for '2025-01-27' on GitHub by visiting:        
-remote:      https://github.com/emahji2683/TIL/pull/new/2025-01-27        
-remote: 
-To github.com:emahji2683/TIL.git
- * [new branch]      2025-01-27 -> 2025-01-27
-ブランチ '2025-01-27' を作成し、変更をコミットしてプッシュしました。
-Switched to a new branch '2025-02-02'
-[2025-02-02 fc8c81a] 2025-02-02
- 16 files changed, 616 insertions(+)
- create mode 100644 1
- create mode 100644 20250113/Rspec.mdOD
- create mode 100644 20250127/cd
- create mode 100644 "20250129/OGP_twitter\346\212\225\347\250\277.md"
- create mode 100644 "20250129/sample\347\224\273\345\203\217\343\201\256\344\277\256\346\255\243.md"
- create mode 100644 "20250129/\343\201\212\345\225\217\343\201\204\345\220\210\343\202\217\343\201\233\343\203\225\343\202\251\343\203\274\343\203\240\343\201\256\344\277\256\346\255\243.md"
- create mode 100644 "20250129/\343\203\220\343\203\252\343\203\207\343\203\274\343\202\267\343\203\247\343\203\263\343\201\256\345\256\237\350\243\205_review.md"
- create mode 100644 "20250129/\343\203\254\343\203\223\343\203\245\343\203\274\350\251\263\347\264\260\343\201\256\350\241\250\347\244\272.md"
- create mode 100644 20250130/1
- create mode 100644 20250130/has_belong_to.md
- create mode 100644 "20250131/GithubActions\343\201\250\343\201\257.md"
- create mode 100644 20250131/RspecV02.md
- create mode 100644 20250131/form_with.md
- create mode 100644 20250131/popup.html
- create mode 100644 cron_test_makeTIL.log
-remote: 
-remote: Create a pull request for '2025-02-02' on GitHub by visiting:        
-remote:      https://github.com/emahji2683/TIL/pull/new/2025-02-02        
-remote: 
-To github.com:emahji2683/TIL.git
- * [new branch]      2025-02-02 -> 2025-02-02
-ブランチ '2025-02-02' を作成し、変更をコミットしてプッシュしました。
-fatal: a branch named '2025-02-02' already exists
-[2025-02-02 9ffb8ac] 2025-02-02
- 3 files changed, 280 insertions(+)
- create mode 100644 "20250202/\343\202\265\343\203\226\345\206\231\347\234\237\343\201\256\347\231\273\351\214\262.md"
-To github.com:emahji2683/TIL.git
-   fc8c81a..9ffb8ac  2025-02-02 -> 2025-02-02
-ブランチ '2025-02-02' を作成し、変更をコミットしてプッシュしました。
-fatal: a branch named '2025-02-03' already exists
-[2025-02-03 e49db4a] Add learning records for 2025-02-03
- 6 files changed, 127 insertions(+)
- create mode 100644 "20250203/\351\203\275\351\201\223\345\272\234\347\234\214\343\202\253\343\203\206\343\202\264\343\203\252\343\203\274\343\201\256\350\277\275\345\212\240.md"
- create mode 100644 "20250203/\351\203\275\351\201\223\345\272\234\347\234\214\343\203\207\343\203\274\343\202\277\343\201\253\343\202\210\343\202\213\346\244\234\347\264\242.md"
- create mode 100644 80_photo_mordal_review
- create mode 100644 cron_test_studyapp.log
-To github.com:emahji2683/TIL.git
-   5b62e76..e49db4a  2025-02-03 -> 2025-02-03
-/Users/a81906/TIL/git_submit.sh: line 30: gh: command not found
-/Users/a81906/TIL/git_submit.sh: line 33: gh: command not found
-ブランチ '2025-02-03' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
-Switched to a new branch '2025-02-04'
-[2025-02-04 7c2a88b] Add learning records for 2025-02-04
- 4 files changed, 20 insertions(+)
- delete mode 100644 80_photo_mordal_review
-remote: 
-remote: Create a pull request for '2025-02-04' on GitHub by visiting:        
-remote:      https://github.com/emahji2683/TIL/pull/new/2025-02-04        
-remote: 
-To github.com:emahji2683/TIL.git
- * [new branch]      2025-02-04 -> 2025-02-04
-/Users/a81906/TIL/git_submit.sh: line 30: gh: command not found
-/Users/a81906/TIL/git_submit.sh: line 33: gh: command not found
-ブランチ '2025-02-04' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
-fatal: a branch named '2025-02-05' already exists
-[2025-02-05 5b3e201] Add learning records for 2025-02-05
- 2 files changed, 3 insertions(+), 2 deletions(-)
-To github.com:emahji2683/TIL.git
-   4bbed05..5b3e201  2025-02-05 -> 2025-02-05
-HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
-Try authenticating with:  gh auth login
-non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
-ブランチ '2025-02-05' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
-fatal: a branch named '2025-02-05' already exists
-[2025-02-05 e7aa2ac] Add learning records for 2025-02-05
- 7 files changed, 188 insertions(+)
- create mode 100644 20250203/1
- create mode 100644 "20250204/\343\202\277\343\203\226\345\220\215\343\201\256\345\213\225\347\232\204\346\233\264\346\226\260.md"
- create mode 100644 20250205/tailwind.md
- create mode 100644 "20250205/\343\202\265\343\203\274\343\203\223\343\202\271\343\202\257\343\203\251\343\202\271.md"
- create mode 100644 "20250205/\350\244\207\346\225\260\346\235\241\344\273\266\346\244\234\347\264\242.md"
-To github.com:emahji2683/TIL.git
-   5b3e201..e7aa2ac  2025-02-05 -> 2025-02-05
-HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
-Try authenticating with:  gh auth login
-non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
-ブランチ '2025-02-05' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
 fatal: a branch named '2025-02-06' already exists
+[2025-02-06 70d9805] Add learning records for 2025-02-06
+ 1 file changed, 186 deletions(-)
+remote: error: GH013: Repository rule violations found for refs/heads/2025-02-06.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: d6c23803fb6f792775853f00f0e67e52c3a8707d        
+remote:            path: git_submit.sh:3        
+remote:          - commit: 38621d8117754804f2685b65e82b3cbd5b1789b5        
+remote:            path: git_submit.sh:3        
+remote:          - commit: d6c23803fb6f792775853f00f0e67e52c3a8707d        
+remote:            path: git_submit.sh:33        
+remote:          - commit: d6c23803fb6f792775853f00f0e67e52c3a8707d        
+remote:            path: git_submit.sh:36        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/emahji2683/TIL/security/secret-scanning/unblock-secret/2sefIp6Hd7R98aSCHXANolA176j        
+remote:             
+remote: 
+remote: 
+To github.com:emahji2683/TIL.git
+ ! [remote rejected] 2025-02-06 -> 2025-02-06 (push declined due to repository rule violations)
+error: failed to push some refs to 'github.com:emahji2683/TIL.git'
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-02-06' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。

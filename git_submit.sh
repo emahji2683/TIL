@@ -1,4 +1,5 @@
 #!/bin/bash
+
 SCRIPT_PATH="/Users/a81906/TIL/git_submit.sh"
 WORK_DIR="/Users/a81906/TIL/"
 
