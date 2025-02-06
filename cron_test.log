@@ -1,1 +1,39 @@
 fatal: a branch named '2025-02-06' already exists
+[2025-02-06 70d9805] Add learning records for 2025-02-06
+ 1 file changed, 186 deletions(-)
+remote: error: GH013: Repository rule violations found for refs/heads/2025-02-06.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: d6c23803fb6f792775853f00f0e67e52c3a8707d        
+remote:            path: git_submit.sh:3        
+remote:          - commit: 38621d8117754804f2685b65e82b3cbd5b1789b5        
+remote:            path: git_submit.sh:3        
+remote:          - commit: d6c23803fb6f792775853f00f0e67e52c3a8707d        
+remote:            path: git_submit.sh:33        
+remote:          - commit: d6c23803fb6f792775853f00f0e67e52c3a8707d        
+remote:            path: git_submit.sh:36        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/emahji2683/TIL/security/secret-scanning/unblock-secret/2sefIp6Hd7R98aSCHXANolA176j        
+remote:             
+remote: 
+remote: 
+To github.com:emahji2683/TIL.git
+ ! [remote rejected] 2025-02-06 -> 2025-02-06 (push declined due to repository rule violations)
+error: failed to push some refs to 'github.com:emahji2683/TIL.git'
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-02-06' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
