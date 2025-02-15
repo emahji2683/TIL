@@ -1108,3 +1108,12 @@ error connecting to api.github.com
 check your internet connection or https://githubstatus.com
 ブランチ '2025-02-11' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
 fatal: a branch named '2025-02-13' already exists
+[2025-02-13 8b652c8] Add learning records for 2025-02-13
+ 2 files changed, 5 insertions(+)
+To github.com:emahji2683/TIL.git
+   3e945d1..8b652c8  2025-02-13 -> 2025-02-13
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-02-13' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-02-15'
