@@ -16,8 +16,20 @@
   }
 }
 
+.gray-text {
+  color: #808080;
+}
+
+.yellow {
+  background-color: #D0A900;
+}
+
+.blue {
+  color: #223670;
+}
+
 .red {
-  color: red;
+  color: #862040;
 }
 
 img {
