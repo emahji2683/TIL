@@ -1148,3 +1148,21 @@ Try authenticating with:  gh auth login
 non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
 ブランチ '2025-02-16' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
 Switched to a new branch '2025-02-18'
+[2025-02-18 5b4ad61] Add learning records for 2025-02-18
+ 13 files changed, 139 insertions(+), 13 deletions(-)
+ create mode 100755 "20250212/20250213\346\233\264\346\226\260/\345\220\204\347\276\216\350\241\223\351\244\250\345\205\254\345\274\217\343\203\232\343\203\274\343\202\270\345\217\216\351\233\206/open_urls.sh"
+ create mode 100644 "20250216/museum\347\224\273\351\235\242\344\277\256\346\255\243.md"
+ create mode 100644 "20250217/\343\202\267\343\203\263\343\203\234\343\203\252\343\203\203\343\202\257\343\203\252\343\203\263\343\202\257\343\201\253\343\201\244\343\201\204\343\201\246.md"
+ create mode 100644 "20250218/\346\235\241\344\273\266\346\274\224\347\256\227\345\255\220.md"
+ create mode 120000 Markdown.css
+ create mode 120000 skraping_datas
+remote: 
+remote: Create a pull request for '2025-02-18' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-02-18        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-02-18 -> 2025-02-18
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-02-18' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
