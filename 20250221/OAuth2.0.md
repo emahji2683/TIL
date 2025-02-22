@@ -48,3 +48,8 @@ Userモデルに、googleで認証を行うことを明示する。
 - [【Rails7】Multi Environment Credentialsで秘匿情報を管理する方法 #Ruby - Qiita](https://qiita.com/joinus_ibuki/items/3a0d264abe510bfdd98a)
 - [エンドユーザとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word12311.html)
 - [[Rails]deviseとomniauthによるgoogleログイン](https://zenn.dev/redheadchloe/articles/81dec8a2ba5e4a)
+- [たった30分でわかるcredentials.yml.enc[rails5.2] - 環境変数を定義する使い方 - #Ruby - Qiita](https://qiita.com/gyu_outputs/items/92c4a2a2f96edb10e298)
+- [クライアント – Google Auth Platform – 20240929-grdu-runteq – Google Cloud コンソール](https://console.cloud.google.com/auth/clients?highlightClient=1048194879253-c2n4lirp2v8qofobhq057jli3d86vocq.apps.googleusercontent.com&authuser=1&hl=ja&inv=1&invt=AbqOlQ&project=grdurunteq)
+- [Rails 7 × Googleログイン – omniauth-google-oauth2で簡単OAuth認証](https://zenn.dev/shunjuio/articles/b9ffb6565b7409)
+- [[Rails]deviseとomniauthによるgoogleログイン](https://zenn.dev/redheadchloe/articles/81dec8a2ba5e4a)
+- [Ruby on RailsでOmniAuthを用いてgoogleとgithubの認証やり方完全入門(初心者向け) #API - Qiita](https://qiita.com/nekoharuki/items/6f8f254b1944c4588023)
