@@ -1,0 +1,9 @@
+公開メソッド
+プライベートメソッド
+公開メソッド
+プライベートメソッド
+private.rb:16:in `<main>': private method `pri_meth' called for #<Example:0x0000000104d86508> (NoMethodError)
+
+ex.pri_meth
+  ^^^^^^^^^
+Did you mean?  pub_meth
