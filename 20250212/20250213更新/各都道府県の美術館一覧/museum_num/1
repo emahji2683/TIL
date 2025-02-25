@@ -1,0 +1,19 @@
+require 'gruff'
+require 'csv'
+
+label_m = []
+data_m = []
+CSV.read('muesum_number_pref.csv', headers: false) do |line|
+ label_m << line[0] 
+ data_m << line[1]
+end
+
+p label_m
+p data_m
+
+g = Gruff::Bar.new
+g.title = 'Wow!  Look at this!'
+g.labels = label_m
+g.data :todouhu, data_m
+g.write('exciting.png')
+
