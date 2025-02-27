@@ -1239,3 +1239,24 @@ Try authenticating with:  gh auth login
 non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
 ブランチ '2025-02-25' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
 Switched to a new branch '2025-02-26'
+[2025-02-26 670c04f] Add learning records for 2025-02-26
+ 13 files changed, 224 insertions(+), 40 deletions(-)
+ delete mode 100644 "20250212/20250213\346\233\264\346\226\260/\345\220\204\351\203\275\351\201\223\345\272\234\347\234\214\343\201\256\347\276\216\350\241\223\351\244\250\344\270\200\350\246\247/museum_num/1"
+ create mode 100644 "20250212/20250213\346\233\264\346\226\260/\345\220\204\351\203\275\351\201\223\345\272\234\347\234\214\343\201\256\347\276\216\350\241\223\351\244\250\344\270\200\350\246\247/pages/1"
+ delete mode 100644 20250224/1
+ create mode 100644 "20250224/\343\203\232\343\203\274\343\202\270\343\203\251\343\203\263\343\202\257."
+ create mode 100644 20250226/CSV_open.md
+ create mode 100644 20250226/CSV_parse.
+ create mode 100644 20250226/CSV_parse.md
+ create mode 100644 20250226/test/prompts.md
+ create mode 100644 "20250226/\343\203\207\343\203\274\343\202\277\344\277\256\346\255\243.md"
+remote: 
+remote: Create a pull request for '2025-02-26' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-02-26        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-02-26 -> 2025-02-26
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-02-26' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。

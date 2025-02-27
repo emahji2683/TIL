@@ -68,7 +68,7 @@ p {
 
 table {
   border-collapse: collapse; /* セルの境界を結合 */
-  font-size: 16px;
+  font-size: 12px;
   width: 100%; /* テーブルの幅 */
   border: 1px solid #ddd; /* テーブル全体の枠線 */
 }
