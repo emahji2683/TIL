@@ -5,3 +5,6 @@ SET area = CASE
   WHEN area = '京都' THEN '京都府'
   ELSE area || '県'
 END;
+
+UPDATE museums
+SET website_url = NULL;

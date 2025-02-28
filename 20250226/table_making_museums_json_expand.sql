@@ -1,4 +1,4 @@
-CREATE TABLE museums (
+CREATE TABLE museums_json_expand (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255),
     location VARCHAR(255),
