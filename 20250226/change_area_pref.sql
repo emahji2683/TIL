@@ -1,4 +1,4 @@
-UPDATE museums
+UPDATE :table_name
 SET area = CASE 
   WHEN area = '東京' THEN '東京都'
   WHEN area = '大阪' THEN '大阪府'
@@ -6,5 +6,5 @@ SET area = CASE
   ELSE area || '県'
 END;
 
-UPDATE museums
+UPDATE :table_name
 SET website_url = NULL;

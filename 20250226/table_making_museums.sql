@@ -1,4 +1,4 @@
-CREATE TABLE museums (
+CREATE TABLE :table_name (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255),
     location VARCHAR(255),
@@ -9,6 +9,6 @@ CREATE TABLE museums (
     area VARCHAR(100)
 );
 
-COPY museums(name, location, business_hours, admission_fees, website_url, phone_number, area)
-FROM '/Users/a81906/TIL/20250226/test/16museum_each_page_千葉.csv'
+COPY :table_name (name, location, business_hours, admission_fees, website_url, phone_number, area)
+FROM :file_name
 WITH CSV HEADER;
