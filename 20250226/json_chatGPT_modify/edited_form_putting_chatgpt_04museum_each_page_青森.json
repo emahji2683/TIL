@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "青森県立美術館",
+    "location": "青森県青森市安田字近野185",
+    "business_hours": "9:30~17:00(入館は16:30まで)",
+    "admission_fees": "【一般】510円【大学生・高校生】300円【中学生・小学生】100円",
+    "website_url": null,
+    "phone_number": "017-783-3000",
+    "area": "青森県"
+  },
+  {
+    "id": 2,
+    "name": "十和田市現代美術館",
+    "location": "青森県十和田市西二番町10-9",
+    "business_hours": "9:00~17:00(入館は16:30まで)",
+    "admission_fees": "大人：お得なセット券1000円（特別展＋常設展）特別展600円常設展510円高校生以下：無料",
+    "website_url": null,
+    "phone_number": "0176-20-1127",
+    "area": "青森県"
+  },
+  {
+    "id": 3,
+    "name": "鷹山宇一記念美術館",
+    "location": "青森県上北郡七戸町字荒熊内67-94",
+    "business_hours": "10:00~18:00(入館は17:30迄)",
+    "admission_fees": "【入館料】一般：500円高大生：300円小中生：100円※特別展は別料金設定有",
+    "website_url": null,
+    "phone_number": "0176-62-5858",
+    "area": "青森県"
+  },
+  {
+    "id": 4,
+    "name": "弘前れんが倉庫美術館",
+    "location": "青森県弘前市吉野町2-1",
+    "business_hours": "9:00~17:00",
+    "admission_fees": "一般：1,300円学生：1,000円高校生以下無料※展覧会により観覧料が異なります。",
+    "website_url": null,
+    "phone_number": "0172-32-8950",
+    "area": "青森県"
+  },
+  {
+    "id": 5,
+    "name": "八戸市美術館",
+    "location": "青森県八戸市大字番町10-4",
+    "business_hours": "9:00~17:00(受付は閉館の30分前まで)",
+    "admission_fees": "一般150円大・高校生100円中・小学生50円市内の中・小学生は無料市内65歳以上、障碍者手帳をお持ちの場合は半額",
+    "website_url": null,
+    "phone_number": "0178-45-8338",
+    "area": "青森県"
+  },
+  {
+    "id": 6,
+    "name": "帆風美術館",
+    "location": "青森県八戸市北インター工業団地1-5-2",
+    "business_hours": "10:00~16:00(入館は15:30まで)",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0178-21-1311",
+    "area": "青森県"
+  }
+]
