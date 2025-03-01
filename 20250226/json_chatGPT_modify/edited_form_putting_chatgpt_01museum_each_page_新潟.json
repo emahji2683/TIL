@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "万代島美術館",
+    "location": "新潟県新潟市中央区万代島5-1",
+    "business_hours": "10:00~18:00",
+    "admission_fees": "一般:310円 大学生・高校生:150円 中学生以下:無料",
+    "website_url": null,
+    "phone_number": "025-290-6655",
+    "area": "新潟県"
+  },
+  {
+    "id": 2,
+    "name": "新潟市美術館",
+    "location": "新潟県新潟市中央区西大畑町5191-9",
+    "business_hours": "09:30~18:00",
+    "admission_fees": "一般200円/大高生150円/中小生100円",
+    "website_url": null,
+    "phone_number": "025-223-1622",
+    "area": "新潟県"
+  },
+  {
+    "id": 3,
+    "name": "新潟市新津美術館",
+    "location": "新潟県新潟市秋葉区蒲ヶ沢109-1",
+    "business_hours": "10:00~17:00",
+    "admission_fees": "展覧会によって異なります。",
+    "website_url": null,
+    "phone_number": "0250-25-1300",
+    "area": "新潟県"
+  },
+  {
+    "id": 4,
+    "name": "新潟県立近代美術館",
+    "location": "新潟県長岡市千秋3丁目278-14",
+    "business_hours": "09:00~17:00",
+    "admission_fees": "一般430円/高校・大学生200円/中学生以下無料 ※特別展の入館料は、お問い合わせください。",
+    "website_url": null,
+    "phone_number": "0258-28-4111",
+    "area": "新潟県"
+  },
+  {
+    "id": 5,
+    "name": "雪梁舎美術館",
+    "location": "新潟県新潟市西区山田451",
+    "business_hours": "09:30~17:00",
+    "admission_fees": "一般500円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "025-377-1888",
+    "area": "新潟県"
+  },
+  {
+    "id": 6,
+    "name": "胎内市美術館",
+    "location": "新潟県胎内市下赤谷387-15",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0254-47-2288",
+    "area": "新潟県"
+  },
+  {
+    "id": 7,
+    "name": "駒形十吉記念美術館",
+    "location": "新潟県長岡市今朝白2丁目1-4",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0258-35-6111",
+    "area": "新潟県"
+  },
+  {
+    "id": 8,
+    "name": "知足美術館",
+    "location": "新潟県新潟市中央区新光町10-2",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "025-281-2001",
+    "area": "新潟県"
+  },
+  {
+    "id": 9,
+    "name": "トミオカホワイト美術館",
+    "location": "新潟県南魚沼市上薬師堂142",
+    "business_hours": "04月~11月 09:00~17:00 12月~03月 10:00~17:00",
+    "admission_fees": "一般500円 小中高生250円",
+    "website_url": null,
+    "phone_number": "025-775-3646",
+    "area": "新潟県"
+  },
+  {
+    "id": 10,
+    "name": "良寛の里美術館",
+    "location": "新潟県長岡市島崎3938",
+    "business_hours": "09:00~17:00",
+    "admission_fees": "大人(高校生以上)…500円 小・中学生…300円 未就学児は無料",
+    "website_url": null,
+    "phone_number": "0258-74-3700",
+    "area": "新潟県"
+  },
+  {
+    "id": 11,
+    "name": "池田記念美術館",
+    "location": "新潟県南魚沼市浦佐5493-3",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "025-780-4080",
+    "area": "新潟県"
+  },
+  {
+    "id": 12,
+    "name": "谷村美術館",
+    "location": "新潟県糸魚川市京ケ峰2丁目1-13",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "025-552-9277",
+    "area": "新潟県"
+  },
+  {
+    "id": 13,
+    "name": "潟東樋口記念美術館",
+    "location": "新潟県新潟市西蒲区三方92",
+    "business_hours": "09:00~16:00",
+    "admission_fees": "一般:500円 小・中学生:300円 身体障害者手帳、療育手帳、精神障がい者保健福祉手帳のお持ちの方:本人は無料、介助者は手帳提示者1名につき1名無料",
+    "website_url": null,
+    "phone_number": "0256-86-3444",
+    "area": "新潟県"
+  },
+  {
+    "id": 14,
+    "name": "長岡市栃尾美術館",
+    "location": "新潟県長岡市上の原町1-13",
+    "business_hours": "09:00~17:00",
+    "admission_fees": "企画展 その都度定めます。・館所蔵品展大人200円 高校・大学生150円 小・中学生100円 幼児無料",
+    "website_url": null,
+    "phone_number": "0258-53-6300",
+    "area": "新潟県"
+  }
+]
