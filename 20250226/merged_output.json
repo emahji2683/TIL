@@ -1,0 +1,5372 @@
+[  
+  {
+    "id": 4,
+    "name": "小樽美術館",
+    "location": "北海道小樽市色内１－９－５",
+    "business_hours": "9：30〜17：00",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0134-34-0035",
+    "area": "北海道県"
+  },
+  {
+    "id": 1,
+    "name": "函館美術館",
+    "location": "北海道函館市五稜郭町３７－６",
+    "business_hours": "9：30〜17：00※入場は16：30まで",
+    "admission_fees": "一般　260円高大生　150円※中学生以下無料",
+    "website_url": null,
+    "phone_number": "0138-56-6311",
+    "area": "北海道県"
+  },
+  {
+    "id": 2,
+    "name": "北海道立近代美術館",
+    "location": "北海道札幌市中央区北１条西１７",
+    "business_hours": "9：30〜17：00",
+    "admission_fees": "常設展　大人510円　高大生250円　※特別展は別途",
+    "website_url": null,
+    "phone_number": "011-644-6881",
+    "area": "北海道県"
+  },
+  {
+    "id": 3,
+    "name": "小樽芸術村",
+    "location": "北海道小樽市色内1丁目3-1　",
+    "business_hours": "美術館の営業時間5月-10月/9:30-17:0011月-4月/10:00-16:00※入場は閉館30分前まで営業時間は変わる可能性あり ミュージアムショップの営業時間5月-10月/9:30-18:00(土曜は20時まで)11月-4月/10:00-16:00 閉館日5月-10月の第四水曜日11月-4月の水曜日（水曜祝日の場合木曜日）年末年始　12/30-1/2展示の準備片付けなどによる不定期の閉館あり ミュージアムショップのみ年中無休",
+    "admission_fees": "4館共通券大人：2900円大学生：2000円高校生：1500円中学生：1000円小学生：500円 西洋美術館大人：1500円大学生：1000円高校生：700円中学生：500円小学生：300円 似鳥美術館大人：1500円大学生：1000円高校生：700円中学生：500円小学生：300円 ステンドグラス美術館大人：1000円大学生：800円高校生：600円中学生：500円小学生：300円 旧三井銀行小樽支店大人：700円大学生：500円高校生：400円中学生：300円小学生：200円 小樽市民の小中学生は無料",
+    "website_url": null,
+    "phone_number": "0134-31-1033",
+    "area": "北海道県"
+  },
+  {
+    "id": 5,
+    "name": "札幌芸術の森美術館",
+    "location": "北海道札幌市南区芸術の森２丁目７５",
+    "business_hours": "午前9時45分〜午後5時6〜8月は午後5時30分まで開館（入館は閉館の30分前まで）",
+    "admission_fees": "展示により異なる 札幌芸術の森野外美術館　大人700円、中学生以下は無料",
+    "website_url": null,
+    "phone_number": "011-591-0090",
+    "area": "北海道県"
+  },
+  {
+    "id": 6,
+    "name": "釧路湿原美術館",
+    "location": "北海道釧路市阿寒町上阿寒２３線３８－１８",
+    "business_hours": "[4〜10月]10：00〜17：00(入場16：30まで)[11〜3月]10：00〜16：00(入場15：30まで)",
+    "admission_fees": "大人500円、高・大学生300円、小・中学生（父母同伴）無料",
+    "website_url": null,
+    "phone_number": "0154-66-1117",
+    "area": "北海道県"
+  },
+  {
+    "id": 7,
+    "name": "木田金次郎美術館",
+    "location": "北海道岩内郡岩内町字万代５１－３",
+    "business_hours": "午前10時から午後6時まで（入館は午後5時30分まで）",
+    "admission_fees": "一般 　     500円   (400円)高校生　     200円   (150円）小・中学生　100円  （80円）（　）は団体料金（10名様以上、JAF割引・リピーター割引）",
+      "website_url": null,
+      "phone_number": "0135-63-2221",
+      "area": "北海道県"
+  },
+  {
+    "id": 8,
+    "name": "旭川美術館",
+    "location": "北海道旭川市常磐公園内",
+    "business_hours": "9:30 〜 17:00　（入場は16:30まで）",
+    "admission_fees": "■ 第1展示室(企画展)展覧会によって異なります。 ■ 第2展示室(所蔵品展)一般　260円高校・大学生　150円65歳以上の方　無料中学生以下　無料",
+    "website_url": null,
+    "phone_number": "0166-25-2577",
+    "area": "北海道県"
+  },
+  {
+    "id": 9,
+    "name": "帯広美術館",
+    "location": "北海道帯広市緑ケ丘２",
+    "business_hours": "9：30〜17：00",
+    "admission_fees": "コレクションギャラリー　一般：260円　高・大学生：150円",
+    "website_url": null,
+    "phone_number": "0155-22-6963",
+    "area": "北海道県"
+  },
+  {
+    "id": 10,
+    "name": "北のアルプ美術館",
+    "location": "北海道斜里郡斜里町朝日町１１－２",
+    "business_hours": "夏期　 6月〜10月　　午前10時から午後5時まで 冬期　11月〜 5月　　午前10時から午後4時まで",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0152-23-4000",
+    "area": "北海道県"
+  },
+  {
+    "id": 11,
+    "name": "神田日勝記念美術館",
+    "location": "北海道河東郡鹿追町東町３丁目２",
+    "business_hours": "10：00〜17：00",
+    "admission_fees": "一般：520円高校生：310円小・中学生：210円障害者手帳等お持ちの方は無料",
+    "website_url": null,
+    "phone_number": "0156-66-1555",
+    "area": "北海道県"
+  },
+  {
+    "id": 12,
+    "name": "森の美術館・木夢",
+    "location": "北海道紋別郡西興部村字西興部２７６",
+    "business_hours": "夏期（4月〜10月）・・・１０：００〜１７：００ 冬期（11月〜3月）・・・１０：００〜１６：３０",
+    "admission_fees": "【1日利用券】高校生以上 500円 小学校４年生〜中学生 300円 ３歳〜小学３年生以下 100円",
+    "website_url": null,
+    "phone_number": "0158-87-2600",
+    "area": "北海道県"
+  },
+  {
+    "id": 13,
+    "name": "中原悌二郎記念旭川市彫刻美術館",
+    "location": "北海道旭川市春光５条７丁目",
+    "business_hours": "午前8時45分から午後5時15分まで※ 但し、改修工事のため平成２９年まで長期休館中。",
+    "admission_fees": "一般：３００円高校生：２００円中学生以下：無料",
+    "website_url": null,
+    "phone_number": "0166-52-0033",
+    "area": "北海道県"
+  },
+  {
+    "id": 14,
+    "name": "トリックアート美術館",
+    "location": "北海道空知郡上富良野町西８線北３３号深山峠",
+    "business_hours": "４月・９月・１０月・１１月 \\t9:00〜17:00５月・６月・７月・８月 \\t9:00〜18:00１２月・１月・２月・３月 \\t10:00〜16:00 入館は閉館の30分前まで",
+    "admission_fees": "大人1,300円、中高生1,000円、小学5年生以上700円、小学4年生以下無料",
+    "website_url": null,
+    "phone_number": "0167-45-3788",
+    "area": "北海道県"
+  },
+  {
+    "id": 15,
+    "name": "金田心象書道美術館",
+    "location": "北海道天塩郡幌延町幌延１０２－１",
+    "business_hours": "10：00〜16：00",
+    "admission_fees": "一般：300円小・中・高校生：150円",
+    "website_url": null,
+    "phone_number": "01632-5-2720",
+    "area": "北海道県"
+  },
+  {
+    "id": 16,
+    "name": "網走市立美術館",
+    "location": "北海道網走市南６条西１丁目",
+    "business_hours": "火曜日〜日曜日　午前10時〜午後４時",
+    "admission_fees": "高校生以上　 120円 小中学生 60円 ※土曜日は市内小中学生は無料 です。",
+    "website_url": null,
+    "phone_number": "0152-44-5045",
+    "area": "北海道県"
+  },
+  {
+    "id": 17,
+    "name": "後藤純男美術館",
+    "location": "北海道空知郡上富良野町東４線北２６号",
+    "business_hours": "9：00〜17：00（11月〜3月 9：00〜16：00）",
+    "admission_fees": "大人1000円、小〜高校生500円",
+    "website_url": null,
+    "phone_number": "0167-45-6181",
+    "area": "北海道県"
+  },
+  {
+    "id": 19,
+    "name": "三岸好太郎美術館",
+    "location": "北海道札幌市中央区北２条西１５丁目",
+    "business_hours": "9:30〜17:00（入館は16:30まで）",
+    "admission_fees": "大人510円、高大学生250円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "011-644-8901",
+    "area": "北海道県"
+  },
+  {
+    "id": 18,
+    "name": "太陽の森ディマシオ幻想美術館",
+    "location": "北海道新冠郡新冠町字太陽２０４－５",
+    "business_hours": "2019年3月30日（土）〜2019年11月24日（日）※無休期間（定休日なし）4月25日（木）〜5月6日（日）、7月18日（木）〜9月29日（木） 9:30-16:30（16:30まで入館できます）※無休期間は9:00〜17:00（17:00まで入館できます）",
+    "admission_fees": "大人1,100円、高・大学生900円、中学生300円、小学生以下無料",
+    "website_url": null,
+    "phone_number": "0146-45-3312",
+    "area": "北海道県"
+  },
+  {
+    "id": 20,
+    "name": "小川原脩記念美術館",
+    "location": "北海道虻田郡倶知安町北６条東７丁目１",
+    "business_hours": "9:00〜17:00 ※入館時間は16:30まで",
+    "admission_fees": "一般 500円高校生 300円小中学生 100円",
+    "website_url": null,
+    "phone_number": "0136-21-4141",
+    "area": "北海道県"
+  },
+  {
+    "id": 21,
+    "name": "西村計雄記念美術館",
+    "location": "北海道岩内郡共和町南幌似１４３－２",
+    "business_hours": "9：00〜17：00",
+    "admission_fees": "一般：500円高校生：200円小・中学生：100円",
+    "website_url": null,
+    "phone_number": "0135-71-2525",
+    "area": "北海道県"
+  },
+  {
+    "id": 22,
+    "name": "釧路市立美術館",
+    "location": "北海道釧路市幣舞町４－２８",
+    "business_hours": "10：00〜17：00",
+    "admission_fees": "展覧会ごとに設定",
+    "website_url": null,
+    "phone_number": "0154-42-6116",
+    "area": "北海道県"
+  },
+  {
+    "id": 23,
+    "name": "室蘭市民美術館",
+    "location": "北海道室蘭市幸町６－２３",
+    "business_hours": "10：00〜17：00",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0143-22-1124",
+    "area": "北海道県"
+  },
+  {
+    "id": 24,
+    "name": "伏木田光夫美術館",
+    "location": "北海道浦河郡浦河町字西幌別",
+    "business_hours": "午前９時から午後４時まで",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0146-28-1304",
+    "area": "北海道県"
+  },
+  {
+    "id": 25,
+    "name": "本郷新記念札幌彫刻美術館",
+    "location": "北海道札幌市中央区宮の森４条１２丁目２",
+    "business_hours": "10:00〜17:00（入館は16:30まで）",
+    "admission_fees": "一般300円、65歳以上250円、高大生200円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "011-642-5709",
+    "area": "北海道県"
+  },
+  {
+    "id": 26,
+    "name": "相原求一朗美術館",
+    "location": "北海道河西郡中札内村栄東５線１７３－１",
+    "business_hours": "4月下旬〜9月 10:00〜17:0010月〜11月上旬 10:00〜16:00",
+    "admission_fees": "大人(高校生以上) 500円、中学生 300円、小学生 300円",
+    "website_url": null,
+    "phone_number": "0155-68-3003",
+    "area": "北海道県"
+  },
+  {
+    "id": 27,
+    "name": "荒井記念美術館",
+    "location": "北海道岩内郡岩内町字野束５０５",
+    "business_hours": "ＡＭ９：００ 〜 ＰＭ１７：００　（入館はＰＭ１６：３０まで）",
+    "admission_fees": "一般1000円、高・大学生700円、小中学生400円",
+    "website_url": null,
+    "phone_number": "0135-63-1111",
+    "area": "北海道県"
+  },
+  {
+    "id": 28,
+    "name": "荒川版画美術館",
+    "location": "北海道標津郡中標津町字俣落２０００－８",
+    "business_hours": "10:00〜17:00",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0153-73-7151",
+    "area": "北海道県"
+  },
+  {
+    "id": 29,
+    "name": "かたるべの森美術館",
+    "location": "北海道上川郡当麻町伊香牛２区",
+    "business_hours": "10：00〜15：00",
+    "admission_fees": "300円",
+    "website_url": null,
+    "phone_number": "0166-84-2880",
+    "area": "北海道県"
+  },
+  {
+    "id": 1,
+    "name": "万代島美術館",
+    "location": "新潟県新潟市中央区万代島５－１",
+    "business_hours": "午前10時〜午後6時",
+    "admission_fees": "一般：310円大学生・高校生：150円中学生以下：無料",
+    "website_url": null,
+    "phone_number": "025-290-6655",
+    "area": "新潟県"
+  },
+  {
+    "id": 2,
+    "name": "新潟市美術館",
+    "location": "新潟県新潟市中央区西大畑町５１９１－９",
+    "business_hours": "9:30〜18:00",
+    "admission_fees": "一般200円／大高生150円／中小生100円",
+    "website_url": null,
+    "phone_number": "025-223-1622",
+    "area": "新潟県"
+  },
+  {
+    "id": 3,
+    "name": "新潟市新津美術館",
+    "location": "新潟県新潟市秋葉区蒲ヶ沢１０９－１",
+    "business_hours": "10:00〜17:00",
+    "admission_fees": "展覧会によって異なります。",
+    "website_url": null,
+    "phone_number": "0250-25-1300",
+    "area": "新潟県"
+  },
+  {
+    "id": 4,
+    "name": "新潟県立近代美術館",
+    "location": "新潟県長岡市千秋３丁目２７８－１４",
+    "business_hours": "9:00〜17:00　最終入館16:30",
+    "admission_fees": "・一　般　 　　　430円・高校・大学生 200円・中学生以下無料 ※特別展の入館料は、お問い合わせください。",
+    "website_url": null,
+    "phone_number": "0258-28-4111",
+    "area": "新潟県"
+  },
+  {
+    "id": 5,
+    "name": "雪梁舎美術館",
+    "location": "新潟県新潟市西区山田４５１",
+    "business_hours": "午前9時30分〜午後5時",
+    "admission_fees": "一般500円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "025-377-1888",
+    "area": "新潟県"
+  },
+  {
+    "id": 6,
+    "name": "胎内市美術館",
+    "location": "新潟県胎内市下赤谷３８７－１５",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0254-47-2288",
+    "area": "新潟県"
+  },
+  {
+    "id": 7,
+    "name": "駒形十吉記念美術館",
+    "location": "新潟県長岡市今朝白２丁目１－４",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0258-35-6111",
+    "area": "新潟県"
+  },
+  {
+    "id": 8,
+    "name": "知足美術館",
+    "location": "新潟県新潟市中央区新光町１０－２",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "025-281-2001",
+    "area": "新潟県"
+  },
+  {
+    "id": 9,
+    "name": "トミオカホワイト美術館",
+    "location": "新潟県南魚沼市上薬師堂１４２",
+    "business_hours": "４月〜１１月     ９：００〜１７：００  １２月〜３月   １０：００〜１７：００  ※入館は１６：３０までとなります。",
+    "admission_fees": "一般 　　５００円  小中高生 　２５０円",
+    "website_url": null,
+    "phone_number": "025-775-3646",
+    "area": "新潟県"
+  },
+  {
+    "id": 10,
+    "name": "良寛の里美術館",
+    "location": "新潟県長岡市島崎３９３８",
+    "business_hours": "9:00〜17:00",
+    "admission_fees": "大人（高校生以上）…500円小・中学生…300円未就学児は無料",
+    "website_url": null,
+    "phone_number": "0258-74-3700",
+    "area": "新潟県"
+  },
+  {
+    "id": 11,
+    "name": "池田記念美術館",
+    "location": "新潟県南魚沼市浦佐５４９３－３",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "025-780-4080",
+    "area": "新潟県"
+  },
+  {
+    "id": 12,
+    "name": "谷村美術館",
+    "location": "新潟県糸魚川市京ケ峰２丁目１－１３",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "025-552-9277",
+    "area": "新潟県"
+  },
+  {
+    "id": 13,
+    "name": "潟東樋口記念美術館",
+    "location": "新潟県新潟市西蒲区三方９２",
+    "business_hours": "9:00〜16:00",
+    "admission_fees": "一般：500円小・中学生：300円 身体障害者手帳、療育手帳、精神障がい者保健福祉手帳のお持ちの方：本人は無料、介助者は手帳提示者1名につき1名無料",
+    "website_url": null,
+    "phone_number": "0256-86-3444",
+    "area": "新潟県"
+  },
+  {
+    "id": 14,
+    "name": "長岡市栃尾美術館",
+    "location": "新潟県長岡市上の原町１－１３",
+    "business_hours": "午前９時〜午後５時（発券は４時３０分まで）",
+    "admission_fees": "・企画展　その都度定めます。・館所蔵品展大人　　　　　２００円高校・大学生　１５０円小・中学生　　１００円幼児　　　　　無料",
+    "website_url": null,
+    "phone_number": "0258-53-6300",
+    "area": "新潟県"
+  },
+  {
+    "id": 7,
+    "name": "ＳＵＷＡガラスの里",
+    "location": "長野県諏訪市大字豊田２４００－７",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0266-57-2000",
+    "area": "長野県"
+  },
+  {
+    "id": 1,
+    "name": "美ヶ原高原美術館",
+    "location": "長野県上田市武石上本入美ヶ原高原",
+    "business_hours": "9:00〜17:00",
+    "admission_fees": "大人:1,000円大学・高校生:800円中学生・小学生:700円",
+    "website_url": null,
+    "phone_number": "0268-86-2331",
+    "area": "長野県"
+  },
+  {
+    "id": 2,
+    "name": "松本市美術館",
+    "location": "長野県松本市中央４－２－２２",
+    "business_hours": "9：00〜17：00(入場は16：30まで)",
+    "admission_fees": "【コレクション展】大人410円　大学高校生200円※70歳以上の松本市民は無料※中学生以下無料※障害者手帳携帯者とその介助者　　 1名無料",
+    "website_url": null,
+    "phone_number": "0263-39-7400",
+    "area": "長野県"
+  },
+  {
+    "id": 3,
+    "name": "安曇野ちひろ美術館",
+    "location": "長野県北安曇郡松川村松川村西原３３５８－２４",
+    "business_hours": "営業時間：9：00〜17：00（3月〜11月末）9：00〜18：00（GW、お盆）",
+    "admission_fees": "大人800円、高校生以下無料",
+    "website_url": null,
+    "phone_number": "0261-62-0772",
+    "area": "長野県"
+  },
+  {
+    "id": 4,
+    "name": "諏訪市美術館",
+    "location": "長野県諏訪市湖岸通り４－１－１４",
+    "business_hours": "９：００ 〜 １７：００※入館は１６:３０まで",
+    "admission_fees": "大人３００円、小中学生１５０円※企画展開催時は別料金となります。※障がい者手帳をお持ちの方は、大人150円、小中学生無料、付添いの方1名まで割引料金150円（企画展は別料金となります)",
+    "website_url": null,
+    "phone_number": "0266-52-1217",
+    "area": "長野県"
+  },
+  {
+    "id": 5,
+    "name": "信州小布施北斎館",
+    "location": "長野県上高井郡小布施町小布施４８５",
+    "business_hours": "午前9時〜午後5時午前9時〜午後6時（7・8月のみ）※ご入館受付は閉館30分前まで※1月1日は時間短縮開館午前10時〜午後3時まで",
+    "admission_fees": "一般１，０００円高校生７００円中学生以下無料",
+    "website_url": null,
+    "phone_number": "026-247-5206",
+    "area": "長野県"
+  },
+  {
+    "id": 6,
+    "name": "信州高遠美術館",
+    "location": "長野県伊那市高遠町東高遠４００",
+    "business_hours": "9：00〜17：00",
+    "admission_fees": "一般：500円小・中学生：150円障害者手帳等お持ちの方は無料",
+    "website_url": null,
+    "phone_number": "0265-94-3666",
+    "area": "長野県"
+  },
+  {
+    "id": 8,
+    "name": "長野県立美術館",
+    "location": "長野県長野市箱清水１－４－４",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "026-232-0052",
+    "area": "長野県"
+  },
+  {
+    "id": 9,
+    "name": "蓼科テディベア美術館",
+    "location": "長野県北佐久郡立科町芦田八ヶ野1522",
+    "business_hours": "4月〜10月：9:00〜18:00(17:30受付終了) 11月〜3月：9:30〜17:00(16:30受付終了)",
+    "admission_fees": "大人(高校生以上) 1,400円 子ども(小・中学生) 800円 幼児(3才以上) 300円3才未満 入館無料お誕生日当日にご来館の方は、無料でご入館いただけます（ご本人様のみに適応）。 生年月日が明記されている証明書をご提示ください",
+    "website_url": null,
+    "phone_number": "0267-55-7755",
+    "area": "長野県"
+  },
+  {
+    "id": 10,
+    "name": "ペイネ美術館",
+    "location": "長野県北佐久郡軽井沢町塩沢湖２１７",
+    "business_hours": "9:00〜17:00（12月・1月は10:00〜16:00）",
+    "admission_fees": "●入園券：大人（高校生以上）：800円、小人（小・中学生）：400円、乳幼児（0〜5才）：無料●ペイネ美術館(入園料含む)：大人（高校生以上）：900円、小人（小・中学生）：500円、乳幼児（0〜5才）：無料●ミュージアムセット券（入園料+3館入館券）：大人（高校生以上）：1500円、小人（小・中学生）：800円、乳幼児（0〜5才）：無料●12月・1月は入園無料(美術館は有料／ペイネ美術館900円→700円)",
+    "website_url": null,
+    "phone_number": "0267-46-6161",
+    "area": "長野県"
+  },
+  {
+    "id": 11,
+    "name": "市立岡谷美術考古館",
+    "location": "長野県岡谷市中央町１－９－８",
+    "business_hours": "開館時間\\t午前10時〜午後7時休館日\\t毎週水曜日、祝日の翌日、12月29日〜1月3日",
+    "admission_fees": "おとな（高校生以上）\\t350円こども（小・中学生）\\t150円",
+    "website_url": null,
+    "phone_number": "0266-22-5854",
+    "area": "長野県"
+  },
+  {
+    "id": 12,
+    "name": "豊科近代美術館",
+    "location": "長野県安曇野市豊科５６０９－３",
+    "business_hours": "午前9時〜午後5時（入館は午後4時30分まで）",
+    "admission_fees": "個人大人500円大学生・高校生300円 団体（20名様以上）大人400円大学生・高校生200円※入館料は企画によって変わる事がございます。※入館料の免除について中学生以下の方安曇野市在住の70歳以上の方障害者手帳をお持ちの方と介助者１名",
+    "website_url": null,
+    "phone_number": "0263-73-5638",
+    "area": "長野県"
+  },
+  {
+    "id": 13,
+    "name": "軽井沢絵本の森美術館",
+    "location": "長野県北佐久郡軽井沢町長倉182-1",
+    "business_hours": "・3月〜11月：9時30分〜17時・12月〜1月：10時〜16時 最終入館は閉館時間の30分前",
+    "admission_fees": "大人900円、中高生600円、小学生450円、小学生未満無料。（エルツおもちゃ博物館・軽井沢との2館共通セット券有り）",
+    "website_url": null,
+    "phone_number": "0267-48-3340",
+    "area": "長野県"
+  },
+  {
+    "id": 14,
+    "name": "小海町高原美術館",
+    "location": "長野県南佐久郡小海町大字豊里５９１８－２",
+    "business_hours": "4月〜12月 9:00〜17:00",
+    "admission_fees": "一般500円　小中学生150円",
+    "website_url": null,
+    "phone_number": "0267-93-2133",
+    "area": "長野県"
+  },
+  {
+    "id": 15,
+    "name": "上田市立美術館",
+    "location": "長野県上田市天神３丁目１５－１５",
+    "business_hours": "開館時間：9:00〜17:00（最終入場16:30まで）",
+    "admission_fees": "一般・大学生：1400円（一般：300円）高校・中学生：900円（高校生以上：200円）小学生：700円（小中学生：100円）未就学児：無料（）内は常設展のみ",
+    "website_url": null,
+    "phone_number": "0268-27-2300",
+    "area": "長野県"
+  },
+  {
+    "id": 16,
+    "name": "奥村土牛記念美術館",
+    "location": "長野県南佐久郡佐久穂町大字穂積１４２９－１",
+    "business_hours": "午前9時30分〜午後5時",
+    "admission_fees": "大人500円小中学生300円団体大人400円小中学生250円(注)団体料金は20名以上",
+    "website_url": null,
+    "phone_number": "0267-88-3881",
+    "area": "長野県"
+  },
+  {
+    "id": 17,
+    "name": "辰野美術館",
+    "location": "長野県上伊那郡辰野町樋口２４０７－１",
+    "business_hours": "午前9時〜午後5時（入館受付は午後4時30分まで）",
+    "admission_fees": "大人［高校生以上］ 300円小・中学生 100円",
+    "website_url": null,
+    "phone_number": "0266-43-0753",
+    "area": "長野県"
+  },
+  {
+    "id": 18,
+    "name": "八ヶ岳美術館",
+    "location": "長野県諏訪郡原村１７２１７－１６１１",
+    "business_hours": "9：00〜17：00（入館は16：30まで）",
+    "admission_fees": "大人　510円小人　250円",
+    "website_url": null,
+    "phone_number": "0266-74-2701",
+    "area": "長野県"
+  },
+  {
+    "id": 19,
+    "name": "原田泰治美術館",
+    "location": "長野県諏訪市渋崎１７９２－３７５",
+    "business_hours": "9：00〜17：00",
+    "admission_fees": "大人：820円中・高校生：410円小学生：200円障害者(大人）：410円＊障害者（小人）は無料",
+      "website_url": null,
+      "phone_number": "0266-54-1881",
+      "area": "長野県"
+  },
+  {
+    "id": 20,
+    "name": "日本童画美術館",
+    "location": "長野県岡谷市中央町２－２－１",
+    "business_hours": "10:00〜19:00(学校等の団体は事前受付で9：00より受け入れ可)",
+    "admission_fees": "一般 500円 中・高校生 300円 小学生 150円",
+    "website_url": null,
+    "phone_number": "0266-24-3319",
+    "area": "長野県"
+  },
+  {
+    "id": 21,
+    "name": "小山敬三美術館",
+    "location": "長野県小諸市丁２２１",
+    "business_hours": "AM8:30〜PM5:00",
+    "admission_fees": "大人200円、小中学生100円",
+    "website_url": null,
+    "phone_number": "0267-22-3428",
+    "area": "長野県"
+  },
+  {
+    "id": 22,
+    "name": "飯田市川本喜八郎人形美術館",
+    "location": "長野県飯田市本町１丁目２",
+    "business_hours": "9:30〜18:30(入館は18:00まで)",
+    "admission_fees": "一般\\t400円小学生/中学生/高校生\\t200円",
+    "website_url": null,
+    "phone_number": "0265-23-3594",
+    "area": "長野県"
+  },
+  {
+    "id": 23,
+    "name": "志賀高原ロマン美術館",
+    "location": "長野県下高井郡山ノ内町大字平穏１４６５",
+    "business_hours": "9:00〜17:00　（入館は16:30まで）",
+    "admission_fees": "大人：500円小中学生：300円",
+    "website_url": null,
+    "phone_number": "0269-33-8855",
+    "area": "長野県"
+  },
+  {
+    "id": 24,
+    "name": "深沢紅子野の花美術館",
+    "location": "長野県北佐久郡軽井沢町長倉塩沢２１７",
+    "business_hours": "10:00〜17:00",
+    "admission_fees": "大人：500円大高生：300円中小生：200円",
+    "website_url": null,
+    "phone_number": "0267-45-3662",
+    "area": "長野県"
+  },
+  {
+    "id": 25,
+    "name": "ゼゾン現代美術館",
+    "location": "長野県北佐久郡軽井沢町長倉芹ヶ沢２１４０",
+    "business_hours": "2016年4月23日（土）- 11月23日（水・祝）  10:00 〜 18:00 （ 4月 - 10月） 最終入館は閉館30分前まで10:00 〜 17:00 （11月）",
+    "admission_fees": "一般1,000円、大高生700円、中小生300円",
+    "website_url": null,
+    "phone_number": "0267-46-2020",
+    "area": "長野県"
+  },
+  {
+    "id": 26,
+    "name": "木曽路美術館",
+    "location": "長野県木曽郡上松町寝覚2409",
+    "business_hours": "営業：10:00〜16:00",
+    "admission_fees": "大人300円学生200円小中学生100円身障者割引有り",
+    "website_url": null,
+    "phone_number": "0264-24-0116",
+    "area": "長野県"
+  },
+  {
+    "id": 27,
+    "name": "小諸高原美術館",
+    "location": "長野県小諸市菱平２８０５－１",
+    "business_hours": "9:00〜17:00",
+    "admission_fees": "大人500円　小・中学生250円",
+    "website_url": null,
+    "phone_number": "0267-26-2070",
+    "area": "長野県"
+  },
+  {
+    "id": 28,
+    "name": "池田町立美術館",
+    "location": "長野県北安曇郡池田町会染７７８２",
+    "business_hours": "午前９時〜午後５時",
+    "admission_fees": "大人／４００円 高・大生／２５０円",
+    "website_url": null,
+    "phone_number": "0261-62-6600",
+    "area": "長野県"
+  },
+  {
+    "id": 29,
+    "name": "佐久市立近代美術館",
+    "location": "長野県佐久市猿久保３５－５",
+    "business_hours": "9時30分〜17時00分",
+    "admission_fees": "個人\\t    一般      \\t500円\\t高校・大学生\\t400円\\t 団体    一般          400円高校・大学生   300円",
+    "website_url": null,
+    "phone_number": "0267-67-1055",
+    "area": "長野県"
+  },
+  {
+    "id": 30,
+    "name": "水野美術館",
+    "location": "長野県長野市若里６－２－２０",
+    "business_hours": "9時30分 - 17時30分（入館は17時まで）",
+    "admission_fees": "一般　800円中高生　600円小学生　300円",
+    "website_url": null,
+    "phone_number": "026-229-6333",
+    "area": "長野県"
+  },
+  {
+    "id": 1,
+    "name": "山梨県立美術館",
+    "location": "山梨県甲府市貢川１丁目４－２７",
+    "business_hours": "9：00〜17：00",
+    "admission_fees": "コレクション展　一般：510円　大学生：210円　高校生以下・65歳以上・障害者手帳等お持ちの方と介護者1名：無料＊県民の日は無料",
+    "website_url": null,
+    "phone_number": "055-228-3322",
+    "area": "山梨県"
+  },
+  {
+    "id": 2,
+    "name": "河口湖美術館",
+    "location": "山梨県南都留郡富士河口湖町河口３１７０",
+    "business_hours": "9:30〜17:00　（入館は16:30まで）",
+    "admission_fees": "大人・大学生：800円中・高校生：500円小学生以下：無料",
+    "website_url": null,
+    "phone_number": "0555-73-2829",
+    "area": "山梨県"
+  },
+  {
+    "id": 3,
+    "name": "河口湖音楽と森の美術館",
+    "location": "山梨県南都留郡富士河口湖町河口3077-20",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0555-20-4111",
+    "area": "山梨県"
+  },
+  {
+    "id": 4,
+    "name": "富士川・切り絵の森美術館",
+    "location": "山梨県南巨摩郡身延町下山１５９７",
+    "business_hours": "【  4月〜9月】 9：30〜17：30【10月〜3月】10：00〜17：00※入館は閉館30分前まで",
+    "admission_fees": "一般　500円小・中学生　200円",
+    "website_url": null,
+    "phone_number": "0556-62-4500",
+    "area": "山梨県"
+  },
+  {
+    "id": 5,
+    "name": "昇仙峡影絵の森美術館",
+    "location": "山梨県甲府市高成町１０３５－２",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "055-287-2511",
+    "area": "山梨県"
+  },
+  {
+    "id": 6,
+    "name": "韮崎大村美術館",
+    "location": "山梨県韮崎市神山町鍋山１８３０－１",
+    "business_hours": "4月〜10月10時00分〜18:0011月〜3月10時00分〜17時00分",
+    "admission_fees": "一般 500円/小・中・高校生 200円",
+    "website_url": null,
+    "phone_number": "0551-23-7775",
+    "area": "山梨県"
+  },
+  {
+    "id": 7,
+    "name": "南アルプス市立美術館",
+    "location": "山梨県南アルプス市小笠原1281",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "055-282-6600",
+    "area": "山梨県"
+  },
+  {
+    "id": 8,
+    "name": "近藤浩一路記念南部町立美術館",
+    "location": "山梨県南巨摩郡南部町大和３６０",
+    "business_hours": "９：３０〜１７：００（入館は１６：３０まで）",
+    "admission_fees": "大人(常設展示)1人300円小中学生(常設展示)1人200円",
+    "website_url": null,
+    "phone_number": "0556-62-9292",
+    "area": "山梨県"
+  },
+  {
+    "id": 9,
+    "name": "清春白樺美術館",
+    "location": "山梨県北杜市長坂町中丸２０７２",
+    "business_hours": "10:00〜17：00（入館は16：30まで）",
+    "admission_fees": "一般　　　：900円大高生　 ：800円小中学生：600円",
+    "website_url": null,
+    "phone_number": "0551-32-4865",
+    "area": "山梨県"
+  },
+  {
+    "id": 10,
+    "name": "笛吹市青楓美術館",
+    "location": "山梨県笛吹市一宮町北野呂３－３",
+    "business_hours": "午前9時30分〜午後5時(入館は午後4時30分まで)",
+    "admission_fees": "・一般　300円・高校・大学生　200円・小・中学生　100円",
+    "website_url": null,
+    "phone_number": "0553-47-2122",
+    "area": "山梨県"
+  },
+  {
+    "id": 11,
+    "name": "都留市増田誠美術館",
+    "location": "山梨県都留市中央３丁目９－３",
+    "business_hours": "午前９時から午後５時まで(入館は午後４時３０分まで)",
+    "admission_fees": "・特別展一般　　　600円　　　　　　　　高校生・大学生　400円小学生・中学生　200円・企画展・常設展一般　　　300円　　　　　　　　高校生・大学生　200円小学生・中学生　100円",
+    "website_url": null,
+    "phone_number": "0554-45-4111",
+    "area": "山梨県"
+  },
+  {
+    "id": 12,
+    "name": "須玉美術館",
+    "location": "山梨県北杜市須玉町若神子４４９５－１８",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0551-42-5007",
+    "area": "山梨県"
+  },
+  {
+    "id": 13,
+    "name": "藪内正幸美術館",
+    "location": "山梨県北杜市白州町鳥原２９１３－７１",
+    "business_hours": "10:00〜17:00（入館は16:00まで）",
+    "admission_fees": "大人 (高校生以上)　：500円    小人 (小・中学生)　：200円     就学前児童　　　　：無料     ショップのみの利用：無料",
+    "website_url": null,
+    "phone_number": "0551-35-0088",
+    "area": "山梨県"
+  },
+  {
+    "id": 1,
+    "name": "青森県立美術館",
+    "location": "青森県青森市安田字近野185",
+    "business_hours": "【10月1日 - 5月31日】　9:30 - 17:00 (入館は16:30まで)【6月1日 - 9月30日】　9:00 - 18:00 (入館は17:30まで)",
+    "admission_fees": "【一般】　510円【大学生・高校生】　300円【中学生・小学生】　100円",
+    "website_url": null,
+    "phone_number": "017-783-3000",
+    "area": "青森県"
+  },
+  {
+    "id": 2,
+    "name": "十和田市現代美術館",
+    "location": "青森県十和田市西二番町１０－９",
+    "business_hours": "美術館　　午前9時〜午後5時（入館は午後4時30分まで）カフェ　午前9時〜午後5時（ラストオーダー午後4時30分）市民活動スペース等の貸出し時間　　午前9時〜午後5時",
+    "admission_fees": "大人：お得なセット券1000円（特別展＋常設展）　特別展600円　常設展510円高校生以下：無料",
+    "website_url": null,
+    "phone_number": "0176-20-1127",
+    "area": "青森県"
+  },
+  {
+    "id": 3,
+    "name": "鷹山宇一記念美術館",
+    "location": "青森県上北郡七戸町字荒熊内６７－９４",
+    "business_hours": "午前10時〜午後6時（入館は午後5時30分迄）",
+    "admission_fees": "【入館料】一般：500円高大生：300円小中生：100円※特別展は別料金設定有",
+    "website_url": null,
+    "phone_number": "0176-62-5858",
+    "area": "青森県"
+  },
+  {
+    "id": 4,
+    "name": "弘前れんが倉庫美術館",
+    "location": "青森県弘前市吉野町２－１",
+    "business_hours": "9：00〜17：00",
+    "admission_fees": "一般：1,300円学生：1,000円高校生以下無料※展覧会により観覧料が異なります。",
+    "website_url": null,
+    "phone_number": "0172-32-8950",
+    "area": "青森県"
+  },
+  {
+    "id": 5,
+    "name": "八戸市美術館",
+    "location": "青森県八戸市大字番町１０－４",
+    "business_hours": "9:00〜17:00（受付は閉館の30分前まで）",
+    "admission_fees": "一般150円大・高校生100円中・小学生50円市内の中・小学生は無料市内65歳以上、障碍者手帳をお持ちの場合は半額",
+    "website_url": null,
+    "phone_number": "0178-45-8338",
+    "area": "青森県"
+  },
+  {
+    "id": 6,
+    "name": "帆風美術館",
+    "location": "青森県八戸市北インター工業団地１丁目５－２",
+    "business_hours": "午前10時〜午後4時（入館は午後3時30分まで）",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0178-21-1311",
+    "area": "青森県"
+  },
+  {
+    "id": 1,
+    "name": "岩手県立美術館",
+    "location": "岩手県盛岡市本宮字松幅１２－３",
+    "business_hours": "9:90~18:00",
+    "admission_fees": "一般410円学生310円高校生以下は無料",
+    "website_url": null,
+    "phone_number": "019-658-1711",
+    "area": "岩手県"
+  },
+  {
+    "id": 2,
+    "name": "石神の丘美術館",
+    "location": "岩手県岩手郡岩手町大字五日市１０－１２１－２１",
+    "business_hours": "9：00〜17：00",
+    "admission_fees": "屋外展示　一般：100円　大・高校生：50円　中学生以下：無料　75歳以上：一般の半額　障害者手帳等お持ちの方と介助者1名：無料",
+    "website_url": null,
+    "phone_number": "0195-62-1453",
+    "area": "岩手県"
+  },
+  {
+    "id": 3,
+    "name": "花巻おもちゃ美術館",
+    "location": "岩手県花巻市上町6－2",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "080-9257-7987",
+    "area": "岩手県"
+  },
+  {
+    "id": 4,
+    "name": "萬鉄五郎記念美術館",
+    "location": "岩手県花巻市東和町土沢５区１３５",
+    "business_hours": "8:30〜17:00 入館は16:30まで",
+    "admission_fees": "大人:400円大学生:250円 高校生:250円 中学生:150円小学生:150円",
+    "website_url": null,
+    "phone_number": "0198-42-4405",
+    "area": "岩手県"
+  },
+  {
+    "id": 5,
+    "name": "川村美術館",
+    "location": "岩手県和賀郡西和賀町上野々３９地割１９０－２",
+    "business_hours": "午前９時３０分〜午後５時",
+    "admission_fees": "大人　５００円小中学生　４００円",
+    "website_url": null,
+    "phone_number": "0197-82-3240",
+    "area": "岩手県"
+  },
+  {
+    "id": 6,
+    "name": "利根山光人記念美術館",
+    "location": "岩手県北上市立花５－１５３－２",
+    "business_hours": "午前10：00〜午後４：00（入館は午後３：30まで）",
+    "admission_fees": "一般　300円高校生　120円小・中学生　60円小学生未満　無料障がい者　無料（付添い１名無料）",
+    "website_url": null,
+    "phone_number": "0197-65-1808",
+    "area": "岩手県"
+  },
+  {
+    "id": 7,
+    "name": "川村美術館デッサン館",
+    "location": "岩手県和賀郡西和賀町上野々３９地割１４２－１",
+    "business_hours": "■開館期間／４月中旬〜11月中旬■開館時間／午前９時〜午後４時30分",
+    "admission_fees": "■入館料／一般100円　小・中学生50円",
+    "website_url": null,
+    "phone_number": "0197-82-3240",
+    "area": "岩手県"
+  },
+  {
+    "id": 1,
+    "name": "秋田県立美術館",
+    "location": "秋田県秋田市中通1丁目4-2",
+    "business_hours": "10：00〜18：00（竿燈期間中などは、閉館時間を延長する場合があります）",
+    "admission_fees": "【個人】一般：310円シニア（70歳以上）：280円大学生：210円高校生以下：無料※特別展開催時は特別展料金となります",
+    "website_url": null,
+    "phone_number": "018-853-8686",
+    "area": "秋田県"
+  },
+  {
+    "id": 2,
+    "name": "仙北市平福記念美術館",
+    "location": "秋田県仙北市角館町表町上丁４－４",
+    "business_hours": "・4月〜11月　9時〜17時・12月〜3月　9時〜16時30分(入場は閉館30分前まで)",
+    "admission_fees": "大人(高校生以上) 300円小人(小中学生) 200円",
+    "website_url": null,
+    "phone_number": "0187-54-3888",
+    "area": "秋田県"
+  },
+  {
+    "id": 3,
+    "name": "秋田県立近代美術館",
+    "location": "秋田県横手市赤坂字富ケ沢６２－４６",
+    "business_hours": "9:30〜17:00",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0182-33-8855",
+    "area": "秋田県"
+  },
+  {
+    "id": 4,
+    "name": "千秋美術館",
+    "location": "秋田県秋田市中通２－３－８",
+    "business_hours": "10:00〜18:00（入館は17:30まで）",
+    "admission_fees": "一般：３００円（２４０円） 大学生：２００円（１６０円） （　）は、２０人以上団体割引料金",
+    "website_url": null,
+    "phone_number": "018-836-7860",
+    "area": "秋田県"
+  },
+  {
+    "id": 5,
+    "name": "鳥海山木のおもちゃ美術館",
+    "location": "秋田県由利本荘市町村字鳴瀬台６５－１",
+    "business_hours": "9:00〜16:00 （※最終入館は15:30）",
+    "admission_fees": "おとな 800円こども（小学生以下） 600円",
+    "website_url": null,
+    "phone_number": "0184-74-9070",
+    "area": "秋田県"
+  },
+  {
+    "id": 6,
+    "name": "横手市増田まんが美術館",
+    "location": "秋田県横手市増田町増田字新町285",
+    "business_hours": "9:00〜17:00（16:30までに入館ください)",
+    "admission_fees": "常設展は無料（特別企画展は有料）",
+    "website_url": null,
+    "phone_number": "0182-45-5569",
+    "area": "秋田県"
+  },
+  {
+    "id": 7,
+    "name": "亀田城・佐藤八十八美術館",
+    "location": "秋田県由利本荘市岩城下蛇田高城",
+    "business_hours": "【3月〜10月】 9:00〜17:00【11月〜2月】 9:00〜16:00",
+    "admission_fees": "一般：210円学生：無料",
+    "website_url": null,
+    "phone_number": "0184-74-2500",
+    "area": "秋田県"
+  },
+  {
+    "id": 8,
+    "name": "鎌鼬美術館",
+    "location": "秋田県雄勝郡羽後町田代梺６７－３",
+    "business_hours": "9時〜16時半（11月23日のみ10時開館）",
+    "admission_fees": "300円",
+    "website_url": null,
+    "phone_number": "0183-62-5009",
+    "area": "秋田県"
+  },
+  {
+    "id": 1,
+    "name": "宮城県美術館",
+    "location": "宮城県仙台市青葉区川内元支倉３４－１",
+    "business_hours": "午前９時３０分〜午後５時（観覧券の販売は午後４時３０分まで）",
+    "admission_fees": "一般　３００円大学生　１５０円小・中・高校生　無料 （特別展　展覧会ごとに設定）",
+    "website_url": null,
+    "phone_number": "022-221-2111",
+    "area": "宮城県"
+  },
+  {
+    "id": 2,
+    "name": "高倉勝子美術館桜小路",
+    "location": "宮城県登米市登米町寺池桜小路８８－１",
+    "business_hours": "午前9時〜午後4時30分",
+    "admission_fees": "一般　200円高校生　150円小中学生　100円",
+    "website_url": null,
+    "phone_number": "0220-52-2755",
+    "area": "宮城県"
+  },
+  {
+    "id": 3,
+    "name": "中鉢美術館",
+    "location": "宮城県大崎市岩出山上川原町７－６",
+    "business_hours": "10:00〜16:00　（１２月〜２月）10:00〜17:00　 （３月〜１１月）",
+    "admission_fees": "大人500円、高・大学生300円、小・中学生100円",
+    "website_url": null,
+    "phone_number": "0229-29-9833",
+    "area": "宮城県"
+  },
+  {
+    "id": 4,
+    "name": "リアス・アーク美術館",
+    "location": "宮城県気仙沼市字赤岩牧沢１３８－５",
+    "business_hours": "9:30〜17:00(最終入館 16:30)",
+    "admission_fees": "一般500円/大学生・短大生・専門学生400円/高校生300円/小・中学生150円",
+    "website_url": null,
+    "phone_number": "0226-24-1611",
+    "area": "宮城県"
+  },
+  {
+    "id": 5,
+    "name": "大衡村ふるさと美術館",
+    "location": "宮城県黒川郡大衡村大衡平林３９－１２",
+    "business_hours": "10：00〜16：00",
+    "admission_fees": "大人200円、高校生150円、中学生100円、小学生100円",
+    "website_url": null,
+    "phone_number": "022-345-0945",
+    "area": "宮城県"
+  },
+  {
+    "id": 1,
+    "name": "山形美術館",
+    "location": "山形県山形市大手町１－６３",
+    "business_hours": "10:00〜17:00（入館は16:30まで）",
+    "admission_fees": "一般500円、高大生300円、小中生100円※小・中学生とその引率者が教育活動として観覧する場合、無料。",
+    "website_url": null,
+    "phone_number": "023-622-3090",
+    "area": "山形県"
+  },
+  {
+    "id": 2,
+    "name": "天童市美術館",
+    "location": "山形県天童市老野森１－２－２",
+    "business_hours": "9:00-18:00（入館は17：30まで）",
+    "admission_fees": "大人　400円高校生・大学生　200円小中学生　100円",
+    "website_url": null,
+    "phone_number": "023-654-6300",
+    "area": "山形県"
+  },
+  {
+    "id": 3,
+    "name": "土門拳記念館",
+    "location": "山形県酒田市飯森山2-13",
+    "business_hours": "午前９時〜午後５時（午後４時３０分まで入館）",
+    "admission_fees": "一般：430円、学生：210円、小中学生：無料※特別展期間中は料金変更の場合あり",
+    "website_url": null,
+    "phone_number": "0234-31-0028",
+    "area": "山形県"
+  },
+  {
+    "id": 4,
+    "name": "東根市美術館",
+    "location": "山形県東根市中央南１丁目７－３",
+    "business_hours": "午前9時から午後6時（入場は閉館の30分前まで）※展覧会によって延長する場合があります。",
+    "admission_fees": "観覧料は展覧会・イベントごとに異なります。",
+    "website_url": null,
+    "phone_number": "0237-53-0229",
+    "area": "山形県"
+  },
+  {
+    "id": 5,
+    "name": "本間美術館",
+    "location": "山形県酒田市御成町7-7",
+    "business_hours": "【4月〜10月】午前9時〜午後5時（入館は午後4時30分まで） 【11月〜3月】午前9時〜午後4時30分（入館は午後4時まで）",
+    "admission_fees": "・一般1,000円（900円）　高・大学生450円（400円）・小／中学生は無料※（）内は15名以上の団体料金になります。",
+    "website_url": null,
+    "phone_number": "0234-24-4311",
+    "area": "山形県"
+  },
+  {
+    "id": 6,
+    "name": "酒田市美術館",
+    "location": "山形県酒田市飯森山３丁目１７－９５",
+    "business_hours": "9:00-17:00（入館は16：30まで）",
+    "admission_fees": "一般　540円大高生　270円小中学生　無料",
+    "website_url": null,
+    "phone_number": "0234-31-0095",
+    "area": "山形県"
+  },
+  {
+    "id": 7,
+    "name": "よねざわ市民ギャラリー",
+    "location": "山形県米沢市中央1丁目10番6号",
+    "business_hours": "―",
+    "admission_fees": "なし",
+    "website_url": null,
+    "phone_number": "0238-22-6400",
+    "area": "山形県"
+  },
+  {
+    "id": 8,
+    "name": "最上川美術館",
+    "location": "山形県村山市大字大淀１０８４－１",
+    "business_hours": "午前9時から午後5時（入館は午後4時30分まで）",
+    "admission_fees": "大人300円、小中学生150円",
+    "website_url": null,
+    "phone_number": "0237-52-3195",
+    "area": "山形県"
+  },
+  {
+    "id": 1,
+    "name": "福島県立美術館",
+    "location": "福島県福島市森合字西養山１",
+    "business_hours": "9：30〜17：00（最終入館は16：30まで）",
+    "admission_fees": "【常設展】一般・大学生　270円高校生以下　無料 【企画展】展覧会ごとに異なります。",
+    "website_url": null,
+    "phone_number": "024-531-5511",
+    "area": "福島県"
+  },
+  {
+    "id": 2,
+    "name": "諸橋近代美術館",
+    "location": "福島県耶麻郡北塩原村檜原字剣ヶ峰1093番23",
+    "business_hours": "【4/20-11/30】9:30-17:30 １１月は17：00閉館入館は閉館時間の３０分前まで",
+    "admission_fees": "一般　950円高校・大学生　500円小・中学生　無料",
+    "website_url": null,
+    "phone_number": "0241-37-1088",
+    "area": "福島県"
+  },
+  {
+    "id": 3,
+    "name": "いわき市立美術館",
+    "location": "福島県いわき市平字堂根町４－４",
+    "business_hours": "9:30〜17:00　（展示室への入場は16:30まで） 【7月、8月の毎週金曜日】 9:30〜20:00　（展示室への入場は19:30まで）",
+    "admission_fees": "一般：210円高校・高専・大学生：150円小・中学生：70円",
+    "website_url": null,
+    "phone_number": "0246-25-1111",
+    "area": "福島県"
+  },
+  {
+    "id": 4,
+    "name": "福島片岡鶴太郎美術庭園",
+    "location": "福島県福島市飯坂町字銀杏1-13",
+    "business_hours": "9：00〜17：00（1月〜3月は9：00〜16：00）",
+    "admission_fees": "一般・大学生：950円中高生：700円小学生以下：無料（同伴者必要）",
+    "website_url": null,
+    "phone_number": "024-542-0555",
+    "area": "福島県"
+  },
+  {
+    "id": 5,
+    "name": "斎藤清美術館",
+    "location": "福島県河沼郡柳津町柳津字下平乙１８７",
+    "business_hours": "9:00〜16:30",
+    "admission_fees": "大人　510円高･大学生　300円※中学生以下無料。障害者割引あり(要証明書)",
+    "website_url": null,
+    "phone_number": "0241-42-3630",
+    "area": "福島県"
+  },
+  {
+    "id": 6,
+    "name": "尾瀬写真美術館",
+    "location": "福島県南会津郡檜枝岐村字左通１２４－６",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0241-75-2065",
+    "area": "福島県"
+  },
+  {
+    "id": 7,
+    "name": "喜多方市美術館",
+    "location": "福島県喜多方市押切２丁目２",
+    "business_hours": "10:00〜18:00入館は、17:30迄",
+    "admission_fees": "一般    300円大学生、高校生      200円小学生、中学生      100円展示会により変更有。",
+    "website_url": null,
+    "phone_number": "0241-23-0404",
+    "area": "福島県"
+  },
+  {
+    "id": 8,
+    "name": "郡山市立美術館",
+    "location": "福島県郡山市安原町字大谷地１３０－２",
+    "business_hours": "9:30-17:00",
+    "admission_fees": "常設展一般　200円高・大生　100円小中学生　無料",
+    "website_url": null,
+    "phone_number": "024-956-2200",
+    "area": "福島県"
+  },
+  {
+    "id": 9,
+    "name": "福島市写真美術館",
+    "location": "福島県福島市森合町１１－３６",
+    "business_hours": "午前9時から午後4時30分まで",
+    "admission_fees": "無料ただし、企画展開催中はその都度主催者が定めた料金になります。",
+    "website_url": null,
+    "phone_number": "024-523-1201",
+    "area": "福島県"
+  },
+  {
+    "id": 13,
+    "name": "あぶくま高原美術館",
+    "location": "福島県東白川郡塙町大字那倉字吉元８６－２",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0247-42-2510",
+    "area": "福島県"
+  },
+  {
+    "id": 10,
+    "name": "梁川美術館",
+    "location": "福島県伊達市梁川町中町１０",
+    "business_hours": "9時30分〜17時(最終入館は16時30分)",
+    "admission_fees": "一般200円高校生・大学生100円小・中学生50円無料開放日：毎月第3日曜日（市民）、毎週土曜日（小・中学生）",
+    "website_url": null,
+    "phone_number": "024-527-2656",
+    "area": "福島県"
+  },
+  {
+    "id": 11,
+    "name": "妖精美術館",
+    "location": "福島県大沼郡金山町大字大栗山狐穴２７６５",
+    "business_hours": "9:00〜17:00",
+    "admission_fees": "大人(高校生以上)　300円小･中学生　200円※小学生未満無料",
+    "website_url": null,
+    "phone_number": "0241-55-3180",
+    "area": "福島県"
+  },
+  {
+    "id": 12,
+    "name": "大山忠作美術館",
+    "location": "福島県二本松市本町２丁目３－１",
+    "business_hours": "午前９時３０分〜午後５時（入館は午後４時３０分まで）",
+    "admission_fees": "一般410円、高校生以下200円、未就学児無料",
+    "website_url": null,
+    "phone_number": "0243-24-1217",
+    "area": "福島県"
+  },
+  {
+    "id": 14,
+    "name": "川俣町美術館",
+    "location": "福島県伊達郡川俣町大字西福沢山枡内２０",
+    "business_hours": "午前10時から午後4時",
+    "admission_fees": "大人100円、小学生から高校生50円、未就学児無料",
+    "website_url": null,
+    "phone_number": "024-566-3367",
+    "area": "福島県"
+  },
+  {
+    "id": 15,
+    "name": "可月亭庭園美術館",
+    "location": "福島県会津若松市材木町２丁目５－７",
+    "business_hours": "午前１０時〜午後５時",
+    "admission_fees": "・庭園＋美術展示のセット　400円・庭園のみ　200円・美術展示のみ　300円（18歳未満は半額となります。）",
+    "website_url": null,
+    "phone_number": "0242-27-2857",
+    "area": "福島県"
+  },
+  {
+    "id": 16,
+    "name": "東北電力奥会津水力館みお里",
+    "location": "福島県大沼郡金山町大字中川字上居平９３３",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0241-42-7771",
+    "area": "福島県"
+  },
+  {
+    "id": 1,
+    "name": "富山市ガラス美術館",
+    "location": "富山県富山市西町５－１",
+    "business_hours": "常設展・企画展：9：30〜18：00（金・土曜日は20：00まで） カフェ・ミュージアムショップ：9：30〜19：00（金・土曜日は20：00まで）詳しくは施設までお問合せ下さい。",
+    "admission_fees": "常設展観覧料一般・大学生200円企画展は企画展ごとに観覧料が異なります。詳しくは施設へお問合せ下さい。",
+    "website_url": null,
+    "phone_number": "076-461-3100",
+    "area": "富山県"
+  },
+  {
+    "id": 2,
+    "name": "秋水美術館",
+    "location": "富山県富山市千石町1丁目3番6号",
+    "business_hours": "開館時間　10：00〜17：00（入館は16：30まで）",
+    "admission_fees": "一般800円、高校生300円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "076-425-5700",
+    "area": "富山県"
+  },
+  {
+    "id": 3,
+    "name": "富山県美術館",
+    "location": "富山県富山市木場町３－２０",
+    "business_hours": "美術館 9:30〜18:00（入館は17:30まで） 屋上庭園・オノマトペの屋上　8:00〜22:00（入館は21:30まで）",
+    "admission_fees": "コレクション展    一般　300円 企画展　展覧会により異なります※企画展観覧料でコレクション展もご覧いただけます詳しくは施設までお問合せ下さい。",
+    "website_url": null,
+    "phone_number": "076-431-2711",
+    "area": "富山県"
+  },
+  {
+    "id": 4,
+    "name": "井波彫刻総合会館",
+    "location": "富山県南砺市北川733",
+    "business_hours": "9：00〜17：00（入館は16：30まで）",
+    "admission_fees": "大人500円、小中学生250円",
+    "website_url": null,
+    "phone_number": "0763-82-5158",
+    "area": "富山県"
+  },
+  {
+    "id": 5,
+    "name": "佐藤記念美術館",
+    "location": "富山県富山市本丸１－３３",
+    "business_hours": "9:00〜17:00　（入館は16:30まで）",
+    "admission_fees": "一般：210円小中学生：100円（土日祝日は無料） 身体障害者手帳、療育手帳、精神障害者福祉手帳をお持ちの方と介助者は無料",
+    "website_url": null,
+    "phone_number": "076-432-9031",
+    "area": "富山県"
+  },
+  {
+    "id": 6,
+    "name": "砺波市美術館",
+    "location": "富山県砺波市高道１４５－１",
+    "business_hours": "［開館時間］ \\t午前１０時から午後６時まで(入館は午後５時３０分まで)（金曜日、土曜日に市民アトリエ等の夜間利用がある場合、午後９時まで開館いたします ［観覧時間］ \\t午前１０時から午後６時まで (入館は午後５時３０分まで)",
+    "admission_fees": "（常設展示）一　　般 \\t２１０円小・中・高 \\t　１００円65歳以上　　１６０円 （企画展示）展覧会により観覧料が異なります。",
+    "website_url": null,
+    "phone_number": "0763-32-1001",
+    "area": "富山県"
+  },
+  {
+    "id": 7,
+    "name": "黒部市美術館",
+    "location": "富山県黒部市堀切１０３５",
+    "business_hours": "９時３０分から１６時３０分（入館は１６時まで）",
+    "admission_fees": "※企画展により異なる中学生以下無料",
+    "website_url": null,
+    "phone_number": "0765-52-5011",
+    "area": "富山県"
+  },
+  {
+    "id": 8,
+    "name": "世界一かわいい美術館",
+    "location": "富山県富山市水橋伊勢屋２５７",
+    "business_hours": "10:00〜17:00(入場受付は16:30まで)",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "076-411-9817",
+    "area": "富山県"
+  },
+  {
+    "id": 9,
+    "name": "高岡市美術館",
+    "location": "富山県高岡市中川１丁目１－３０",
+    "business_hours": "午前9時30分〜午後5時（入館は午後4時30分まで）",
+    "admission_fees": "企画展・特別展：展覧会によって異なります",
+    "website_url": null,
+    "phone_number": "0766-20-1177",
+    "area": "富山県"
+  },
+  {
+    "id": 10,
+    "name": "黒部峡谷セレネ美術館",
+    "location": "富山県黒部市宇奈月温泉６－３",
+    "business_hours": "9:00〜17:30※入館は閉館の30分前まで",
+    "admission_fees": "大人610円、高校・大学生510円、中学生以下・障がい者手帳をお持ちの方は無料",
+    "website_url": null,
+    "phone_number": "0765-62-2000",
+    "area": "富山県"
+  },
+  {
+    "id": 11,
+    "name": "入善町下山芸術の森発電所美術館",
+    "location": "富山県下新川郡入善町下山３６４－１",
+    "business_hours": "午前9時〜午後5時　※入館は午後4時30分まで企画展により、開館時間や閉館時間を変更する場合がございます。",
+    "admission_fees": "展覧会毎に設定しております。通常は以下のとおりです。各展覧会の紹介ページでご確認ください。 企画展：一般600円、大学・高校生300円、中学生以下無料収蔵品展：一般200円、大学・高校生100円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "0765-78-0621",
+    "area": "富山県"
+  },
+  {
+    "id": 12,
+    "name": "ふるさと美術館",
+    "location": "富山県下新川郡朝日町東草野４６６－８",
+    "business_hours": "午前9時〜午後5時（入館は午後4時30分まで）",
+    "admission_fees": "大人300円〜700円（展覧会によって異なる）小中高生100円　※こどもパスポート持参の場合は付添1名まで無料",
+    "website_url": null,
+    "phone_number": "0765-82-0094",
+    "area": "富山県"
+  },
+  {
+    "id": 13,
+    "name": "西田美術館",
+    "location": "富山県中新川郡上市町郷柿沢１",
+    "business_hours": "午前9：30〜午後4：30（入館は4時まで）",
+    "admission_fees": "●常設展・館蔵品展一般：500円（400円）／大学生：300円（200円）／高校生以下：無料各種福祉関係手帳をお持ちの方は200円（引率者1名同料金） ●企画展一般：600円（500円）／大学生：400円（300円）／高校生以下：無料各種福祉関係手帳をお持ちの方は300円（引率者1名同料金） ●ART BOX一般：300円（200円）／大学生：200円（100円）／高校生以下：無料各種福祉関係手帳をお持ちの方は100円（引率者1名同料金） ※上記の料金で、常設展・館蔵品展も観覧できます。",
+    "website_url": null,
+    "phone_number": "076-472-4352",
+    "area": "富山県"
+  },
+  {
+    "id": 14,
+    "name": "福光美術館",
+    "location": "富山県南砺市法林寺２０１０",
+    "business_hours": "9：00〜17：00（入館は16：30まで）",
+    "admission_fees": "企画展内容により異なります。常設展\\t一般        300円　高大校生  200円　小中学生  無料\\t＊企画展等含めてすべて小中学生無料です。＊各種手帳をお持ちの心身障がい者の方は、付き添いの方（1名）も含め、300円引き（常設展無料）です。\\t　300円引き（常設展無料）です。\\t　受付にて証明できるものをご提示ください。\\t＊企画展等含めてすべて小中学生無料です。",
+    "website_url": null,
+    "phone_number": "0763-52-7576",
+    "area": "富山県"
+  },
+  {
+    "id": 15,
+    "name": "百河豚美術館",
+    "location": "富山県下新川郡朝日町不動堂６",
+    "business_hours": "9:00〜17:00（入館は16:00まで）",
+    "admission_fees": "大人700円、大学生・高校生500円、中小学生300円（土曜日無料）",
+    "website_url": null,
+    "phone_number": "0765-83-0100",
+    "area": "富山県"
+  },
+  {
+    "id": 16,
+    "name": "富山市篁牛人記念美術館",
+    "location": "富山県富山市安養坊１０００",
+    "business_hours": "午前9時〜午後5時（入館は4時30分まで）",
+    "admission_fees": "大人（高校生以上） 100円（全館：520円）小・中学生　50円 （全館：260円）※土日祝：小中学生無料",
+    "website_url": null,
+    "phone_number": "076-433-9215",
+    "area": "富山県"
+  },
+  {
+    "id": 17,
+    "name": "青井記念館美術館",
+    "location": "富山県高岡市中川１丁目１－２０",
+    "business_hours": "AM10：00〜PM4:00（PM3：30まで入館完了）",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0766-21-1630",
+    "area": "富山県"
+  },
+  {
+    "id": 1,
+    "name": "金沢21世紀美術館",
+    "location": "石川県金沢市広坂１丁目２－１",
+    "business_hours": "展覧会ゾーン：10:00〜18:00（金・土曜は20:00まで）",
+    "admission_fees": "展覧会により異なる",
+    "website_url": null,
+    "phone_number": "076-220-2800",
+    "area": "石川県"
+  },
+  {
+    "id": 2,
+    "name": "能登島ガラス美術館",
+    "location": "石川県七尾市能登島向田町１２５－１０",
+    "business_hours": "【4月〜11月】午前9時〜午後5時（入館は午後4時30分まで）【12月〜3月】午前9時〜午後4時30分（入館は午後4時まで）",
+    "admission_fees": "大人（高校生以上）　800円中学生以下　無料",
+    "website_url": null,
+    "phone_number": "0767-84-1175",
+    "area": "石川県"
+  },
+  {
+    "id": 3,
+    "name": "石川県立美術館",
+    "location": "石川県金沢市出羽町２－１",
+    "business_hours": "9：30〜18：00＊カフェ：10：00〜19：00（年中無休）",
+    "admission_fees": "コレクション展示室　一般：360円　大学生：290円　高校生以下：無料　65歳以上：290円＊無料の日あり",
+    "website_url": null,
+    "phone_number": "076-231-7580",
+    "area": "石川県"
+  },
+  {
+    "id": 4,
+    "name": "金沢能樂美術館",
+    "location": "石川県金沢市広坂１丁目２－２５",
+    "business_hours": "10時00分〜18時00分（入館は17時30分まで）",
+    "admission_fees": "一般300円,65歳以上200円,高校生以下無料(利用可能クレジットカード：無し)",
+    "website_url": null,
+    "phone_number": "076-220-2790",
+    "area": "石川県"
+  },
+  {
+    "id": 5,
+    "name": "中村記念美術館",
+    "location": "石川県金沢市本多町３丁目２－２９",
+    "business_hours": "9:30〜17:00(受付は16:30迄)",
+    "admission_fees": "一般：300円65歳以上：200円障害者手帳をお持ちの方およびその介護人：200円(日祝日は無料)高校生以下：無料茶菓券：200円・300円",
+    "website_url": null,
+    "phone_number": "076-221-0751",
+    "area": "石川県"
+  },
+  {
+    "id": 15,
+    "name": "硲伊之助美術館",
+    "location": "石川県加賀市吸坂町４－３",
+    "business_hours": "10:00〜17:00 （入館は16:30まで）",
+    "admission_fees": "大人500円 高校生以下 無料",
+    "website_url": null,
+    "phone_number": "0761-72-0872",
+    "area": "石川県"
+  },
+  {
+    "id": 6,
+    "name": "本陣記念美術館",
+    "location": "石川県小松市丸の内公園町１９",
+    "business_hours": "午前９時〜午後５時（ただし、入館は４時半まで）",
+    "admission_fees": "平常展一般  400円大学生 200円※高校生以下は無料団　　体(20名以上)一般 300円大学生 150円※高校生以下は無料※特別展についてはその都度定めます。こまつミュージアム・パス1週間券 (最初に利用した日を含む1週間)  500円年間券 (年度末3月31日まで) 1500円対象施設の平常展を、有効期限内であれば何度でもご覧いただけます。",
+    "website_url": null,
+    "phone_number": "0761-22-3384",
+    "area": "石川県"
+  },
+  {
+    "id": 7,
+    "name": "七尾美術館",
+    "location": "石川県七尾市小丸山台１丁目１",
+    "business_hours": "９時〜１７時（入館は１６時３０分まで）",
+    "admission_fees": "一般５００円大高校生３５０円中学生以下無料（展示内容により料金が変わります）",
+    "website_url": null,
+    "phone_number": "0767-53-1500",
+    "area": "石川県"
+  },
+  {
+    "id": 8,
+    "name": "宮本三郎美術館",
+    "location": "石川県小松市小馬出町５",
+    "business_hours": "午前9時〜午後5時(但し、入場は4時半まで)",
+    "admission_fees": "【個人】一般：400円、大学生：200円※高校生以下は無料※特別展についてはその都度定めます。",
+    "website_url": null,
+    "phone_number": "0761-20-3600",
+    "area": "石川県"
+  },
+  {
+    "id": 9,
+    "name": "九谷焼美術館",
+    "location": "石川県加賀市大聖寺地方町１－１０－１３",
+    "business_hours": "9:00？17:00 (ご入館は16:30まで)",
+    "admission_fees": "一般　\\\\500 高齢者 (75歳以上)　\\\\250 高校生以下　無料 障害者　無料",
+    "website_url": null,
+    "phone_number": "0761-72-7466",
+    "area": "石川県"
+  },
+  {
+    "id": 10,
+    "name": "石川県輪島漆芸美術館",
+    "location": "石川県輪島市水守町四十苅１１",
+    "business_hours": "9:00〜17:00",
+    "admission_fees": "大人：600円大学生：300円　高校生：300円　中学生：150円小学生：150円",
+    "website_url": null,
+    "phone_number": "0768-22-9788",
+    "area": "石川県"
+  },
+  {
+    "id": 11,
+    "name": "浅蔵五十吉美術館",
+    "location": "石川県能美市泉台町南１",
+    "business_hours": "9：00〜17：00（受付終了は16：30まで）",
+    "admission_fees": "大人：430円？75歳以上：320円？高校生以下：無料",
+    "website_url": null,
+    "phone_number": "0761-58-6789",
+    "area": "石川県"
+  },
+  {
+    "id": 12,
+    "name": "松任中川一政記念美術館",
+    "location": "石川県白山市旭町６１－１",
+    "business_hours": "9:00〜17:00 入館は16:30まで",
+    "admission_fees": "大人:200円 高校生:100円 備考：中学生以下無料同日に限り白山市立松任博物館入館無料",
+    "website_url": null,
+    "phone_number": "076-275-7532",
+    "area": "石川県"
+  },
+  {
+    "id": 13,
+    "name": "宮本三郎美術館分館宮本三郎ふるさと館",
+    "location": "石川県小松市松崎町１６－１",
+    "business_hours": "午前９時〜午後５時（ただし、入館は４時半まで）",
+    "admission_fees": "平常展一般  400円大学生 200円※高校生以下は無料団　　体(20名以上)一般 300円大学生 150円※高校生以下は無料※特別展についてはその都度定めます。こまつミュージアム・パス1週間券 (最初に利用した日を含む1週間)  500円年間券 (年度末3月31日まで) 1500円対象施設の平常展を、有効期限内であれば何度でもご覧いただけます。",
+    "website_url": null,
+    "phone_number": "0761-43-3032",
+    "area": "石川県"
+  },
+  {
+    "id": 14,
+    "name": "羽根万象美術館",
+    "location": "石川県鳳珠郡能登町宇出津イ１１２－５",
+    "business_hours": "９時〜１７時（入館は１６時３０分まで）",
+    "admission_fees": "大人３００円小・中・高校生１５０円",
+    "website_url": null,
+    "phone_number": "0768-62-3669",
+    "area": "石川県"
+  },
+  {
+    "id": 16,
+    "name": "能美市九谷焼美術館",
+    "location": "石川県能美市泉台町56",
+    "business_hours": "9:00〜17:00※五彩館・浅蔵五十吉記念館は16：30まで体験館は16：00まで",
+    "admission_fees": "大人：430円／75歳以上：320円／高校生以下：無料",
+    "website_url": null,
+    "phone_number": "0761-58-6100",
+    "area": "石川県"
+  },
+  {
+    "id": 1,
+    "name": "福井市美術館",
+    "location": "福井県福井市下馬３丁目１１１１",
+    "business_hours": "開館時間:午前9時〜午後5時15分(入館は午後4時45分まで)",
+    "admission_fees": "常設展:一般,大・高校生   100円団体(20名以上)               50円中学生以下、70歳以上、障害者の方は無料企画展:展覧会によって異なります。",
+    "website_url": null,
+    "phone_number": "0776-33-2990",
+    "area": "福井県"
+  },
+  {
+    "id": 2,
+    "name": "愛宕坂茶道美術館",
+    "location": "福井県福井市足羽１丁目８－５",
+    "business_hours": "９時３０分から１６時３０分（入館は１６時まで）",
+    "admission_fees": "※企画展により異なる中学生以下無料",
+    "website_url": null,
+    "phone_number": "0776-33-3933",
+    "area": "福井県"
+  },
+  {
+    "id": 3,
+    "name": "ちひろの生まれた家　記念館",
+    "location": "福井県越前市天王町４－14",
+    "business_hours": "10:00〜16:00",
+    "admission_fees": "一般300円（高校生以下は無料）",
+    "website_url": null,
+    "phone_number": "0778-66-7112",
+    "area": "福井県"
+  },
+  {
+    "id": 4,
+    "name": "福井県立美術館",
+    "location": "福井県福井市文京３丁目１６－１",
+    "business_hours": "午前9時〜午後5時 (入館は午後4時30分まで)",
+    "admission_fees": "●常設展（所蔵品によるテーマ展）：　　一般・大学生　100円　（20名以上の団体は2割引）　　高校生以下、70歳以上、障害者手帳等をお持ちの方は無料。 　　＊ただし企画展開催中は、その鑑覧券でご覧いただけます。　　＊毎月第3日曜日「家庭の日」、2月7日「ふるさとの日」はテーマ展のみ無料開放。●企画展：そのつど定める料金による。",
+    "website_url": null,
+    "phone_number": "0776-25-0452",
+    "area": "福井県"
+  },
+  {
+    "id": 5,
+    "name": "熊川宿若狭美術館",
+    "location": "福井県三方上中郡若狭町熊川39-5-1",
+    "business_hours": "10:00~16:30",
+    "admission_fees": "通常時: 無料特別展示料: 有料",
+    "website_url": null,
+    "phone_number": "050-3565-5885",
+    "area": "福井県"
+  },
+  {
+    "id": 6,
+    "name": "能楽の里能面美術館",
+    "location": "福井県今立郡池田町志津原１７－２",
+    "business_hours": "平日　午前10時〜午後4時土・日曜　午前10時〜午後5時",
+    "admission_fees": "大人300円　　小人200円（小中学生）",
+    "website_url": null,
+    "phone_number": "0778-44-7757",
+    "area": "福井県"
+  },
+  {
+    "id": 7,
+    "name": "五色山公園匠の美術館",
+    "location": "福井県大飯郡高浜町山中６４－３－１",
+    "business_hours": "火〜日、祝日8:30〜17:00（入館〜16:30）",
+    "admission_fees": "大人　200円小中学生　100円",
+    "website_url": null,
+    "phone_number": "0770-76-1640",
+    "area": "福井県"
+  },
+  {
+    "id": 1,
+    "name": "国立西洋美術館",
+    "location": "東京都台東区上野公園７－７",
+    "business_hours": "午前9時30分〜午後5時30分※ただし、秋の企画展閉会日以降の開館日から春の企画展開催日までの開館期間中は午前9時30分〜午後5時無料観覧日毎月の第2、第4土曜日、文化の日（11月3日）※常設展示のみ無料となります。",
+    "admission_fees": "一　般：430円 220円  大学生：130円 70円",
+    "website_url": null,
+    "phone_number": "03-3828-5131",
+    "area": "東京都"
+  },
+  {
+    "id": 2,
+    "name": "国立新美術館",
+    "location": "東京都港区六本木７丁目２２－２",
+    "business_hours": "企画展10：00-18：00※会期中の毎週金・土曜日は20：00まで（ただし、7月－9月は21:00まで） 公募展10：00-18：00",
+    "admission_fees": "企画展は展覧会ごとに定めます。 公募展は美術団体によって異なります。",
+    "website_url": null,
+    "phone_number": "03-5777-8600",
+    "area": "東京都"
+  },
+  {
+    "id": 3,
+    "name": "東京都美術館",
+    "location": "東京都台東区上野公園8-36",
+    "business_hours": "9:30〜17：00",
+    "admission_fees": "企画展示による",
+    "website_url": null,
+    "phone_number": "03-3823-6921",
+    "area": "東京都"
+  },
+  {
+    "id": 4,
+    "name": "スヌーピーミュージアム",
+    "location": "東京都町田市鶴間3-1-4",
+    "business_hours": "平日　10：00〜18：00　（最終入場17：30）土日祝　10：00〜19：00　（最終入場18：30）",
+    "admission_fees": "【前売券】一般・大学生　1800円中高生　800円　　小学生　400円【当日券】一般・大学生　2000円中高生　1000円　　小学生　600円",
+    "website_url": null,
+    "phone_number": "042-812-2723",
+    "area": "東京都"
+  },
+  {
+    "id": 5,
+    "name": "三鷹の森ジブリ美術館",
+    "location": "東京都三鷹市下連雀1-1-83",
+    "business_hours": "10時〜18時",
+    "admission_fees": "大人・大学生：1,000円高校・中学生：700円小学生：400円幼児（4歳以上）100円4歳未満：無料",
+    "website_url": null,
+    "phone_number": "0570-05-5777",
+    "area": "東京都"
+  },
+  {
+    "id": 6,
+    "name": "チームラボプラネッツ　ＴＯＫＹＯ　ＤＭＭ.ｃｏｍ",
+    "location": "東京都江東区豊洲6-1-16",
+    "business_hours": "9:00 - 22:00",
+    "admission_fees": "大人 (18歳以上): 3,800円中学生・高校生: 2,300円小人 (4歳~12歳): 1,300円3歳以下: 無料障がい者割引: 1,900円",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "東京都"
+  },
+  {
+    "id": 15,
+    "name": "百段階段",
+    "location": "東京都目黒区下目黒１－８－１",
+    "business_hours": "―",
+    "admission_fees": "イベントにより異なる",
+    "website_url": null,
+    "phone_number": "035-434-3140",
+    "area": "東京都"
+  },
+  {
+    "id": 7,
+    "name": "上野の森美術館",
+    "location": "東京都台東区上野公園１－２",
+    "business_hours": "10：00〜17：00（入場は閉館30分前まで） ※展示により変更される場合があります。詳細は、公式サイトより展示のご案内 をご覧ください。",
+    "admission_fees": "展示により異なります。 ※入場料につきましては、公式サイトより展示のご案内 をご覧ください。",
+    "website_url": null,
+    "phone_number": "03-3833-4191",
+    "area": "東京都"
+  },
+  {
+    "id": 8,
+    "name": "岡本太郎記念館",
+    "location": "東京都港区南青山6-1-19",
+    "business_hours": "10:00〜18:00（最終入館17:30）",
+    "admission_fees": "一般　￥620/小学生　￥310",
+    "website_url": null,
+    "phone_number": "03-3406-0801",
+    "area": "東京都"
+  },
+  {
+    "id": 9,
+    "name": "東京国立近代美術館－本館",
+    "location": "東京都千代田区北の丸公園３－１",
+    "business_hours": "開館時間　10：00-17：00 金・土曜日は20：00まで（入館は閉館30分前まで）",
+    "admission_fees": "【所蔵作品展】一般：500円 大学生：150円（いずれも消費税込）。＊17時以降の入館は一般300円／大学生150円＊高校生以下および18歳未満、65歳以上、障害者手帳をお持ちの方（付添者は原則1名まで）、キャンパスメンバーズ、MOMATパスポート、賛助会・友の会会員証をお持ちの方は無料。 ＊企画展示は展覧会により異なる。",
+    "website_url": null,
+    "phone_number": "03-5777-8600",
+    "area": "東京都"
+  },
+  {
+    "id": 10,
+    "name": "すみだ北斎美術館",
+    "location": "東京都墨田区亀沢２－７－２",
+    "business_hours": "9：30〜17：30（入館は閉館の30分前まで）",
+    "admission_fees": "【 常設展 】一般　400円（団体320円)高校生、大学生、専門学校生、65歳以上　300円（団体240円）※高校生・大学生・専門学校生の方は生徒手帳・学生証を、65歳以上の方は年齢を証明するもの（健康保険証・運転免許証など）のご提示をお願いいたします。 【 常設展観覧料が無料となる方 】詳細につきましては、公式サイトよりご利用案内をご覧ください。 【 企画展 】展覧会ごとに異なります。詳しくは、公式サイト 各企画展のページをご覧ください。",
+    "website_url": null,
+    "phone_number": "03-6658-8936",
+    "area": "東京都"
+  },
+  {
+    "id": 11,
+    "name": "東京都現代美術館",
+    "location": "東京都江東区三好４丁目１－１",
+    "business_hours": "10:00〜18:00（入場は17:30まで）",
+    "admission_fees": "MOTコレクション（常設展）一般500円/大学・専門学校生400円/65歳以上・高校生250円/中学生以下無料＊企画展は展覧会ごとに別途設定",
+    "website_url": null,
+    "phone_number": "03-5245-4111",
+    "area": "東京都"
+  },
+  {
+    "id": 12,
+    "name": "三井記念美術館",
+    "location": "東京都中央区日本橋室町2-1-1 三井本館７階",
+    "business_hours": "10：00〜17：00（入館は16：30まで）",
+    "admission_fees": "一般　1,000円大学・高校生　500円中学生以下　無料※70歳以上の方は割引料金（要証明）※障害者手帳等お持ちの方は介護者1名とともに無料",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "東京都"
+  },
+  {
+    "id": 13,
+    "name": "東京富士美術館",
+    "location": "東京都八王子市谷野町492-1",
+    "business_hours": "10:00〜17:00（16:30受付終了）",
+    "admission_fees": "特別展入場料 展覧会によって異なる入場無料・中学・小学校生　毎週土曜日は入場無料・誕生日当日にご来館された方は、ご本人のみ入場無料特別割引・障がい者手帳を持参の方および同伴者1名までは通常料金の半額各種割引・当館が発行する当該展覧会の割引券付きチラシをお持ちの方　1枚に付き10名様まで・アートパスポート同伴者5名様まで・当館メルマガ登録者および同伴者5名様まで・65歳以上のお客様・団体割引（20名様以上）・各種提携カード割引",
+    "website_url": null,
+    "phone_number": "042-691-4511",
+    "area": "東京都"
+  },
+  {
+    "id": 14,
+    "name": "練馬区立美術館",
+    "location": "東京都練馬区貫井1-36-16",
+    "business_hours": "午前10時〜午後6時入館は、原則として午後5時30分まで",
+    "admission_fees": "展覧会により有料・無料の場合があります",
+    "website_url": null,
+    "phone_number": "03-3577-1821",
+    "area": "東京都"
+  },
+  {
+    "id": 16,
+    "name": "国際版画美術館",
+    "location": "東京都町田市原町田４丁目２８－１",
+    "business_hours": "平日 午前10時〜午後5時（入場は4時30分まで） 土・日・祝日 午前10時〜午後5時30分（入場は5時まで）",
+    "admission_fees": "企画展示は展覧会によって料金が変わります。※身体障がい者手帳、および東京都愛の手帳、精神障がい者保健福祉手帳をご持参の方と　付き添いの方は半額です。※満65歳以上の方は半額、中学生以下は無料です。？ミニ企画展（常設展示室）は無料です。",
+    "website_url": null,
+    "phone_number": "042-726-2771",
+    "area": "東京都"
+  },
+  {
+    "id": 17,
+    "name": "府中市美術館",
+    "location": "東京都府中市浅間町１丁目３",
+    "business_hours": "午前10時〜午後5時",
+    "admission_fees": "一般200円、大高生100円、中小生50円",
+    "website_url": null,
+    "phone_number": "042-336-3371",
+    "area": "東京都"
+  },
+  {
+    "id": 18,
+    "name": "目黒区美術館",
+    "location": "東京都目黒区目黒２丁目４－３６",
+    "business_hours": "10:00〜18:00（入館は17:30まで）",
+    "admission_fees": "観覧料は展覧会ごとに異なります",
+    "website_url": null,
+    "phone_number": "03-3714-1201",
+    "area": "東京都"
+  },
+  {
+    "id": 19,
+    "name": "森ビル　デジタルアート　ミュージアム：エプソン　チームラボボーダレス",
+    "location": "東京都港区麻布台1-2-4",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "東京都"
+  },
+  {
+    "id": 20,
+    "name": "東京都写真美術館",
+    "location": "東京都目黒区三田１丁目１３－３",
+    "business_hours": "10:00〜18:00（木曜日・金曜日は20:00まで）※入館は閉館の30分前まで",
+    "admission_fees": "開催展覧会・上映会によって料金が異なる",
+    "website_url": null,
+    "phone_number": "03-3280-0099",
+    "area": "東京都"
+  },
+  {
+    "id": 21,
+    "name": "出光美術館",
+    "location": "東京都千代田区丸の内3-1-1 帝劇ビル9階",
+    "business_hours": "午前10時〜午後5時（入館は午後4時30分まで） 毎週金曜日は午前10時〜午後7時（入館は午後6時30分まで",
+    "admission_fees": "一般1,000円／高・大生700円（団体20名以上 各200円引） 中学生以下無料（ただし保護者の同伴が必要です） ※障害者手帳をお持ちの方は200円引、その介護者1名は無料です※7月20日（土）〜31日（水）は「学生無料ウィーク」を開催します ※当館に常設展示はございません。",
+    "website_url": null,
+    "phone_number": "03-5777-8600",
+    "area": "東京都"
+  },
+  {
+    "id": 22,
+    "name": "松濤美術館",
+    "location": "東京都渋谷区松濤２丁目１４－１４",
+    "business_hours": "特別展期間中：午前10時〜午後6時（金曜のみ午後8時まで） 公募展・小中学生絵画展・サロン展期間中：午前9時〜午後5時 最終入館はいずれも閉館30分前までです。",
+    "admission_fees": "展覧会によって異なります",
+    "website_url": null,
+    "phone_number": "03-3465-9421",
+    "area": "東京都"
+  },
+  {
+    "id": 23,
+    "name": "永青文庫",
+    "location": "東京都文京区目白台1-1-1",
+    "business_hours": "10：00〜16：30(入館は16：00まで)",
+    "admission_fees": "一　般：800円（700円）シニア（70歳以上）：600円（500円）大学・高校生：400円※(　)内は10名以上の団体料金※中学生以下、障害者手帳をご提示の方及びその介助者（1名）は無料※ 別館サロンは別途200円（不定休）",
+    "website_url": null,
+    "phone_number": "03-3941-0850",
+    "area": "東京都"
+  },
+  {
+    "id": 24,
+    "name": "草間彌生美術館",
+    "location": "東京都新宿区弁天町１０７",
+    "business_hours": "木・金・土・日曜日および国民の祝日11:00－17:30",
+    "admission_fees": "一般　1,000円（税込）　小中高生　600円（税込）入場は日時指定の完全予約・定員制（各回90分）。毎月１日10:00（日本時間）に翌々月分のチケット販売を開始。 購入後の日時変更、払い戻しは不可。天候等により安全が確保できない場合は5階を閉鎖。ショップの利用は、チケットで入場している方のみ。",
+    "website_url": null,
+    "phone_number": "03-5273-1778",
+    "area": "東京都"
+  },
+  {
+    "id": 25,
+    "name": "太田記念美術館",
+    "location": "東京都渋谷区神宮前1-10-10",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "03-3403-0880",
+    "area": "東京都"
+  },
+  {
+    "id": 26,
+    "name": "板橋区立美術館",
+    "location": "東京都板橋区赤塚５丁目３４－２７",
+    "business_hours": "９時30分〜17時（入館は16時30分まで）",
+    "admission_fees": "展覧会ごとに異なります・特別展示観覧料 一般　　　650円高齢者（65歳以上）325円大学生　　450円高校生　　450円小中学生　200円*土曜日は、小中高校生は無料で観覧できます。*障がい者手帳をお持ちの方は半額、引率者１名のみ無料になります。*65歳以上の方は半額になります。（年齢を証明できるものが必要）",
+    "website_url": null,
+    "phone_number": "03-3979-3251",
+    "area": "東京都"
+  },
+  {
+    "id": 27,
+    "name": "アーティゾン美術館",
+    "location": "東京都中央区京橋1-7-2",
+    "business_hours": "10:00 〜 18:00祝日を除く毎週金曜日は20：00まで入館は閉館の30分前まで 日時指定予約制①10:00-11:30②12:00-13:30③14:00-15:30④16:00-17:30⑤金曜日のみ 18:00-19:30（ただし祝日を除く）",
+    "admission_fees": "料金は展示により異なります大学生・専門学校生・高校生・障がい者と介添者 無料（要ウェブ予約） 中学生以下 無料（予約不要）",
+    "website_url": null,
+    "phone_number": "03-5777-8600",
+    "area": "東京都"
+  },
+  {
+    "id": 28,
+    "name": "吉祥寺美術館",
+    "location": "東京都武蔵野市吉祥寺本町１丁目８－１６",
+    "business_hours": "１０：００〜１９：３０",
+    "admission_fees": "１００円",
+    "website_url": null,
+    "phone_number": "0422-22-0385",
+    "area": "東京都"
+  },
+  {
+    "id": 29,
+    "name": "森美術館",
+    "location": "東京都港区六本木６－１０－１",
+    "business_hours": "月・水〜日10:00〜22:00（最終入館 21:30）火10:00〜17:00（最終入館 16:30）",
+    "admission_fees": "一般\\t1,800円学生（高校・大学生）\\t1,200円子供（4歳〜中学生）\\t600円シニア（65歳以上）\\t1,500円（東京シティビューにも入館可）",
+    "website_url": null,
+    "phone_number": "03-5777-8600",
+    "area": "東京都"
+  },
+  {
+    "id": 30,
+    "name": "宮本三郎記念美術館",
+    "location": "東京都世田谷区奥沢５丁目３８－１３",
+    "business_hours": "午前10時〜午後6時　　入館は午後5時30分まで",
+    "admission_fees": "一般　　\\t200円\\t大高生\\t150円\\t65歳以上\\t100円\\t中小生\\t100円\\t障害者\\t100円※学生の方、65歳以上の方、障害者の方は証明書などをご提示ください。※障害者で、小・中・高・大学生、および障害者の介助者（該当者一名につき一名に限る）は無料。※小・中学生は、土・日・祝・休日および夏休み期間は無料。",
+    "website_url": null,
+    "phone_number": "03-5483-3836",
+    "area": "東京都"
+  },
+  {
+    "id": 6,
+    "name": "横須賀美術館",
+    "location": "神奈川県横須賀市鴨居４丁目１",
+    "business_hours": "10時〜18時",
+    "admission_fees": "一般　　310円高校生・大学生・65歳以上の方　210円中学生以下　無料",
+    "website_url": null,
+    "phone_number": "046-845-1211",
+    "area": "神奈川県"
+  },
+  {
+    "id": 1,
+    "name": "箱根ガラスの森美術館",
+    "location": "神奈川県足柄下郡箱根町仙石原940-48",
+    "business_hours": "午前9時から午後5時30分（ご入館は5時迄）",
+    "admission_fees": "【一般】大人￥1,500　大高生￥1,100　小中生￥600・シニア（65歳以上）割引￥1,500→￥1,400（他の割引との併用はできません）・障害者割引　ご本人様とお付添いの方1名様までそれぞれ800円で ご入館頂けます。(障害者手帳をご提示ください)",
+    "website_url": null,
+    "phone_number": "0460-86-3111",
+    "area": "神奈川県"
+  },
+  {
+    "id": 2,
+    "name": "彫刻の森美術館",
+    "location": "神奈川県足柄下郡箱根町二ノ平1121",
+    "business_hours": "9:00〜17:00※入館は閉館の30分前まで",
+    "admission_fees": "（個人）一般:1600円大学生・高校生:1200円中学生・小学生:800円（障害者手帳をお持ちの方）一般:1000円大学生・高校生:700円中学生・小学生:500円 ※「毎週土曜日はファミリー優待日」保護者1名につき小・中学生5名まで無料ご招待",
+    "website_url": null,
+    "phone_number": "0460-82-1161",
+    "area": "神奈川県"
+  },
+  {
+    "id": 3,
+    "name": "横浜美術館",
+    "location": "神奈川県横浜市西区みなとみらい3-4-1",
+    "business_hours": "10：00〜17：30（閉館は18：00）",
+    "admission_fees": "一般500円、高校・大学生300円、中学生100円、小学生以下無料（企画展は別料金）",
+    "website_url": null,
+    "phone_number": "045-221-0300",
+    "area": "神奈川県"
+  },
+  {
+    "id": 4,
+    "name": "箱根ラリック美術館",
+    "location": "神奈川県足柄下郡箱根町仙石原186-1",
+    "business_hours": "午前9時〜午後5時（美術館入館は4時30分まで）",
+    "admission_fees": "大人\\t￥1,500大学生・高校生・シニア（65歳以上）\\t￥1,300中学生・小学生\\t￥800",
+    "website_url": null,
+    "phone_number": "0460-84-2255",
+    "area": "神奈川県"
+  },
+  {
+    "id": 5,
+    "name": "平塚市美術館",
+    "location": "神奈川県平塚市西八幡１丁目３－３",
+    "business_hours": "9:30〜17:00（入場は〜16:30）休館日は　　● 月曜日（月曜日が祝日・国民の休日の場合は開館し翌日休館、振替休日の場合は開館）　　● 年末年始（12月29日〜1月3日）",
+    "admission_fees": "特集展　一般200円、高大生100円　企画展は展覧会ごとに異なります。",
+    "website_url": null,
+    "phone_number": "0463-35-2111",
+    "area": "神奈川県"
+  },
+  {
+    "id": 7,
+    "name": "箱根美術館",
+    "location": "神奈川県足柄下郡箱根町強羅１３００",
+    "business_hours": "【４月〜１１月】9:30〜16:30【１２月〜３月】9:30〜16:00※最終入館は閉館30分前 茶室真和亭の開席時間10:00〜15:30",
+    "admission_fees": "一般1,300円高大生600円中学生以下無料シニア割引1,100円障害者割引800円",
+    "website_url": null,
+    "phone_number": "046-082-2623",
+    "area": "神奈川県"
+  },
+  {
+    "id": 8,
+    "name": "岡本太郎美術館",
+    "location": "神奈川県川崎市多摩区枡形７丁目１－５",
+    "business_hours": "9:30〜17:00（入館は16:30まで）",
+    "admission_fees": "企画展が開催されていない時（常設展のみ開催時）は、一般500円、高校･大学生・65歳以上、300円です。　　※幼児、小・中学生は無料です。",
+    "website_url": null,
+    "phone_number": "044-900-9898",
+    "area": "神奈川県"
+  },
+  {
+    "id": 9,
+    "name": "中川一政美術館",
+    "location": "神奈川県足柄下郡真鶴町真鶴１１７８－１",
+    "business_hours": "午前9時30分から午後4：30分（入館は午後4時まで）",
+    "admission_fees": "大人　600円高校生以下　350円障がい者　無料",
+    "website_url": null,
+    "phone_number": "0465-68-1128",
+    "area": "神奈川県"
+  },
+  {
+    "id": 10,
+    "name": "箱根・芦ノ湖成川美術館",
+    "location": "神奈川県足柄下郡箱根町元箱根５７０",
+    "business_hours": "9:00〜17:00",
+    "admission_fees": "一般1,300円、高・大学生900円、小・中学生600円、幼児無料",
+    "website_url": null,
+    "phone_number": "0460-83-6828",
+    "area": "神奈川県"
+  },
+  {
+    "id": 11,
+    "name": "茅ケ崎市美術館",
+    "location": "神奈川県茅ヶ崎市東海岸北１－４－４５",
+    "business_hours": "10:00〜18:0011月〜3月は17:00まで（入館は閉館の30分前まで）",
+    "admission_fees": "一般200円大学生100円高校生以下・市内在住65歳以上は無料",
+    "website_url": null,
+    "phone_number": "0467-88-1177",
+    "area": "神奈川県"
+  },
+  {
+    "id": 12,
+    "name": "箱根ドールハウス美術館",
+    "location": "神奈川県足柄下郡箱根町芦之湯84-55",
+    "business_hours": "4月〜10月10:00〜17:30（最終入館 17:00）11月〜3月10:00〜17:00（最終入館 16:30）",
+    "admission_fees": "大人1,800円学生(中高大)1500円学生(小学校)1200円未就学児無料※障害者手帳をお持ちの方、および同伴者1名様まで半額",
+    "website_url": null,
+    "phone_number": "0460-85-1321",
+    "area": "神奈川県"
+  },
+  {
+    "id": 13,
+    "name": "湯河原美術館",
+    "location": "神奈川県足柄下郡湯河原町宮上６２３－１",
+    "business_hours": "9:00〜16:30（入館は16:00まで）",
+    "admission_fees": "大人　600円小・中学生　300円",
+    "website_url": null,
+    "phone_number": "0465-63-7788",
+    "area": "神奈川県"
+  },
+  {
+    "id": 14,
+    "name": "鎌倉市鏑木清方記念美術館",
+    "location": "神奈川県鎌倉市雪ノ下１丁目５－２５",
+    "business_hours": "9:00〜17:00",
+    "admission_fees": "一般200円 小・中学生100円",
+    "website_url": null,
+    "phone_number": "0467-23-6405",
+    "area": "神奈川県"
+  },
+  {
+    "id": 15,
+    "name": "近代美術館葉山",
+    "location": "神奈川県三浦郡葉山町一色２２０８－１",
+    "business_hours": "午前9時30分〜午後5時（入場は午後4時30分まで）月曜日（ただし祝日および振替休日の場合は開館）展示替期間（ただしレストランと駐車場は月曜を除き営業）年末年始（12月29日〜1月3日）",
+    "admission_fees": "展覧会によって異なります。（カッコ内は20名以上の団体料金）",
+    "website_url": null,
+    "phone_number": "046-875-2800",
+    "area": "神奈川県"
+  },
+  {
+    "id": 16,
+    "name": "箱根武士の里美術館",
+    "location": "神奈川県足柄下郡箱根町仙石原８１７－５８０",
+    "business_hours": "4月〜11月10:00〜17:0012月〜3月10:00〜16:00※閉館30分前",
+    "admission_fees": "大人（中学生以上）：800円中学生：600円小学生：400円",
+    "website_url": null,
+    "phone_number": "0460-84-8177",
+    "area": "神奈川県"
+  },
+  {
+    "id": 17,
+    "name": "ポーラ美術館",
+    "location": "神奈川県足柄下郡箱根町仙石原小塚山1285",
+    "business_hours": "午前9時〜午後5時（入館は午後4時30分まで）",
+    "admission_fees": "大人　￥1,800シニア割引（65歳以上）￥1,600大学・高校生　￥1,300中学生以下　無料 障害者手帳をお持ちのご本人及び付添者（1名まで）￥1,000",
+    "website_url": null,
+    "phone_number": "0460-84-2111",
+    "area": "神奈川県"
+  },
+  {
+    "id": 18,
+    "name": "そごう美術館",
+    "location": "神奈川県横浜市西区高島2-18-1そごう横浜店6Ｆ",
+    "business_hours": "10：00〜19：30（閉館は20：00）",
+    "admission_fees": "企画展により異なる",
+    "website_url": null,
+    "phone_number": "045-465-5515",
+    "area": "神奈川県"
+  },
+  {
+    "id": 19,
+    "name": "北鎌倉古民家ミュージアム",
+    "location": "神奈川県鎌倉市山ノ内392-1",
+    "business_hours": "開館時間：10時 〜 17時",
+    "admission_fees": "一般：500円，中高生：300円，小学生：200円",
+    "website_url": null,
+    "phone_number": "0467-25-5641",
+    "area": "神奈川県"
+  },
+  {
+    "id": 20,
+    "name": "川崎浮世絵ギャラリー",
+    "location": "神奈川県川崎市川崎区駅前本町１２－１",
+    "business_hours": "11:00〜18:30　(入館18:15まで)",
+    "admission_fees": "一般500円高校生以下無料",
+    "website_url": null,
+    "phone_number": "044-280-9511",
+    "area": "神奈川県"
+  },
+  {
+    "id": 21,
+    "name": "藤澤浮世絵館",
+    "location": "神奈川県藤沢市辻堂神台二丁目2番2号 ココテラス湘南7階",
+    "business_hours": "10:00〜19:00（入館は18:30まで）",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "神奈川県"
+  },
+  {
+    "id": 22,
+    "name": "岡田美術館",
+    "location": "神奈川県足柄下郡箱根町小涌谷493-1",
+    "business_hours": "午前9：00〜午後17：00（最終入館16：30）",
+    "admission_fees": "一般・大学生：2,800円小中高生　　：1,800円前売券一般・大学生：2,550円小中高生　　：1,550円",
+    "website_url": null,
+    "phone_number": "0460-87-3931",
+    "area": "神奈川県"
+  },
+  {
+    "id": 23,
+    "name": "国立映画アーカイブ　相模原分館",
+    "location": "神奈川県相模原市中央区高根３－１－４",
+    "business_hours": "11:00am-6:30pm（入室は6:00pmまで）＊毎月末金曜日は11:00am-8:00pm（入室は7:30pmまで）",
+    "admission_fees": "一般250円／大学生130円、高校生以下無料",
+    "website_url": null,
+    "phone_number": "042-758-0128",
+    "area": "神奈川県"
+  },
+  {
+    "id": 24,
+    "name": "光と緑の美術館",
+    "location": "神奈川県相模原市中央区横山３丁目６－１８",
+    "business_hours": "10：00－18：00",
+    "admission_fees": "一般250円、高・大・65才以上は100円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "042-757-7151",
+    "area": "神奈川県"
+  },
+  {
+    "id": 25,
+    "name": "中村正義の美術館",
+    "location": "神奈川県川崎市麻生区細山７－２－８",
+    "business_hours": "11:00〜17:00",
+    "admission_fees": "一般500円、65歳以上300円、学生300円、小中生200円",
+    "website_url": null,
+    "phone_number": "044-953-4936",
+    "area": "神奈川県"
+  },
+  {
+    "id": 1,
+    "name": "角川武蔵野ミュージアム",
+    "location": "埼玉県所沢市東所沢和田3-31-3",
+    "business_hours": "日〜木曜10:00〜18:00（最終入館 17:30）金・土曜10:00〜21:00（最終入館 20:30）",
+    "admission_fees": "【スタンダードチケット】大人1,200円、中高生1,000円、小学生800円【１ＤＡＹパスポート】月〜木曜大人3,000円、中高生2,100円、小学生1,600円金・土・日曜大人4,000円、中高生3,100円、小学生2,600円 その他、企画展によって入場料異なる",
+    "website_url": null,
+    "phone_number": "0570-017-396",
+    "area": "埼玉県"
+  },
+  {
+    "id": 2,
+    "name": "埼玉県立近代美術館",
+    "location": "埼玉県さいたま市浦和区常盤９丁目３０－１",
+    "business_hours": "10:00〜17：00",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "048-824-0111",
+    "area": "埼玉県"
+  },
+  {
+    "id": 3,
+    "name": "川越市立美術館",
+    "location": "埼玉県川越市郭町２丁目３０－１",
+    "business_hours": "9：00〜17：00（入場は16：30まで）",
+    "admission_fees": "常設展一般200円、大学生・高校生100円、中学生以下は無料  特別展展覧会ごとに設定",
+    "website_url": null,
+    "phone_number": "049-228-8080",
+    "area": "埼玉県"
+  },
+  {
+    "id": 4,
+    "name": "うらわ美術館",
+    "location": "埼玉県さいたま市浦和区仲町２丁目５－１",
+    "business_hours": "開館時間平日：10：00〜17：00土日：10：00〜20：00入場は閉館30分前まで",
+    "admission_fees": "展示物によって観覧料が変わります。",
+    "website_url": null,
+    "phone_number": "048-827-3215",
+    "area": "埼玉県"
+  },
+  {
+    "id": 5,
+    "name": "大宮盆栽美術館",
+    "location": "埼玉県さいたま市北区土呂町２丁目２４－３",
+    "business_hours": "午前9時〜午後4時30分（3月〜10月） 午前9時〜午後4時（11月〜2月）",
+    "admission_fees": "一般  300円高大生・65歳以上 150円小中学生  100円障害者手帳所有者、付添人1名は半額",
+    "website_url": null,
+    "phone_number": "048-780-2091",
+    "area": "埼玉県"
+  },
+  {
+    "id": 6,
+    "name": "アートギャラリー・アトリア",
+    "location": "埼玉県川口市並木元町１－７６",
+    "business_hours": "10時〜18時",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "048-253-0222",
+    "area": "埼玉県"
+  },
+  {
+    "id": 7,
+    "name": "原爆の図丸木美術館",
+    "location": "埼玉県東松山市下唐子１４０１",
+    "business_hours": "3月〜11月 \\t夏時間：午前９時〜午後５時12月〜2月 \\t冬時間：午前９時半〜午後４時半",
+    "admission_fees": "大人900円、中高生600円、小学生400円、60歳以上800円",
+    "website_url": null,
+    "phone_number": "0493-22-3266",
+    "area": "埼玉県"
+  },
+  {
+    "id": 8,
+    "name": "河鍋暁斎記念美術館",
+    "location": "埼玉県蕨市南町４－３６－４",
+    "business_hours": "10:00〜16:00　（16:00まで入館可）",
+    "admission_fees": "一般500円、高・大学生400円、小・中学生200円、65歳以上400円、幼児無料※特別展開催時は100円加算",
+    "website_url": null,
+    "phone_number": "048-441-9780",
+    "area": "埼玉県"
+  },
+  {
+    "id": 9,
+    "name": "しのぎ刀剣美術館",
+    "location": "埼玉県比企郡ときがわ町五明267-5",
+    "business_hours": "午前９時〜午後６時",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0493-65-0282",
+    "area": "埼玉県"
+  },
+  {
+    "id": 10,
+    "name": "秩父美術館",
+    "location": "埼玉県秩父市永田町７－１",
+    "business_hours": "10：00〜16：00（最終入館時間：17：00まで）",
+    "admission_fees": "大人500円・学生400円",
+    "website_url": null,
+    "phone_number": "0494-23-1177",
+    "area": "埼玉県"
+  },
+  {
+    "id": 1,
+    "name": "佐倉市立美術館",
+    "location": "千葉県佐倉市新町２１０",
+    "business_hours": "午前10時〜午後6時（入館は午後5時30分まで）",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "043-485-7851",
+    "area": "千葉県"
+  },
+  {
+    "id": 2,
+    "name": "千葉県立美術館",
+    "location": "千葉県千葉市中央区中央港１丁目１０－１",
+    "business_hours": "午前９時〜午後４時３０分（入館は午後４時まで）",
+    "admission_fees": "常設展一般３００円（２４０円） 高校・大学生１５０円（１２０円）中学生以下・65歳以上 無料",
+    "website_url": null,
+    "phone_number": "043-242-8311",
+    "area": "千葉県"
+  },
+  {
+    "id": 3,
+    "name": "塚本美術館",
+    "location": "千葉県佐倉市裏新町１－４",
+    "business_hours": "午前10時から午後4時",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "043-486-7097",
+    "area": "千葉県"
+  },
+  {
+    "id": 4,
+    "name": "ホキ美術館",
+    "location": "千葉県千葉市緑区あすみが丘東３丁目１５",
+    "business_hours": "午前10時〜午後5時30分※ 入館受付は閉館時間の30分前の午後5時まで★ナイトミュージアムのある日は営業時間が延長されます。",
+    "admission_fees": "一般：1800円、高校生・大学生・65歳以上：1300円、中学生：900円、小学生以下無料（大人1人につき小学生2人まで）",
+    "website_url": null,
+    "phone_number": "043-205-1500",
+    "area": "千葉県"
+  },
+  {
+    "id": 5,
+    "name": "千葉市美術館",
+    "location": "千葉県千葉市中央区中央３丁目１０－８",
+    "business_hours": "午前10時－午後6時 （入場は午後5時30分まで） 金・土曜日は、午後8時まで開館 （入場は午後7時30分まで）",
+    "admission_fees": "観覧料は展覧会毎に異なります。",
+    "website_url": null,
+    "phone_number": "043-221-2311",
+    "area": "千葉県"
+  },
+  {
+    "id": 6,
+    "name": "市原湖畔美術館",
+    "location": "千葉県市原市不入75-1",
+    "business_hours": "平日 : 10：00 - 17：00土・休前日 : 9：30 - 19：00日・祝 : 9：30 - 18：00",
+    "admission_fees": "一般　：　\\\\600大高生　：　\\\\500シニア(65歳以上)　：　\\\\500中学生以下　：　無料",
+    "website_url": null,
+    "phone_number": "0436-98-1525",
+    "area": "千葉県"
+  },
+  {
+    "id": 7,
+    "name": "茂原市立美術館・郷土資料館",
+    "location": "千葉県茂原市高師１３４５－１",
+    "business_hours": "年中無休",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0475-26-2131",
+    "area": "千葉県"
+  },
+  {
+    "id": 8,
+    "name": "ＤＩＣ川村記念美術館",
+    "location": "千葉県佐倉市坂戸６３１",
+    "business_hours": "9:30〜17:00 ※入館は16:30まで",
+    "admission_fees": "一般1,000円、大学生800円、小中高校生600円、65歳以上800円",
+    "website_url": null,
+    "phone_number": "043-498-2131",
+    "area": "千葉県"
+  },
+  {
+    "id": 9,
+    "name": "菱川師宣記念館",
+    "location": "千葉県安房郡鋸南町吉浜５１６",
+    "business_hours": "9時00分から17時00分まで（入館は16時30分まで）",
+    "admission_fees": "一般・大学生　500円小・中・高校生　400円",
+    "website_url": null,
+    "phone_number": "047-055-4061",
+    "area": "千葉県"
+  },
+  {
+    "id": 10,
+    "name": "千葉市民ギャラリー・いなげ",
+    "location": "千葉県千葉市稲毛区稲毛１丁目８－３５",
+    "business_hours": "9:00〜17:15",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "043-248-8723",
+    "area": "千葉県"
+  },
+  {
+    "id": 11,
+    "name": "ふなばしアンデルセン公園子ども美術館",
+    "location": "千葉県船橋市金堀町５２５",
+    "business_hours": "9:30〜16:00※4月8日〜10月31日の土日祝と3月20日〜4月7日／7月20日〜8月31日は、17:00まで開館",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "047-457-6661",
+    "area": "千葉県"
+  },
+  {
+    "id": 12,
+    "name": "白浜海洋美術館",
+    "location": "千葉県南房総市白浜町白浜６２８－１",
+    "business_hours": "１０：００〜１７：００",
+    "admission_fees": "一般５００円、学生４００円、小・中学生 　２００円",
+    "website_url": null,
+    "phone_number": "0470-38-4551",
+    "area": "千葉県"
+  },
+  {
+    "id": 13,
+    "name": "中村順二美術館",
+    "location": "千葉県柏市大津ケ丘１丁目４１－５",
+    "business_hours": "10：00〜18：00",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "04-7191-2299",
+    "area": "千葉県"
+  },
+  {
+    "id": 14,
+    "name": "ＳＧＴ美術館",
+    "location": "千葉県勝浦市守谷1512",
+    "business_hours": "―",
+    "admission_fees": "一般・大学生　900円中高生　　　  　600円小学生　　　　  400円",
+    "website_url": null,
+    "phone_number": "0470-64-6336",
+    "area": "千葉県"
+  },
+  {
+    "id": 15,
+    "name": "木更津わたくし美術館",
+    "location": "千葉県木更津市貝渕４丁目１１－７",
+    "business_hours": "PM1:00〜PM5:00※展示によって開館日及び開館時間等が異なりますのでご注意ください",
+    "admission_fees": "一般　300円　/　中学生以下は無料",
+    "website_url": null,
+    "phone_number": "0438-38-3003",
+    "area": "千葉県"
+  },
+  {
+    "id": 16,
+    "name": "城西国際大学水田美術館",
+    "location": "千葉県東金市求名１",
+    "business_hours": "午前１０時〜午後４時",
+    "admission_fees": "展覧会により異なる",
+    "website_url": null,
+    "phone_number": "0475-53-2562",
+    "area": "千葉県"
+  },
+  {
+    "id": 1,
+    "name": "茨城県陶芸美術館",
+    "location": "茨城県笠間市笠間２３４５",
+    "business_hours": "9：30〜17：00",
+    "admission_fees": "コレクション展　一般：310円　大・高校生：260円　小・中学生：150円　70歳以上の方・障害者手帳等お持ちの方と付き添い1名・土曜入館の小・中・高校生：無料",
+    "website_url": null,
+    "phone_number": "0296-70-0011",
+    "area": "茨城県"
+  },
+  {
+    "id": 2,
+    "name": "茨城県近代美術館",
+    "location": "茨城県水戸市千波町東久保６６６－１",
+    "business_hours": "9:30〜17:00(入場は16:30まで)",
+    "admission_fees": "一般  310円高校生・大学生  240円小学生・中学生  170円",
+    "website_url": null,
+    "phone_number": "029-243-5111",
+    "area": "茨城県"
+  },
+  {
+    "id": 3,
+    "name": "古河歴史博物館別館古河街角美術館",
+    "location": "茨城県古河市中央町２丁目６－６０",
+    "business_hours": "09:00-17:00",
+    "admission_fees": "入館無料",
+    "website_url": null,
+    "phone_number": "0280-22-5911",
+    "area": "茨城県"
+  },
+  {
+    "id": 4,
+    "name": "大野潮騒はまなす公園美術館・資料館",
+    "location": "茨城県鹿嶋市大字角折２０９６－１",
+    "business_hours": "9:00〜16:30",
+    "admission_fees": "大人：300円小中学生：200円4歳〜就学前：100円",
+    "website_url": null,
+    "phone_number": "0299-69-4411",
+    "area": "茨城県"
+  },
+  {
+    "id": 6,
+    "name": "古河歴史博物館別館篆刻美術館",
+    "location": "茨城県古河市中央町２丁目４－１８",
+    "business_hours": "？午前9時から午後5時(入館は4時30分まで）",
+      "admission_fees": "？一般200円？小中高生50円",
+      "website_url": null,
+      "phone_number": "0280-22-5611",
+      "area": "茨城県"
+  },
+  {
+    "id": 5,
+    "name": "天心記念五浦美術館",
+    "location": "茨城県北茨城市大津町椿２０８３",
+    "business_hours": "4/1〜9/30：9：00〜17：0010/1〜3/31：9：30〜17：00",
+    "admission_fees": "企画展　一般：620円　大・高校生：410円　小・中学生：210円所蔵品展　一般：190円　大・高校生：110円　小・中学生：80円70歳以上・障害者手帳等お持ちの方と付き添い1名・土曜の小・中・高校生の利用：無料",
+    "website_url": null,
+    "phone_number": "0293-46-5311",
+    "area": "茨城県"
+  },
+  {
+    "id": 7,
+    "name": "茨城県近代美術館つくば分館",
+    "location": "茨城県つくば市吾妻２丁目８",
+    "business_hours": "9:30〜17:00",
+    "admission_fees": "展覧会毎に設定",
+    "website_url": null,
+    "phone_number": "029-856-3711",
+    "area": "茨城県"
+  },
+  {
+    "id": 8,
+    "name": "しもだて美術館",
+    "location": "茨城県筑西市丙３７２",
+    "business_hours": "10:00〜18:00　（入館は17:30まで）",
+    "admission_fees": "一般：200円高校生以下：無料",
+    "website_url": null,
+    "phone_number": "0296-23-1601",
+    "area": "茨城県"
+  },
+  {
+    "id": 9,
+    "name": "東京藝術大学大学美術館取手館",
+    "location": "茨城県取手市小文間５０００",
+    "business_hours": "開館時間、観覧料は展覧会ごとに異なります",
+    "admission_fees": "開館時間、観覧料は展覧会ごとに異なります",
+    "website_url": null,
+    "phone_number": "0297-73-9111",
+    "area": "茨城県"
+  },
+  {
+    "id": 10,
+    "name": "ひょうたん美術館",
+    "location": "茨城県小美玉市小岩戸１６７７",
+    "business_hours": "9:30〜16:30（入館は16:00まで）",
+    "admission_fees": "大人：８００円、小･中学生：４００円",
+    "website_url": null,
+    "phone_number": "0299-48-4088",
+    "area": "茨城県"
+  },
+  {
+    "id": 11,
+    "name": "チームラボ　幽谷隠田跡",
+    "location": "茨城県北茨城市大津町2132番地",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "茨城県"
+  },
+  {
+    "id": 1,
+    "name": "とりっくあーとぴあ日光",
+    "location": "栃木県日光市小佐越1-4",
+    "business_hours": "【7月中旬〜8/31】 9:00〜17:30【9/1〜7月中旬】 9:30〜17:00",
+    "admission_fees": "中学生以上：1,900円3歳〜小学生：1,100円 障がい者手帳お持ちの方中学生以上：950円3歳〜小学生：550円 ホログラフィー館は 300円追加料金でご利用可能",
+    "website_url": null,
+    "phone_number": "0288-77-3565",
+    "area": "栃木県"
+  },
+  {
+    "id": 2,
+    "name": "那珂川町馬頭広重美術館",
+    "location": "栃木県那須郡那珂川町馬頭１１６－９",
+    "business_hours": "9:30〜17:00　（入館は16:30まで）",
+    "admission_fees": "一般：500円大高生：300円中学生以下：無料障がい者手帳お持ちの方、付き添いの方は半額。",
+    "website_url": null,
+    "phone_number": "0287-92-1199",
+    "area": "栃木県"
+  },
+  {
+    "id": 3,
+    "name": "車屋美術館",
+    "location": "栃木県小山市乙女３丁目１０－３４",
+    "business_hours": "4〜9月　9:00〜17:0010〜3月　9:00〜16:00",
+    "admission_fees": "美術館展示は展示内容により異なる",
+    "website_url": null,
+    "phone_number": "0285-41-0968",
+    "area": "栃木県"
+  },
+  {
+    "id": 4,
+    "name": "宇都宮美術館",
+    "location": "栃木県宇都宮市長岡町１０７７",
+    "business_hours": "9:30〜17:00",
+    "admission_fees": "一般　310円高･大学生　210円小･中学生　100円※宇都宮市内在学もしくは在住の高校生以下は無料。4月1日(市民の日)･11月3日(文化の日)は宇都宮市民は無料。障害者割引あり(要証明書)",
+    "website_url": null,
+    "phone_number": "028-643-0100",
+    "area": "栃木県"
+  },
+  {
+    "id": 5,
+    "name": "栃木県立美術館",
+    "location": "栃木県宇都宮市桜４丁目２－７",
+    "business_hours": "午前9時30分から午後5時まで（入館は4時30分まで）",
+    "admission_fees": "企画展ごとに定められています無料日：2016年6月11日（土）、12日（日）、15日（水）県民の日、11月3日（木）文化の日",
+    "website_url": null,
+    "phone_number": "028-621-3566",
+    "area": "栃木県"
+  },
+  {
+    "id": 6,
+    "name": "うつのみや文化の森",
+    "location": "栃木県宇都宮市長岡町1077",
+    "business_hours": "午後8時〜午後10時（駐車場の利用時間です）",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "028-643-0100",
+    "area": "栃木県"
+  },
+  {
+    "id": 7,
+    "name": "小杉放菴記念日光美術館",
+    "location": "栃木県日光市山内２３８８－３",
+    "business_hours": "9：30〜17：00",
+    "admission_fees": "一般：720円大学生：510円高校生以下：無料障害者手帳等お持ちの方と介護者1名：無料",
+    "website_url": null,
+    "phone_number": "0288-50-1200",
+    "area": "栃木県"
+  },
+  {
+    "id": 9,
+    "name": "足利市立美術館",
+    "location": "栃木県足利市通２－１４－７",
+    "business_hours": "AM10:00〜PM6：00（入館はPM 5:30まで）",
+    "admission_fees": "展覧会によって異る郷土作家コーナーは観覧無料 中学生以下はすべての展覧会無料郷土作家コーナーは観覧無料",
+    "website_url": null,
+    "phone_number": "0284-43-3131",
+    "area": "栃木県"
+  },
+  {
+    "id": 8,
+    "name": "川上澄生美術館",
+    "location": "栃木県鹿沼市睦町２８７－１４",
+    "business_hours": "9：00〜17：00（入館は16：30まで）",
+    "admission_fees": "一般300円（200円） 　　高校生・大学生200円（100円） 　　小学生・中学生100円（50円）　　 　　（　　）内は20名以上の団体料金です。 　　※毎週土曜日は小・中学生は無料でご覧いただけます。 　　※毎月第3日曜日は鹿沼市内の小・中学生及び同伴する大人は無料です。 　　※障がい者手帳の交付を受けている方とその介護者1名は無料です。",
+    "website_url": null,
+    "phone_number": "0289-62-8272",
+    "area": "栃木県"
+  },
+  {
+    "id": 10,
+    "name": "吉澤記念美術館",
+    "location": "栃木県佐野市葛生東１－１４－３０",
+    "business_hours": "午前9時30分〜午後5時",
+    "admission_fees": "一般510円大学生以下・障害者手帳等をお持ちの方は観覧無料※学生証・障害者手帳等をご提示ください。",
+    "website_url": null,
+    "phone_number": "0283-86-2008",
+    "area": "栃木県"
+  },
+  {
+    "id": 11,
+    "name": "サンバレー美術館",
+    "location": "栃木県那須郡那須町大字湯本２０３",
+    "business_hours": "10：00〜12：0013：00〜17：00",
+    "admission_fees": "大人７００円　中･高･大学生５００円　小学生以下無料",
+    "website_url": null,
+    "phone_number": "0287-76-6600",
+    "area": "栃木県"
+  },
+  {
+    "id": 12,
+    "name": "草雲美術館",
+    "location": "栃木県足利市緑町２－３７６８",
+    "business_hours": "午前9時〜午後4時",
+    "admission_fees": "個人（一般・高校生）　210円中学生以下　無料",
+    "website_url": null,
+    "phone_number": "0284-21-3808",
+    "area": "栃木県"
+  },
+  {
+    "id": 13,
+    "name": "東石美術館",
+    "location": "栃木県佐野市本町２８９２",
+    "business_hours": "午前10時〜午後5時",
+    "admission_fees": "大人1,000円（ペアチケット1,800円）、高・大学生800円小・中学生500円",
+    "website_url": null,
+    "phone_number": "0283-23-8111",
+    "area": "栃木県"
+  },
+  {
+    "id": 14,
+    "name": "ギャラリーハンナ",
+    "location": "栃木県宇都宮市松が峰２－７－１７",
+    "business_hours": "9〜17時（17時半閉館）",
+    "admission_fees": "催事による",
+    "website_url": null,
+    "phone_number": "028-638-6123",
+    "area": "栃木県"
+  },
+  {
+    "id": 1,
+    "name": "群馬県立近代美術館",
+    "location": "群馬県高崎市綿貫町９９２－１",
+    "business_hours": "9：30〜17：00",
+    "admission_fees": "コレクション展示　一般：300円　大・高校生：150円　中学生以下・障害者手帳等お持ちの方と介護者1名：無料＊群馬県民の日：無料",
+    "website_url": null,
+    "phone_number": "027-346-5560",
+    "area": "群馬県"
+  },
+  {
+    "id": 2,
+    "name": "富弘美術館",
+    "location": "群馬県みどり市東町草木８６",
+    "business_hours": "？午前9時〜午後5時",
+    "admission_fees": "大人 500円小中学生 300円幼児 無料障害者手帳をお持ちの方：5割引介護の方１名：5割引",
+    "website_url": null,
+    "phone_number": "0277-95-6333",
+    "area": "群馬県"
+  },
+  {
+    "id": 3,
+    "name": "館林美術館",
+    "location": "群馬県館林市日向町２００３",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0276-72-8188",
+    "area": "群馬県"
+  },
+  {
+    "id": 4,
+    "name": "妙義ふるさと美術館",
+    "location": "群馬県富岡市妙義町妙義１－５",
+    "business_hours": "9:30〜17:00",
+    "admission_fees": "300円",
+    "website_url": null,
+    "phone_number": "0274-73-2585",
+    "area": "群馬県"
+  },
+  {
+    "id": 5,
+    "name": "大隅俊平美術館",
+    "location": "群馬県太田市由良町３０５１",
+    "business_hours": "午前9時30分〜午後5時（入館は午後4時30分まで）",
+    "admission_fees": "300円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "0276-20-6855",
+    "area": "群馬県"
+  },
+  {
+    "id": 6,
+    "name": "太田市美術館・図書館",
+    "location": "群馬県太田市東本町",
+    "business_hours": "午前10時〜午後8時（日曜・祝日は午後6時まで）※企画展の観覧は午後6時まで（入場は午後5時30分まで）※図書エリアの利用は午後6時まで",
+    "admission_fees": "入館料：無料※展示内容によって徴収有。",
+    "website_url": null,
+    "phone_number": "0276-55-3036",
+    "area": "群馬県"
+  },
+  {
+    "id": 7,
+    "name": "高崎市美術館",
+    "location": "群馬県高崎市八島町１１０－２７",
+    "business_hours": "午前10時〜午後6時、金曜日のみ午後8時まで（入館はいずれも閉館30分前まで）",
+    "admission_fees": "企画展：展覧会により観覧料が異なります コレクション展：一般100円、大学・高校生80円※65歳以上の方、中学生以下は無料",
+    "website_url": null,
+    "phone_number": "027-324-6125",
+    "area": "群馬県"
+  },
+  {
+    "id": 8,
+    "name": "タワー美術館",
+    "location": "群馬県高崎市栄町３－２３",
+    "business_hours": "午前10時から午後6時まで金曜日のみ午後8時まで（入館はいずれも閉館30分前まで）",
+    "admission_fees": "・収蔵作品展　一般　 200円　大学・高校生 160円 　65歳以上の方、中学生以下は無料　・企画展・特別展　展覧会により異なります",
+    "website_url": null,
+    "phone_number": "027-330-3773",
+    "area": "群馬県"
+  },
+  {
+    "id": 11,
+    "name": "渋川市美術館・桑原巨守彫刻美術館",
+    "location": "群馬県渋川市渋川１９０１－２４",
+    "business_hours": "10時〜18時",
+    "admission_fees": "展示により異なる",
+    "website_url": null,
+    "phone_number": "0279-25-3215",
+    "area": "群馬県"
+  },
+  {
+    "id": 9,
+    "name": "富岡市立美術博物館福沢一郎記念美術館",
+    "location": "群馬県富岡市黒川３５１－１",
+    "business_hours": "9:30〜17:00 入館は16時30分まで",
+    "admission_fees": "大人:210円 大学生:100円高校生:100円中学生以下は無料 身障者・療育者の手帳をお持ちの方及びその介護者1名は無料",
+    "website_url": null,
+    "phone_number": "0274-62-6200",
+    "area": "群馬県"
+  },
+  {
+    "id": 10,
+    "name": "天一美術館",
+    "location": "群馬県利根郡みなかみ町谷川",
+    "business_hours": "9：30〜17：00（16:30 入館受付終了）",
+    "admission_fees": "一般1,300円、小中学生1,100円、未就学児無料",
+    "website_url": null,
+    "phone_number": "0278-20-4111",
+    "area": "群馬県"
+  },
+  {
+    "id": 12,
+    "name": "伊香保保科美術館",
+    "location": "群馬県渋川市伊香保町伊香保２１１－１",
+    "business_hours": "9：00〜17：30（最終入館17：00）",
+    "admission_fees": "大人1,000円、小中学生600円、幼児300円",
+    "website_url": null,
+    "phone_number": "0279-72-3226",
+    "area": "群馬県"
+  },
+  {
+    "id": 13,
+    "name": "久保田美術館",
+    "location": "群馬県沼田市下久屋町１１７６",
+    "business_hours": "ＡＭ１０：００〜ＰＭ５：００",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0278-22-2915",
+    "area": "群馬県"
+  },
+  {
+    "id": 14,
+    "name": "関口コオきり絵美術館",
+    "location": "群馬県高崎市箕郷町上芝８６７－１",
+    "business_hours": "AM 10:00〜PM6:00",
+    "admission_fees": "大人３００円、小・中学生１５０円、幼児　無料",
+    "website_url": null,
+    "phone_number": "027-388-8118",
+    "area": "群馬県"
+  },
+  {
+    "id": 15,
+    "name": "原美術館ＡＲＣ",
+    "location": "群馬県渋川市金井２８５５－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0279-24-6585",
+    "area": "群馬県"
+  },
+  {
+    "id": 16,
+    "name": "榛名美術記念公園",
+    "location": "群馬県高崎市下室田町２７００－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "027-374-8084",
+    "area": "群馬県"
+  },
+  {
+    "id": 17,
+    "name": "観音山ティアラミュージアム　ＴＡＲＯ　ＫＡＭＩＴＡＮＩ",
+    "location": "群馬県高崎市石原町2879-1",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "群馬県"
+  },
+  {
+    "id": 1,
+    "name": "名古屋市美術館",
+    "location": "愛知県名古屋市中区栄二丁目17番25号(芸術と科学の杜・白川公園内)",
+    "business_hours": "午前9時30分〜午後5時、金曜日は午後8時まで（祝日にあたる場合は除く）※入場は閉館の30分前まで",
+    "admission_fees": "個人　　　　団体一般　　　　　　　　　300円　　　250円高校・大学生　　　 200円　　　150円65歳以上の方　　 100円　　　  80円中学生以下　　　　無料　　　　無料",
+    "website_url": null,
+    "phone_number": "052-212-0001",
+    "area": "愛知県"
+  },
+  {
+    "id": 2,
+    "name": "豊田市美術館",
+    "location": "愛知県豊田市小坂本町８丁目５－１",
+    "business_hours": "10：00〜17：30(入場は17：00まで)レストラン「TERRACE」も同様",
+    "admission_fees": "通常(展示により異なる場合あり）一般：1,400円高校・大学生：1,000円中学生以下：無料豊田市内在住・在学の高校生：無料豊田市在住７５歳以上：無料(要証明)",
+      "website_url": null,
+      "phone_number": "0565-34-6610",
+      "area": "愛知県"
+  },
+  {
+    "id": 3,
+    "name": "徳川美術館",
+    "location": "愛知県名古屋市東区徳川町1017",
+    "business_hours": "午前10時〜午後5時（入館は午後4時30分まで）",
+    "admission_fees": "一般：1200円高・大生：700円小・中生：500円",
+    "website_url": null,
+    "phone_number": "052-935-6262",
+    "area": "愛知県"
+  },
+  {
+    "id": 4,
+    "name": "愛知県美術館（愛知芸術文化センター）",
+    "location": "愛知県名古屋市東区東桜１丁目１３－２ 愛知芸術文化センター10階",
+    "business_hours": "10：00〜18：00金曜日は20：00まで（入館は閉館時刻の30分前まで）",
+    "admission_fees": "■コレクション展一般：500円高校・大学生：300円中学生以下：無料 ■企画展そのつど定めます",
+    "website_url": null,
+    "phone_number": "052-971-5511",
+    "area": "愛知県"
+  },
+  {
+    "id": 5,
+    "name": "マスプロ美術館",
+    "location": "愛知県日進市浅田町上納80番地",
+    "business_hours": "9：00〜17：00入館は閉館の３０分前",
+    "admission_fees": "一般：５００円学生：２５０円",
+    "website_url": null,
+    "phone_number": "052-804-6666",
+    "area": "愛知県"
+  },
+  {
+    "id": 6,
+    "name": "刈谷市美術館",
+    "location": "愛知県刈谷市住吉町４丁目５",
+    "business_hours": "午前9時から午後5時（入館は午後4時30分まで）",
+    "admission_fees": "常設展の入場料金は無料有料展の入場料金については展覧会ごとに変わります。",
+    "website_url": null,
+    "phone_number": "0566-23-1636",
+    "area": "愛知県"
+  },
+  {
+    "id": 7,
+    "name": "三河工芸ガラス美術館",
+    "location": "愛知県西尾市富山町東郷５",
+    "business_hours": "10時－17時30分(最終入館17:00)",
+    "admission_fees": "一般(中学生以上)７００円小学生４５０円幼児(３歳以上)３００円 ※大人1人につき幼児1人無料",
+    "website_url": null,
+    "phone_number": "0563-59-3334",
+    "area": "愛知県"
+  },
+  {
+    "id": 8,
+    "name": "はるひ美術館",
+    "location": "愛知県清須市春日夢の森１",
+    "business_hours": "午前10時 〜 午後7時 （入館は午後6時30分まで）",
+    "admission_fees": "常設展\\t一般\\t高校生以上　２００円\\t中学生以下　　　無料\\t団体\\t高校生以上　１６０円\\t中学生以下　　　無料\\t団体料金は２０名以上\\t特別展\\t特別展により異なります。",
+    "website_url": null,
+    "phone_number": "052-401-3881",
+    "area": "愛知県"
+  },
+  {
+    "id": 9,
+    "name": "やきものの里かわら美術館",
+    "location": "愛知県高浜市青木町９丁目６－１８",
+    "business_hours": "午前10時〜午後5時 （観覧券の販売は、午後4時30分まで）※施設利用は午後9時まで可",
+    "admission_fees": "常設展示：無料企画展：大人（高校生以上）２００円特別展：特別展により異なります。小人（中学生以下）は無料",
+    "website_url": null,
+    "phone_number": "0566-52-3366",
+    "area": "愛知県"
+  },
+  {
+    "id": 10,
+    "name": "三岸節子記念美術館",
+    "location": "愛知県一宮市小信中島郷南３１４７－１",
+    "business_hours": "9：00〜17：00（入館は16：30まで）",
+    "admission_fees": "一般：320円高校生・大学生：210円小中学生：110円",
+    "website_url": null,
+    "phone_number": "0586-63-2892",
+    "area": "愛知県"
+  },
+  {
+    "id": 11,
+    "name": "メナード美術館",
+    "location": "愛知県小牧市小牧五丁目250番地",
+    "business_hours": "10時から17時（最終入館16時30分まで）",
+    "admission_fees": "一般 1,000円 （800円）高大生 600円 （500円）小中生 300円 （250円） ※（　）内は20名以上の団体料金および前売料金※ 障害者手帳（ミライロID可）、被爆者健康手帳、戦傷病者手帳、特定医療費受給者証をお持ちの方および同行者1名は無料。入館時に受付でご提示ください。",
+    "website_url": null,
+    "phone_number": "0568-75-5787",
+    "area": "愛知県"
+  },
+  {
+    "id": 12,
+    "name": "愛知県陶磁美術館",
+    "location": "愛知県瀬戸市南山口町２３４",
+    "business_hours": "午前９時３０分から午後４時３０分まで（入館は午後４時まで） ７月１日から９月３０日は午前９時３０分から午後５時まで（入館は午後４時３０分まで）",
+    "admission_fees": "常設展およびテーマ展示一般：400円高校生・大学生：300円中学生以下：無料 企画展および特別企画展は別料金有",
+    "website_url": null,
+    "phone_number": "0561-84-4932",
+    "area": "愛知県"
+  },
+  {
+    "id": 13,
+    "name": "名都美術館",
+    "location": "愛知県長久手市杁ケ池301番地",
+    "business_hours": "午前10時〜午後5時",
+    "admission_fees": "一般　600円大学生　300円中高生　150円",
+    "website_url": null,
+    "phone_number": "0561-62-8884",
+    "area": "愛知県"
+  },
+  {
+    "id": 14,
+    "name": "荻須記念美術館",
+    "location": "愛知県稲沢市稲沢町前田３６５－８",
+    "business_hours": "9：30〜17：00",
+    "admission_fees": "常設展示室　一般：310円　大・高校生：210円　小・中学生：50円　市内の小・中学生、市内の障害者手帳等お持ちの方と介護者1名：無料",
+    "website_url": null,
+    "phone_number": "0587-23-3300",
+    "area": "愛知県"
+  },
+  {
+    "id": 15,
+    "name": "貨幣・浮世絵ミュージアム",
+    "location": "愛知県名古屋市中区錦3-21-24 三菱ＵＦＪ銀行名古屋ビル１階",
+    "business_hours": "9:00〜16:00（入館は15:30まで）",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "052-300-8686",
+    "area": "愛知県"
+  },
+  {
+    "id": 16,
+    "name": "岡崎市美術館",
+    "location": "愛知県岡崎市明大寺町字茶園１１－３",
+    "business_hours": "10時から19時まで(10月〜5月は18時まで)",
+    "admission_fees": "【無料】市内の中学生以下",
+    "website_url": null,
+    "phone_number": "0564-51-4280",
+    "area": "愛知県"
+  },
+  {
+    "id": 17,
+    "name": "藤井達吉現代美術館",
+    "location": "愛知県碧南市音羽町１丁目１",
+    "business_hours": "・ 開館時間　午前１０時〜午後６時・ 特別展の観覧時間　午前１０時〜午後６時　※入場は観覧時間の終了の３０分前まで",
+    "admission_fees": "入館料　無料観覧料　　展覧会ごとに定めます小学生未満の方は無料",
+    "website_url": null,
+    "phone_number": "0566-48-6602",
+    "area": "愛知県"
+  },
+  {
+    "id": 18,
+    "name": "かみや美術館",
+    "location": "愛知県半田市有脇町１０丁目８－９",
+    "business_hours": "午前１０時〜午後４時",
+    "admission_fees": "大人：５００円、小・中・高校生：３００円",
+    "website_url": null,
+    "phone_number": "0569-29-2626",
+    "area": "愛知県"
+  },
+  {
+    "id": 19,
+    "name": "古川美術館",
+    "location": "愛知県名古屋市千種区池下町２丁目５０",
+    "business_hours": "午前10時〜午後5時（入館は午後4時30分まで）",
+    "admission_fees": "単館券800円〜※展覧会内容によって入館料が変動します。",
+    "website_url": null,
+    "phone_number": "052-763-1991",
+    "area": "愛知県"
+  },
+  {
+    "id": 20,
+    "name": "春日井市道風記念館",
+    "location": "愛知県春日井市松河戸町5丁目9番地3",
+    "business_hours": "9：00〜16：30",
+    "admission_fees": "【通常】一般：100円高校・大学生：50円中学生以下無料【特別展】一般：500円高校・大学生：300円中学生以下無料",
+    "website_url": null,
+    "phone_number": "0568-82-6110",
+    "area": "愛知県"
+  },
+  {
+    "id": 21,
+    "name": "小原和紙美術館",
+    "location": "愛知県豊田市永太郎町洞２１６－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0565-65-2151",
+    "area": "愛知県"
+  },
+  {
+    "id": 22,
+    "name": "ヤマザキマザック美術館",
+    "location": "愛知県名古屋市東区葵1-19-30",
+    "business_hours": "平日 10時から17時30分土日祝 10時から17時(最終入館は閉館30分前まで)",
+    "admission_fees": "■通常料金一般1,000円団体（10名以上）800円小・中・高生500円小学生未満無料",
+    "website_url": null,
+    "phone_number": "052-937-3737",
+    "area": "愛知県"
+  },
+  {
+    "id": 23,
+    "name": "茶臼山高原の美術館",
+    "location": "愛知県北設楽郡豊根村字坂宇場御所平７０－１８５",
+    "business_hours": "4月 9：00〜16：005月〜10月 9：00〜16：30",
+    "admission_fees": "一般400円、小中学生150円",
+    "website_url": null,
+    "phone_number": "0536-87-2345",
+    "area": "愛知県"
+  },
+  {
+    "id": 24,
+    "name": "横山美術館",
+    "location": "愛知県名古屋市東区葵",
+    "business_hours": "午前10時〜午後5時（最終入館時間 午後4時30分）",
+    "admission_fees": "【企画展開催時】一般：1,000円（800円） / 高・大学生・65歳以上：800円（600円）/ 中学生：600円（400円）/ 小学生以下：無料 / 障がい者手帳をお持ちの方：700円（500円）【常設展のみ開催時】一般：700円（500円） / 高・大学生・65歳以上：500円（300円）/ 中学生：400円（300円）/ 小学生以下：無料 / 障がい者手帳をお持ちの方：400円（300円）＊（ ）内は20名以上の団体料金",
+    "website_url": null,
+    "phone_number": "052-931-0006",
+    "area": "愛知県"
+  },
+  {
+    "id": 25,
+    "name": "文化のみち　堀美術館",
+    "location": "愛知県名古屋市東区主税町4丁目4－2",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "愛知県"
+  },
+  {
+    "id": 1,
+    "name": "県民文化の森　岐阜県美術館",
+    "location": "岐阜県岐阜市宇佐4-1-22",
+    "business_hours": "10:00〜18:00※展示室の入場は17:30まで 企画展開催時の第3金曜日(夜間開館日)は10:00〜20:00※展示室の入場は19:30まで",
+    "admission_fees": "一般／330円大学生／220円高校生以下無料",
+    "website_url": null,
+    "phone_number": "058-271-1313",
+    "area": "岐阜県"
+  },
+  {
+    "id": 2,
+    "name": "岐阜市歴史博物館分館加藤栄三・東一記念美術館",
+    "location": "岐阜県岐阜市大宮町１丁目４６",
+    "business_hours": "9:00〜17:00　（入館は16:30まで）",
+    "admission_fees": "高校生以上：300円小中学生：150円 以下の方は無料。（証明ができるものの提示が必要）・市内の70歳以上の方。・身体障害者手帳、精神障害者保健福祉手帳、療育手帳の交付を受けている方、及びその介護の方１名様・家庭の日(毎月第３日曜日）に入館する中学生以下の方・家庭の日（毎月第３月曜日）に入館する中学生以下の方に同伴する家族（高校生以上）の方（特別展を除きます）・市内の小中学生の方",
+      "website_url": null,
+      "phone_number": "058-264-6410",
+      "area": "岐阜県"
+  },
+  {
+    "id": 3,
+    "name": "齋藤美術館",
+    "location": "岐阜県郡上市八幡町新町927",
+    "business_hours": "10:00〜16:00",
+    "admission_fees": "300円",
+    "website_url": null,
+    "phone_number": "0575-65-3539",
+    "area": "岐阜県"
+  },
+  {
+    "id": 4,
+    "name": "飛騨高山美術館",
+    "location": "岐阜県高山市上岡本町1-124-1",
+    "business_hours": "9：00〜17：00",
+    "admission_fees": "一般1300円大学生・高校生1000円中学生・小学生800円",
+    "website_url": null,
+    "phone_number": "0577-35-3535",
+    "area": "岐阜県"
+  },
+  {
+    "id": 5,
+    "name": "飛騨市美術館",
+    "location": "岐阜県飛騨市古川町若宮２丁目１－５８",
+    "business_hours": "ＡＭ9：00〜17：00",
+    "admission_fees": "一般200円高校生以下無料",
+    "website_url": null,
+    "phone_number": "0577-73-3288",
+    "area": "岐阜県"
+  },
+  {
+    "id": 6,
+    "name": "中山道広重美術館",
+    "location": "岐阜県恵那市大井町１７６－１",
+    "business_hours": "9：30〜17：00入館は16：30迄",
+    "admission_fees": "【企画展】大人510円高校生以下、障害者本人は無料 【特別企画展】大人820円高校生以下、障害者本人は無料",
+    "website_url": null,
+    "phone_number": "0573-20-0522",
+    "area": "岐阜県"
+  },
+  {
+    "id": 7,
+    "name": "守屋多々志美術館",
+    "location": "岐阜県大垣市郭町２－１２",
+    "business_hours": "9〜17時(入館は〜16時30分)",
+    "admission_fees": "300円、18歳以下無料",
+    "website_url": null,
+    "phone_number": "0584-81-0801",
+    "area": "岐阜県"
+  },
+  {
+    "id": 8,
+    "name": "市之倉さかづき美術館",
+    "location": "岐阜県多治見市市之倉町６－３０－１",
+    "business_hours": "10:00 〜 17:00（展示室への入場は16:30まで）",
+    "admission_fees": "一般 400円、大高生 200円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "0572-24-5911",
+    "area": "岐阜県"
+  },
+  {
+    "id": 9,
+    "name": "岐阜県現代陶芸美術館",
+    "location": "岐阜県多治見市東町４丁目２－５",
+    "business_hours": "10：00〜18：00（入館は17：30まで）",
+    "admission_fees": "一般330円、大学生220円、高校生以下無料",
+    "website_url": null,
+    "phone_number": "0572-28-3100",
+    "area": "岐阜県"
+  },
+  {
+    "id": 10,
+    "name": "光ミュージアム",
+    "location": "岐阜県高山市中山町１７５",
+    "business_hours": "10：00〜17：00（入館は16：00まで）",
+    "admission_fees": "一般：1,000円小中学生：300円障害者：300円",
+    "website_url": null,
+    "phone_number": "0577-34-6511",
+    "area": "岐阜県"
+  },
+  {
+    "id": 11,
+    "name": "関市武芸川ふるさと館",
+    "location": "岐阜県関市武芸川町八幡1566",
+    "business_hours": "9:00〜16:30",
+    "admission_fees": "通常無料※特別企画展開催時は有料（企画展による）",
+    "website_url": null,
+    "phone_number": "0575-45-3010",
+    "area": "岐阜県"
+  },
+  {
+    "id": 12,
+    "name": "岐阜現代美術館",
+    "location": "岐阜県関市桃紅大地１",
+    "business_hours": "午前9時〜午後4時30分",
+    "admission_fees": "入場無料",
+    "website_url": null,
+    "phone_number": "0575-23-1210",
+    "area": "岐阜県"
+  },
+  {
+    "id": 1,
+    "name": "ルーブル彫刻美術館",
+    "location": "三重県津市白山町佐田１９５７",
+    "business_hours": "9：30〜17：00（入館は16：30まで）",
+    "admission_fees": "大人（高校生以上）：1500円60歳以上・学生・障害者：1000円小人（小・中学生）：800円小学生未満：無料＊大観音寺との共通割引券：大人　2000円　小人　1000円＊前売り入場券：1000円",
+    "website_url": null,
+    "phone_number": "059-262-1111",
+    "area": "三重県"
+  },
+  {
+    "id": 2,
+    "name": "三重県立美術館",
+    "location": "三重県津市大谷町１１",
+    "business_hours": "9:30〜17:00　最終入館16:30",
+    "admission_fees": "常設展示観覧料一般　300円大学生(要学生証)　200円※高校生以下無料(中学生以上は要学生証)。障害者割引あり(要証明書) 企画展観覧料※展覧会によって異なる",
+    "website_url": null,
+    "phone_number": "059-227-2100",
+    "area": "三重県"
+  },
+  {
+    "id": 3,
+    "name": "神宮徴古館",
+    "location": "三重県伊勢市神田久志本町１７５４－１",
+    "business_hours": "午前9時〜午後4時（観覧は午後4時30分まで）",
+    "admission_fees": "三館共通券大人：個人\\t700 円小・中学生：個人200 円",
+    "website_url": null,
+    "phone_number": "0596-22-1700",
+    "area": "三重県"
+  },
+  {
+    "id": 4,
+    "name": "神宮美術館",
+    "location": "三重県伊勢市神田久志本町1754-1",
+    "business_hours": "受付:9時〜16時（観覧は16時30分まで）",
+    "admission_fees": "大人 500円 小・中学生 100円 未就学児は無料",
+    "website_url": null,
+    "phone_number": "0596-22-5533",
+    "area": "三重県"
+  },
+  {
+    "id": 5,
+    "name": "伊賀市ミュージアム青山讃頌舎",
+    "location": "三重県伊賀市別府７１８－３",
+    "business_hours": "午前10時〜午後4時30分　(入館は午後4時まで)",
+    "admission_fees": "一般　300円　高校生以下　無料",
+    "website_url": null,
+    "phone_number": "0595-52-2100",
+    "area": "三重県"
+  },
+  {
+    "id": 6,
+    "name": "ＯＲＩＢＥ美術館",
+    "location": "三重県四日市市安島２丁目４－１８",
+    "business_hours": "10：00 〜 17：00",
+    "admission_fees": "一般   ： 400円高・大生 ： 300円中学生以下 ：200円",
+    "website_url": null,
+    "phone_number": "059-351-2147",
+    "area": "三重県"
+  },
+  {
+    "id": 7,
+    "name": "小坡美術館",
+    "location": "三重県伊勢市宇治浦田二丁目４－６５",
+    "business_hours": "9:30〜16:00",
+    "admission_fees": "一般   :300円高大生:200円小中生:100円",
+    "website_url": null,
+    "phone_number": "0596-22-2554",
+    "area": "三重県"
+  },
+  {
+    "id": 8,
+    "name": "伊勢現代美術館",
+    "location": "三重県度会郡南伊勢町五ケ所浦湾場１０２－８",
+    "business_hours": "10：00〜17：00 (入館受付は16：30までとなります)",
+    "admission_fees": "一般700円、中高大生500円、小学生以下無料",
+    "website_url": null,
+    "phone_number": "0599-66-1138",
+    "area": "三重県"
+  },
+  {
+    "id": 9,
+    "name": "澄懐堂美術館",
+    "location": "三重県四日市市水沢町２０１１",
+    "business_hours": "10：00〜16：00（入館は15：30まで）",
+    "admission_fees": "大人800円、高・大学生500円、小・中学生300円",
+    "website_url": null,
+    "phone_number": "059-329-3335",
+    "area": "三重県"
+  },
+  {
+    "id": 1,
+    "name": "ＭＯＡ美術館",
+    "location": "静岡県熱海市桃山町26-2",
+    "business_hours": "9：30〜16：30（最終入館 16：00）",
+    "admission_fees": "大人：1,600円シニア（65歳以上）：1,400円高・大学生：1000円中学生以下：無料",
+    "website_url": null,
+    "phone_number": "0557-84-2511",
+    "area": "静岡県"
+  },
+  {
+    "id": 2,
+    "name": "静岡県立美術館",
+    "location": "静岡県静岡市駿河区谷田５３－２",
+    "business_hours": "午前10時〜午後5時30分（展示室への入室は午後5時まで)",
+    "admission_fees": "収蔵品展観覧料 一般：300円大学生以下・70歳以上：無料",
+    "website_url": null,
+    "phone_number": "054-263-5755",
+    "area": "静岡県"
+  },
+  {
+    "id": 3,
+    "name": "佐野美術館",
+    "location": "静岡県三島市中田町1-43",
+    "business_hours": "10：00〜17：00（入館の受付は16：30まで）",
+    "admission_fees": "展覧会により異なる",
+    "website_url": null,
+    "phone_number": "055-975-7278",
+    "area": "静岡県"
+  },
+  {
+    "id": 4,
+    "name": "東海道広重美術館",
+    "location": "静岡県静岡市清水区由比２９７－１",
+    "business_hours": "午前9時〜午後5時(入館は閉館の30分前まで)",
+    "admission_fees": "一般　510円大学生・高校生　300円中学生・小学生　120円",
+    "website_url": null,
+    "phone_number": "054-375-4454",
+    "area": "静岡県"
+  },
+  {
+    "id": 5,
+    "name": "掛川市二の丸美術館",
+    "location": "静岡県掛川市掛川１１４２－１",
+    "business_hours": "9時から17時（入館は16時30分まで）",
+    "admission_fees": "大人　200円 中学生まで　無料",
+    "website_url": null,
+    "phone_number": "0537-62-2061",
+    "area": "静岡県"
+  },
+  {
+    "id": 6,
+    "name": "澤田政廣記念美術館",
+    "location": "静岡県熱海市梅園町９－４６",
+    "business_hours": "9:00〜16:30",
+    "admission_fees": "大人：大人:310円高校生：高校生:210円 高校生・大学生小学生：小学生:100円 小学生・中学生　●毎週土・日曜日は小・中学生は無料",
+    "website_url": null,
+    "phone_number": "0557-81-9211",
+    "area": "静岡県"
+  },
+  {
+    "id": 7,
+    "name": "静岡市美術館",
+    "location": "静岡県静岡市葵区紺屋町１７－１",
+    "business_hours": "10:00〜19:00",
+    "admission_fees": "展覧会によって異なる",
+    "website_url": null,
+    "phone_number": "054-273-1515",
+    "area": "静岡県"
+  },
+  {
+    "id": 8,
+    "name": "芹沢銈介美術館",
+    "location": "静岡県静岡市駿河区登呂５丁目１０－５",
+    "business_hours": "9:00 〜 16:30",
+    "admission_fees": "一般420円 / 高校生・大学生250円 / 小学生・中学生100円 / 未就学児無料",
+    "website_url": null,
+    "phone_number": "054-282-5522",
+    "area": "静岡県"
+  },
+  {
+    "id": 9,
+    "name": "秋野不矩美術館",
+    "location": "静岡県浜松市天竜区二俣町二俣１３０",
+    "business_hours": "午前9時30分〜午後5時",
+    "admission_fees": "展覧会により異なる。・大人　300〜800円・高校生　150〜500円・小学生・中学生　無料〜300円",
+    "website_url": null,
+    "phone_number": "0539-22-0315",
+    "area": "静岡県"
+  },
+  {
+    "id": 10,
+    "name": "浜松市美術館",
+    "location": "静岡県浜松市中央区松城町１００－１",
+    "business_hours": "午前9時30分から午後5時まで（最終入館は午後4時30分まで） ※展覧会により開館時間及び閉館時間が異なる場合があります。",
+    "admission_fees": "大人：300円高校生：150円 小中学生：無料特別展・企画展開催中は別料金になります。",
+    "website_url": null,
+    "phone_number": "053-454-6801",
+    "area": "静岡県"
+  },
+  {
+    "id": 11,
+    "name": "伊豆の長八美術館",
+    "location": "静岡県賀茂郡松崎町松崎２３",
+    "business_hours": "9:00〜17:00",
+    "admission_fees": "大人500円【中学生以下無料】",
+    "website_url": null,
+    "phone_number": "0558-42-2540",
+    "area": "静岡県"
+  },
+  {
+    "id": 12,
+    "name": "ベルナール・ビュフェ美術館",
+    "location": "静岡県駿東郡長泉町東野５１５－５７",
+    "business_hours": "1月 10:00〜16:302・3月 10:00〜17:004・5・6・7・8月 10:00〜18:009・10月 10:00〜17:0011・12月 10:00〜16:30",
+    "admission_fees": "大人 1,000円高・大学生 500円中学生以下 無料",
+    "website_url": null,
+    "phone_number": "055-986-1300",
+    "area": "静岡県"
+  },
+  {
+    "id": 13,
+    "name": "静岡陶芸美術館",
+    "location": "静岡県沼津市東椎路５０－１",
+    "business_hours": "10:00〜17:00（入館は16:30まで）",
+    "admission_fees": "大人\\t1000円中・高校生\\t400円小学生以下　無料",
+    "website_url": null,
+    "phone_number": "055-919-3456",
+    "area": "静岡県"
+  },
+  {
+    "id": 14,
+    "name": "沼津市庄司美術館・モンミュゼ沼津",
+    "location": "静岡県沼津市下一丁田９００－１",
+    "business_hours": "10：00〜17：00",
+    "admission_fees": "大人200円小人100円（小中学生）（市内の小中学生無料）",
+    "website_url": null,
+    "phone_number": "055-952-8711",
+    "area": "静岡県"
+  },
+  {
+    "id": 15,
+    "name": "かんなみ仏の里美術館",
+    "location": "静岡県田方郡函南町桑原８９－１",
+    "business_hours": "午前10：00〜午後4：30",
+    "admission_fees": "大人300円、小中学生100円、65歳以上200円",
+    "website_url": null,
+    "phone_number": "055-948-9330",
+    "area": "静岡県"
+  },
+  {
+    "id": 16,
+    "name": "横井照子富士美術館",
+    "location": "静岡県富士市中野４６４",
+    "business_hours": "10:00〜16:00",
+    "admission_fees": "500円（学生・子供・75歳以上無料）",
+    "website_url": null,
+    "phone_number": "0545-36-0470",
+    "area": "静岡県"
+  },
+  {
+    "id": 17,
+    "name": "時之栖美術館",
+    "location": "静岡県御殿場市神山７１９",
+    "business_hours": "【4〜10月】9:00〜18:00(最終入館17:30)【11〜3月】9:00〜17:00(最終入館16:30)",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0550-87-5016",
+    "area": "静岡県"
+  },
+  {
+    "id": 18,
+    "name": "駿府の工房　匠宿",
+    "location": "静岡県静岡市駿河区丸子",
+    "business_hours": "10：00〜19：00",
+    "admission_fees": "無料※各種体験コース毎に料金設定あり",
+    "website_url": null,
+    "phone_number": "054-256-1521",
+    "area": "静岡県"
+  },
+  {
+    "id": 19,
+    "name": "上原美術館",
+    "location": "静岡県下田市宇土金３４１",
+    "business_hours": "午前9時〜午後5時(入館は午後4時30分まで)",
+    "admission_fees": "大人1,000円／学生500円／高校生以下無料",
+    "website_url": null,
+    "phone_number": "0558-28-1228",
+    "area": "静岡県"
+  },
+  {
+    "id": 1,
+    "name": "大阪市立美術館",
+    "location": "大阪府大阪市天王寺区茶臼山町１－８２（天王寺公園内）",
+    "business_hours": "9:30〜17：00",
+    "admission_fees": "大人　300円高大　200円特別展・特別陳列は別途",
+    "website_url": null,
+    "phone_number": "06-6771-4874",
+    "area": "大阪府"
+  },
+  {
+    "id": 2,
+    "name": "国立国際美術館",
+    "location": "大阪府大阪市北区中之島４丁目２－５５",
+    "business_hours": "・通常時間10:00〜17:00（入場は16:30まで）・夜間開館（毎週金・土曜日）10:00〜20:00（入場は19:30まで）※開館時間は臨時に変更する場合あり",
+    "admission_fees": "・特別展一般  2,100円大学生 1,300円高校生 900円・コレクション展一般 430円大学生 130円高校生、18歳未満、65歳以上 無料",
+    "website_url": null,
+    "phone_number": "06-6447-4680",
+    "area": "大阪府"
+  },
+  {
+    "id": 3,
+    "name": "東洋陶磁美術館",
+    "location": "大阪府大阪市北区中之島１丁目１－２６",
+    "business_hours": "午前9時30分〜午後5時 （入館は午後4時30分まで）",
+    "admission_fees": "大人　500円高大　300円",
+    "website_url": null,
+    "phone_number": "06-6223-0055",
+    "area": "大阪府"
+  },
+  {
+    "id": 4,
+    "name": "久保惣記念美術館",
+    "location": "大阪府和泉市内田町３－６－１２",
+    "business_hours": "午前10時〜午後5時（入館は4時30分まで）",
+    "admission_fees": "常設展一　般 　　　　　　 500円高校生・大学生　300円中学生以下　　　無料特別陳列一　般 　　　　　　 600円高校生・大学生　400円中学生以下　　　無料特別展企画により異なります。中学生以下　　　無料※団体は20名様以上は２割引※65歳以上は２割引※各種障害者手帳を提示された場合、本人及び介助者１名様は無料",
+    "website_url": null,
+    "phone_number": "0725-54-0001",
+    "area": "大阪府"
+  },
+  {
+    "id": 5,
+    "name": "奥内陶芸美術館",
+    "location": "大阪府豊中市岡町北３－８－７",
+    "business_hours": "10：00〜16：00",
+    "admission_fees": "大人300円、学生200円",
+    "website_url": null,
+    "phone_number": "06-6852-3842",
+    "area": "大阪府"
+  },
+  {
+    "id": 6,
+    "name": "正木美術館",
+    "location": "大阪府泉北郡忠岡町忠岡中２－９－２６",
+    "business_hours": "10:00〜16:30（最終入館／16:00）",
+    "admission_fees": "一般1000円、高大生700円、小中生400円",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "大阪府"
+  },
+  {
+    "id": 7,
+    "name": "中之島香雪美術館",
+    "location": "大阪府大阪市北区中之島3-2-4 中之島フェスティバルタワー・ウエスト4階",
+    "business_hours": "午前10時〜午後5時※ご入館は午後4時30分まで",
+    "admission_fees": "展覧会ごとに異なりますので、公式HP各展覧会ページにてご確認ください。",
+    "website_url": null,
+    "phone_number": "06-6210-3766",
+    "area": "大阪府"
+  },
+  {
+    "id": 8,
+    "name": "藤田美術館",
+    "location": "大阪府大阪市都島区網島町10-32",
+    "business_hours": "閉館2020年開館を目指しリニューアル計画を検討しております。",
+    "admission_fees": "-",
+    "website_url": null,
+    "phone_number": "06-6351-0582",
+    "area": "大阪府"
+  },
+  {
+    "id": 9,
+    "name": "小林美術館",
+    "location": "大阪府高石市羽衣２丁目２－３０",
+    "business_hours": "10：00〜17：00　(入館受付は16:30まで)",
+    "admission_fees": "大人1,000円、高校・大学生600円、小学・中学生300円",
+    "website_url": null,
+    "phone_number": "072-262-2600",
+    "area": "大阪府"
+  },
+  {
+    "id": 10,
+    "name": "大阪浮世絵美術館",
+    "location": "大阪府大阪市中央区心斎橋筋2-2-23 不二家心斎橋ビル3F",
+    "business_hours": "10:00〜17:00（最終入館16:30）",
+    "admission_fees": "展示観覧料大人\\t1,000円学生（学生証提示）  600円小学生  300円",
+    "website_url": null,
+    "phone_number": "06-4256-1311",
+    "area": "大阪府"
+  },
+  {
+    "id": 11,
+    "name": "上方浮世絵館",
+    "location": "大阪府大阪市中央区難波1-6-4",
+    "business_hours": "11：00〜18：00（入館は17：30）",
+    "admission_fees": "一般：700円高校生：500円小・中学生：300円　※6歳以下の未就学児は無料",
+    "website_url": null,
+    "phone_number": "06-6211-0303",
+    "area": "大阪府"
+  },
+  {
+    "id": 1,
+    "name": "京都市京セラ美術館（京都市美術館）",
+    "location": "京都府京都市左京区岡崎円勝寺町１２４",
+    "business_hours": "【開場時間】10：00〜18：00（最終入場は展覧会により異なります）",
+    "admission_fees": "入場料金は、展示内容によって異なります。",
+    "website_url": null,
+    "phone_number": "075-771-4334",
+    "area": "京都府"
+  },
+  {
+    "id": 2,
+    "name": "京都国立近代美術館",
+    "location": "京都府京都市左京区岡崎円勝寺町",
+    "business_hours": "公開：9:30〜17:00 入館は16：30まで",
+    "admission_fees": "大人:430円 大学生:220円備考：高校生、18歳未満、65歳以上は無料その他：その他 企画展は別途",
+    "website_url": null,
+    "phone_number": "075-761-4111",
+    "area": "京都府"
+  },
+  {
+    "id": 3,
+    "name": "佐藤太清記念美術館",
+    "location": "京都府福知山市岡ノ３２－６４",
+    "business_hours": "午前9：00〜午後5：00（但し、入館は4時30分まで。）",
+    "admission_fees": "常設展\\t\\t\\t\\t個人\\tおとな\\t210円\\t\\tこども\\t100円\\t\\t       団体\\tおとな     190円こども       90円\\t\\t\\t※こども…小･中学生\\t\\t\\t団体は30名以上です。\\t\\t共通券（福知山城・郷工資料館との共通券）個人\\tおとな\\t470円\\tこども\\t190円\\t団体おとな\\t450円こども\\t180円※こども…小･中学生\\t\\t\\t団体は30名以上です。",
+    "website_url": null,
+    "phone_number": "0773-23-2316",
+    "area": "京都府"
+  },
+  {
+    "id": 4,
+    "name": "松花堂庭園・美術館",
+    "location": "京都府八幡市八幡女郎花４３",
+    "business_hours": "9：00〜17：00入園・入館は16:30まで",
+    "admission_fees": "おとな 400円 学　生 300円こども 200円",
+    "website_url": null,
+    "phone_number": "075-981-0010",
+    "area": "京都府"
+  },
+  {
+    "id": 5,
+    "name": "堂本印象美術館",
+    "location": "京都府京都市北区平野上柳町２６－３",
+    "business_hours": "9：30〜17：00",
+    "admission_fees": "一般：500円大・高校生：400円小・中学生：200円65歳以上の方・障害者手帳等お持ちの方と介護者1名：無料",
+    "website_url": null,
+    "phone_number": "075-463-0007",
+    "area": "京都府"
+  },
+  {
+    "id": 6,
+    "name": "細見美術館",
+    "location": "京都府京都市左京区岡崎最勝寺町6-3",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "075-752-5555",
+    "area": "京都府"
+  },
+  {
+    "id": 7,
+    "name": "ＺＥＮＢＩ鍵善良房ＫＡＧＩＺＥＮ　ＡＲＴ　ＭＵＳＥＵＭ",
+    "location": "京都府京都市東山区祇園町南側５７０－１０７",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "075-561-2875",
+    "area": "京都府"
+  },
+  {
+    "id": 8,
+    "name": "樂美術館",
+    "location": "京都府京都市上京区油小路通一条下る油橋詰町８７－１",
+    "business_hours": "10:00〜16:30（入館は16:00まで）",
+    "admission_fees": "展覧会により異なります。",
+    "website_url": null,
+    "phone_number": "075-414-0304",
+    "area": "京都府"
+  },
+  {
+    "id": 9,
+    "name": "井伊美術館",
+    "location": "京都府京都市東山区花見小路四条下ル4丁目小松町564",
+    "business_hours": "13：00〜17：00（入館は16：30まで）",
+    "admission_fees": "大人・・・1,500円大学・高校生・・1,000円小・中学生・・・・500円",
+    "website_url": null,
+    "phone_number": "075-525-3921",
+    "area": "京都府"
+  },
+  {
+    "id": 10,
+    "name": "堀川新文化ビルヂング",
+    "location": "京都府京都市上京区皀莢町２８７",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "075-431-5551",
+    "area": "京都府"
+  },
+  {
+    "id": 11,
+    "name": "聰山美術館",
+    "location": "京都府南丹市美山町江和下黒田",
+    "business_hours": "9:00〜16:30",
+    "admission_fees": "大人：500円／高校生以下：300円",
+    "website_url": null,
+    "phone_number": "0771-77-0330",
+    "area": "京都府"
+  },
+  {
+    "id": 12,
+    "name": "京都市美術館　別館",
+    "location": "京都府京都市左京区岡崎最勝寺町13",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "京都府"
+  },
+  {
+    "id": 1,
+    "name": "佐川美術館",
+    "location": "滋賀県守山市水保町北川２８９１",
+    "business_hours": "9時30分〜17時（最終入館は16時30分迄）",
+    "admission_fees": "一般1,000円、高・大学生600円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "077-585-7800",
+    "area": "滋賀県"
+  },
+  {
+    "id": 2,
+    "name": "成田美術館",
+    "location": "滋賀県長浜市朝日町34-24",
+    "business_hours": "10:00〜17:00",
+    "admission_fees": "一般800円、学生600円、中学生以下500円",
+    "website_url": null,
+    "phone_number": "0749-65-0234",
+    "area": "滋賀県"
+  },
+  {
+    "id": 3,
+    "name": "日登美美術館",
+    "location": "滋賀県東近江市山上町２０８３",
+    "business_hours": "10：00 〜 17：00（入館は17：00まで）",
+    "admission_fees": "500円（中学・小学生は大人同伴は無料）",
+    "website_url": null,
+    "phone_number": "0748-27-1707",
+    "area": "滋賀県"
+  },
+  {
+    "id": 4,
+    "name": "滋賀県立美術館",
+    "location": "滋賀県大津市瀬田南大萱町１７４０－１",
+    "business_hours": "午前９時30分〜午後５時（入館は午後４時30分まで）",
+    "admission_fees": "一般 540円  高・大生 320円  小・中生 無料",
+    "website_url": null,
+    "phone_number": "077-543-2111",
+    "area": "滋賀県"
+  },
+  {
+    "id": 5,
+    "name": "ボーダレス・アートミュージアムＮＯ－ＭＡ",
+    "location": "滋賀県近江八幡市永原町上16",
+    "business_hours": "AM11:00〜PM5:00",
+    "admission_fees": "大人200円※展示会により異なる料金",
+    "website_url": null,
+    "phone_number": "074-836-5018",
+    "area": "滋賀県"
+  },
+  {
+    "id": 6,
+    "name": "谷寛窯ギャラリー　陶ほうざん",
+    "location": "滋賀県甲賀市信楽町長野788",
+    "business_hours": "AM 10:30 ~ PM 5:00",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0748-82-2462",
+    "area": "滋賀県"
+  },
+  {
+    "id": 7,
+    "name": "醒井木彫美術館",
+    "location": "滋賀県米原市醒井95",
+    "business_hours": "10：00〜16：00（入館は15:30まで）",
+    "admission_fees": "大人300円、中高生・75歳以上200円、小学生以下無料",
+    "website_url": null,
+    "phone_number": "0749-54-0842",
+    "area": "滋賀県"
+  },
+  {
+    "id": 8,
+    "name": "長等創作展示館・三橋節子美術館",
+    "location": "滋賀県大津市小関町１－１",
+    "business_hours": "9時〜17時（展示観覧のための入館は16時30分まで）",
+    "admission_fees": "一般320円、高・大学生240円、小・中学生160円、市内65歳以上160円",
+    "website_url": null,
+    "phone_number": "077-523-5101",
+    "area": "滋賀県"
+  },
+  {
+    "id": 9,
+    "name": "木下美術館",
+    "location": "滋賀県大津市比叡平２丁目２８－２１",
+    "business_hours": "10時から16時開館期間：　毎年4月1日から11月30日まで",
+    "admission_fees": "一律 500円",
+    "website_url": null,
+    "phone_number": "077-575-1148",
+    "area": "滋賀県"
+  },
+  {
+    "id": 1,
+    "name": "奈良県立美術館",
+    "location": "奈良県奈良市登大路町１０－６",
+    "business_hours": "午前９時〜午後５時（入館は午後４時３０分まで）※特別展期間中の金・土曜日は午後７時（入館は午後６時３０分まで）",
+    "admission_fees": "一般４００円大高生２５０円中小生１５０円",
+    "website_url": null,
+    "phone_number": "0742-23-3968",
+    "area": "奈良県"
+  },
+  {
+    "id": 2,
+    "name": "奈良金魚ミュージアム",
+    "location": "奈良県奈良市二条大路南1-3-1",
+    "business_hours": "10：00~18：00",
+    "admission_fees": "大 人（中学生以上）　　1,200円 小学生　 　800円65才以上　800円障がい者　800円小学生未満　無料",
+    "website_url": null,
+    "phone_number": "080-4689-2142",
+    "area": "奈良県"
+  },
+  {
+    "id": 3,
+    "name": "入江泰吉記念奈良市写真美術館",
+    "location": "奈良県奈良市高畑町６００－１",
+    "business_hours": "午前9時30分〜午後5時（入館は午後4時30分まで）",
+    "admission_fees": "・一般：500円・高校･大学生：200円（高校生は土曜日無料）・小・中学生：100円（土曜日無料）・奈良市在住の70歳以上の方は無料・？障がい者手帳・療育手帳・精神障がい者保健福祉手帳をお持ちの方は無料",
+    "website_url": null,
+    "phone_number": "0742-22-9811",
+    "area": "奈良県"
+  },
+  {
+    "id": 4,
+    "name": "杉岡華邨書道美術館",
+    "location": "奈良県奈良市脇戸町３",
+    "business_hours": "9：00〜17：00(イベント等により延長あり）",
+      "admission_fees": "一般：300円市内在住の70歳以上の方・16歳未満・障害者手帳等お持ちの方と介護者1名：無料",
+      "website_url": null,
+      "phone_number": "0742-24-4111",
+      "area": "奈良県"
+  },
+  {
+    "id": 5,
+    "name": "奈良市美術館",
+    "location": "奈良県奈良市二条大路南１丁目３－１",
+    "business_hours": "午前10時〜午後5時30分(入館は午後5時まで)",
+    "admission_fees": "展覧会により異なる",
+    "website_url": null,
+    "phone_number": "0742-30-1510",
+    "area": "奈良県"
+  },
+  {
+    "id": 6,
+    "name": "大和文華館",
+    "location": "奈良県奈良市学園南１丁目１１－６",
+    "business_hours": "10:00〜17:00（入館は16:00まで）",
+    "admission_fees": "〈平常展・特別企画展〉 一般620円、高校・大学生410円、小学・中学生無料 〈特別展〉 一般930円、高校・大学生720円、小学・中学生無料",
+    "website_url": null,
+    "phone_number": "0742-45-0544",
+    "area": "奈良県"
+  },
+  {
+    "id": 7,
+    "name": "喜多美術館",
+    "location": "奈良県桜井市金屋７３０",
+    "business_hours": "午前 １０ 時〜午後 ５ 時　（ 入館は、 ４時３０分迄 ）",
+    "admission_fees": "大人800円、高・大学生700円、小・中学生200円",
+    "website_url": null,
+    "phone_number": "0744-45-2849",
+    "area": "奈良県"
+  },
+  {
+    "id": 1,
+    "name": "和歌山県立近代美術館",
+    "location": "和歌山県和歌山市吹上１－４－１４",
+    "business_hours": "９：３０〜１７：００(入場は１６：３０まで）",
+      "admission_fees": "1.常設展：一般３４０円、大学生２３０円2.企画展：その都度、変わります。3.高校生以下、６５歳以上、障がい者の方、県内に在学中の外国人留学生(外国人就学生を含む)は常設展、企画展とも無料です。",
+      "website_url": null,
+      "phone_number": "073-436-8690",
+      "area": "和歌山県"
+  },
+  {
+    "id": 2,
+    "name": "田辺市立美術館",
+    "location": "和歌山県田辺市たきない町２４－４３",
+    "business_hours": "午前10：00〜午後5：00（ただし、入館は午後4：30まで）",
+    "admission_fees": "館蔵品展（小企画展）250円特別展は、その都度定める。18歳未満・学生は、無料。（学生証などの提示が必要）",
+    "website_url": null,
+    "phone_number": "0739-24-3770",
+    "area": "和歌山県"
+  },
+  {
+    "id": 3,
+    "name": "川久ミュージアム",
+    "location": "和歌山県西牟婁郡白浜町３７４５",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0739-42-2662",
+    "area": "和歌山県"
+  },
+  {
+    "id": 4,
+    "name": "熊野古道なかへち美術館",
+    "location": "和歌山県田辺市中辺路町近露８９２",
+    "business_hours": "午前10時〜午後5時（入館は4時30分まで）",
+    "admission_fees": "所蔵品展　大人250円、18歳未満・学生無料　特別展は入場料に変更があります。",
+    "website_url": null,
+    "phone_number": "0739-65-0390",
+    "area": "和歌山県"
+  },
+  {
+    "id": 5,
+    "name": "龍神村曼荼羅美術館",
+    "location": "和歌山県田辺市龍神村龍神２０３",
+    "business_hours": "9時30分〜16時30分",
+    "admission_fees": "入場料はありません。",
+    "website_url": null,
+    "phone_number": "0739-79-0512",
+    "area": "和歌山県"
+  },
+  {
+    "id": 6,
+    "name": "白浜美術館",
+    "location": "和歌山県西牟婁郡白浜町坂田１－１",
+    "business_hours": "8:30〜17:00",
+    "admission_fees": "大人 500円",
+    "website_url": null,
+    "phone_number": "0739-42-2589",
+    "area": "和歌山県"
+  },
+  {
+    "id": 1,
+    "name": "丸亀市猪熊弦一郎現代美術館",
+    "location": "香川県丸亀市浜町80-1",
+    "business_hours": "10:00－18:00（入館は17:30まで）",
+    "admission_fees": "企画展：展覧会ごとに定めます 常設展：一般 300円　大学生 200円   高校生以下または18歳未満、丸亀市内に在住の65歳以上、各種障害者手帳をお持ちの方は無料",
+    "website_url": null,
+    "phone_number": "0877-24-7766",
+    "area": "香川県"
+  },
+  {
+    "id": 2,
+    "name": "地中美術館",
+    "location": "香川県香川郡直島町3449-1",
+    "business_hours": "【3月1日 〜 9月30日】10:00 〜 18:00（ 最終入館17:00 ）【10月1日 〜 2月末日】 10:00 〜 17:00（ 最終入館16:00 ）",
+    "admission_fees": "2,060円※15歳以下無料",
+    "website_url": null,
+    "phone_number": "087-892-3755",
+    "area": "香川県"
+  },
+  {
+    "id": 3,
+    "name": "豊島美術館",
+    "location": "香川県小豆郡土庄町豊島唐櫃６０７",
+    "business_hours": "【3月1日 〜 10月31日】10:00 〜 17:00（最終入館16:30）【11月1日 〜 2月末日】10:00 〜 16:00（最終入館15:30）",
+    "admission_fees": "1,540円※15歳以下無料",
+    "website_url": null,
+    "phone_number": "0879-68-3555",
+    "area": "香川県"
+  },
+  {
+    "id": 4,
+    "name": "高松市美術館",
+    "location": "香川県高松市紺屋町１０－４",
+    "business_hours": "9:30〜17:00※入室は閉館時間の30分前まで※特別展開催期間中の火〜土・祝は19:00まで",
+    "admission_fees": "常設展一般 200円大学生 150円高校生以下 無料65歳以上 長寿手帳等の提示で免除",
+    "website_url": null,
+    "phone_number": "087-823-1711",
+    "area": "香川県"
+  },
+  {
+    "id": 5,
+    "name": "中津万象園丸亀美術館",
+    "location": "香川県丸亀市中津町２５－１",
+    "business_hours": "AM9：30〜PM5：00（最終受付 PM4:30）",
+    "admission_fees": "庭園のみ：大人700円、小・中学生300円絵画館のみ：大人500円、小・中学生200円セット券：大人1,200円、小・中学生500円",
+    "website_url": null,
+    "phone_number": "0877-23-6326",
+    "area": "香川県"
+  },
+  {
+    "id": 6,
+    "name": "東山魁夷せとうち美術館",
+    "location": "香川県坂出市沙弥島南通２２４－１３",
+    "business_hours": "午前9時から午後5時まで（入場は午後4時30分まで）",
+    "admission_fees": "※特別展の料金は展覧会ごとに設定します。 ※高校生以下、満65歳以上の方は無料です",
+    "website_url": null,
+    "phone_number": "0877-44-1333",
+    "area": "香川県"
+  },
+  {
+    "id": 7,
+    "name": "塩江美術館",
+    "location": "香川県高松市塩江町安原上６０２",
+    "business_hours": "9:00〜17:00 ※入室は閉館時間の30分前まで",
+    "admission_fees": "常設展？一般 300円？大学生 150円？高校生以下 無料？65歳以上 長寿手帳等の提示で免除",
+    "website_url": null,
+    "phone_number": "087-893-1800",
+    "area": "香川県"
+  },
+  {
+    "id": 8,
+    "name": "坂出市民美術館",
+    "location": "香川県坂出市寿町１丁目３－３５",
+    "business_hours": "午前９時〜午後５時",
+    "admission_fees": "無料（有料の時もある）",
+    "website_url": null,
+    "phone_number": "0877-45-7110",
+    "area": "香川県"
+  },
+  {
+    "id": 9,
+    "name": "香川近代美術館",
+    "location": "香川県三豊市三野町下高瀬５４２－１",
+    "business_hours": "13:00〜17:00",
+    "admission_fees": "大人500円、大・中高生300円、小学生以下無料",
+    "website_url": null,
+    "phone_number": "0875-73-3077",
+    "area": "香川県"
+  },
+  {
+    "id": 1,
+    "name": "タオル美術館",
+    "location": "愛媛県今治市朝倉上甲２９３０",
+    "business_hours": "9：30〜18：00",
+    "admission_fees": "大人1,000円中高生800円小学生600円",
+    "website_url": null,
+    "phone_number": "0898-56-1515",
+    "area": "愛媛県"
+  },
+  {
+    "id": 2,
+    "name": "愛媛県美術館",
+    "location": "愛媛県松山市堀之内",
+    "business_hours": "9：40〜18：00入室は17：30まで。",
+    "admission_fees": "常設店観覧料一般　　 300円高大生　200円※中学生以下、65歳以上の方、障害者（要証明書提示）は無料。※企画店は別途必要。（企画展チケットをお持ちの方は所蔵品展観覧料が無料。）",
+    "website_url": null,
+    "phone_number": "089-932-0010",
+    "area": "愛媛県"
+  },
+  {
+    "id": 3,
+    "name": "大三島美術館",
+    "location": "愛媛県今治市大三島町宮浦９０９９",
+    "business_hours": "9：00〜17：00",
+    "admission_fees": "一般　500円学生　250円※高校生以下又は18歳未満は無料。※65歳以上の方は団体料金を適用。※身体障害者手帳、療育手帳、精神障害者保険福祉手帳の所持者、及びその介助者（障害者１名につき１人に限る）は無料。（要提示）",
+    "website_url": null,
+    "phone_number": "0897-82-1234",
+    "area": "愛媛県"
+  },
+  {
+    "id": 4,
+    "name": "河野美術館",
+    "location": "愛媛県今治市旭町１丁目４－８",
+    "business_hours": "9：00〜17：00",
+    "admission_fees": "一般　300円学生　150円65歳以上　240円高校生以下又は18歳未満は無料 ※展覧会により料金が変更になります。※身体障害者手帳、療育手帳、精神障害者保健福祉手帳の所持者及びその介助者（障害者１人につき１人に限る）は無料。（要提示）",
+    "website_url": null,
+    "phone_number": "0898-23-3810",
+    "area": "愛媛県"
+  },
+  {
+    "id": 5,
+    "name": "玉川近代美術館",
+    "location": "愛媛県今治市玉川町大野甲８６－４",
+    "business_hours": "9:00〜17:00",
+    "admission_fees": "大人　500円学生　250円高校生以下または18歳未満　無料 ※65歳以上の方は一般の団体料金を適用。※「身体障害者手帳」「療育手帳」「精神障害者保健福祉手帳」所持者及びその介助者（障害者1人につき1人に限る）は観覧料が無料。入館の際ご提示ください。",
+    "website_url": null,
+    "phone_number": "0898-55-2738",
+    "area": "愛媛県"
+  },
+  {
+    "id": 6,
+    "name": "久万美術館",
+    "location": "愛媛県上浮穴郡久万高原町菅生２番耕地１４４２－７",
+    "business_hours": "午前9時30分〜午後5時",
+    "admission_fees": "大人／500円 高大生／400円 小中生／300円 久万高原町内の小中学生は無料です。",
+    "website_url": null,
+    "phone_number": "0892-21-2881",
+    "area": "愛媛県"
+  },
+  {
+    "id": 7,
+    "name": "ミウラート・ヴィレッジ",
+    "location": "愛媛県松山市堀江町１１６５－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "089-978-6838",
+    "area": "愛媛県"
+  },
+  {
+    "id": 8,
+    "name": "道後ぎやまんガラスミュージアム",
+    "location": "愛媛県松山市道後鷺谷町４５９－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "089-933-3637",
+    "area": "愛媛県"
+  },
+  {
+    "id": 9,
+    "name": "セキ美術館",
+    "location": "愛媛県松山市道後喜多町４－４２",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "089-946-5678",
+    "area": "愛媛県"
+  },
+  {
+    "id": 10,
+    "name": "今治市立朝倉ふるさと美術古墳館",
+    "location": "愛媛県今治市朝倉下",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0898-56-3754",
+    "area": "愛媛県"
+  },
+  {
+    "id": 11,
+    "name": "八幡浜市美術館",
+    "location": "愛媛県八幡浜市６２－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0894-21-3335",
+    "area": "愛媛県"
+  },
+  {
+    "id": 12,
+    "name": "西予市立ギャラリーしろかわ",
+    "location": "愛媛県西予市城川町下相６８０",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0894-82-1001",
+    "area": "愛媛県"
+  },
+  {
+    "id": 1,
+    "name": "大塚国際美術館",
+    "location": "徳島県鳴門市鳴門町鳴門公園内",
+    "business_hours": "9:30〜17：00",
+    "admission_fees": "小・中・高生　540円大学生　　　2,160円一般　　　　3,240円",
+    "website_url": null,
+    "phone_number": "088-687-3737",
+    "area": "徳島県"
+  },
+  {
+    "id": 2,
+    "name": "徳島県立近代美術館",
+    "location": "徳島県徳島市八万町向寺山",
+    "business_hours": "9：30〜17：00",
+    "admission_fees": "一般200円高校生・大学生100円小学生・中学生50円",
+    "website_url": null,
+    "phone_number": "088-668-1088",
+    "area": "徳島県"
+  },
+  {
+    "id": 3,
+    "name": "徳島木のおもちゃ美術館",
+    "location": "徳島県板野郡板野町那東字キビガ谷４５－２２",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "088-672-1122",
+    "area": "徳島県"
+  },
+  {
+    "id": 4,
+    "name": "相生森林美術館",
+    "location": "徳島県那賀郡那賀町横石大板３４",
+    "business_hours": "9:30〜16:30",
+    "admission_fees": "高校生以上：320円中学生以下：無料",
+    "website_url": null,
+    "phone_number": "0884-62-1117",
+    "area": "徳島県"
+  },
+  {
+    "id": 5,
+    "name": "鳴門ガレの森美術館",
+    "location": "徳島県鳴門市撫養町林崎北殿町１４９",
+    "business_hours": "10：00〜15：30",
+    "admission_fees": "大人800円、学生500円",
+    "website_url": null,
+    "phone_number": "088-684-4445",
+    "area": "徳島県"
+  },
+  {
+    "id": 6,
+    "name": "蘭夢美術館",
+    "location": "徳島県美馬市脇町大字北庄５６２－１",
+    "business_hours": "8時30分〜17時",
+    "admission_fees": "一般300円、小中学生150円",
+    "website_url": null,
+    "phone_number": "0883-52-2189",
+    "area": "徳島県"
+  },
+  {
+    "id": 1,
+    "name": "安芸市立書道美術館",
+    "location": "高知県安芸市土居９５３",
+    "business_hours": "午前９時〜午後５時",
+    "admission_fees": "一般：３００円、中高生：１００円小学生：５０円",
+    "website_url": null,
+    "phone_number": "0887-34-1613",
+    "area": "高知県"
+  },
+  {
+    "id": 2,
+    "name": "高知県立美術館",
+    "location": "高知県高知市高須３５３－２",
+    "business_hours": "午前9時〜午後5時入場は午後4時30分まで",
+    "admission_fees": "・コレクション展一般：360円大学生：250円高校生以下は無料",
+    "website_url": null,
+    "phone_number": "088-866-8000",
+    "area": "高知県"
+  },
+  {
+    "id": 3,
+    "name": "佐川おもちゃ美術館",
+    "location": "高知県高岡郡佐川町加茂2711番地1",
+    "business_hours": "午前10時〜午後4時最終入館受付15時30分",
+    "admission_fees": "【一般】こども　無料(1歳未満)こども　500円(1歳以上中学生迄)おとな　800円(高校生以上)",
+    "website_url": null,
+    "phone_number": "0889-20-9977",
+    "area": "高知県"
+  },
+  {
+    "id": 4,
+    "name": "香美市立美術館",
+    "location": "高知県香美市土佐山田町北本町２丁目２６２－１",
+    "business_hours": "午前9時00分から、午後5時00分（但し、入館は4時30分まで）",
+    "admission_fees": "「通常の展示」　　一般310円（20名以上の団体150円）　長寿手帳提示の場合、一般個人料金の半額　身体障害者手帳、障害者手帳（精神障害者保健福祉手帳）、又は療育手帳を所持する者及びこれらの者を介助するために必要な者（身体障害者等1人につき1人）は無料 「特別展」　市長が2,000円以内でその都度定める額",
+    "website_url": null,
+    "phone_number": "0887-53-5110",
+    "area": "高知県"
+  },
+  {
+    "id": 5,
+    "name": "香南市立赤岡町絵金蔵",
+    "location": "高知県香南市赤岡町５３８",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0887-57-7117",
+    "area": "高知県"
+  },
+  {
+    "id": 6,
+    "name": "中土佐町立美術館",
+    "location": "高知県高岡郡中土佐町久礼6584番地1",
+    "business_hours": "10：00〜17：00（入館16：30まで）",
+    "admission_fees": "一般 ：300円高校生：100円小・中学生：50円",
+    "website_url": null,
+    "phone_number": "0889-52-4444",
+    "area": "高知県"
+  },
+  {
+    "id": 7,
+    "name": "竜串貝類展示館海のギャラリー",
+    "location": "高知県土佐清水市竜串",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0880-85-0137",
+    "area": "高知県"
+  },
+  {
+    "id": 1,
+    "name": "尾道市立美術館",
+    "location": "広島県尾道市西土堂町１７－１９",
+    "business_hours": "9時00分〜17時00分(入館は16時30分まで)",
+    "admission_fees": "特別展・企画展ごとにお問い合わせ下さい。",
+    "website_url": null,
+    "phone_number": "0848-23-2281",
+    "area": "広島県"
+  },
+  {
+    "id": 2,
+    "name": "広島県立美術館",
+    "location": "広島県広島市中区上幟町２－２２",
+    "business_hours": "9：00〜17：00（2016/4/1〜10/30の金曜は20：00まで）（2016/10/31〜2017/3/31の金曜は19：00まで）",
+    "admission_fees": "一般：510円大学生：310円高校生以下：無料65歳以上の方・障害者手帳等お持ちの方と介護者1名・県内の大学に在学する留学生等：無料",
+    "website_url": null,
+    "phone_number": "082-221-6246",
+    "area": "広島県"
+  },
+  {
+    "id": 3,
+    "name": "ふくやま美術館",
+    "location": "広島県福山市西町２丁目４－３",
+    "business_hours": "9：30〜17：00",
+    "admission_fees": "一般：300円高校生以下：無料",
+    "website_url": null,
+    "phone_number": "084-932-2345",
+    "area": "広島県"
+  },
+  {
+    "id": 4,
+    "name": "広島市現代美術館",
+    "location": "広島県広島市南区比治山公園１－１",
+    "business_hours": "10：00〜17：00（19：00まで延長日あり）",
+    "admission_fees": "コレクション展　一般：370円　大学生：270円　高校生・65歳以上：170円　中学生以下・障害者手帳等お持ちの方と介護者1名・留学生・引率者・土曜日の高校生：無料",
+    "website_url": null,
+    "phone_number": "082-264-1121",
+    "area": "広島県"
+  },
+  {
+    "id": 5,
+    "name": "ひろしま美術館",
+    "location": "広島県広島市中区基町3-2",
+    "business_hours": "9:00〜17:00※入館は16:30まで",
+    "admission_fees": "一般：600円高・大学生：300円小・中学生：120円※65歳以上の方は一般当日料金の半額（300円）※メンバーズ制度加盟校の学生・教職員の方は無料",
+    "website_url": null,
+    "phone_number": "082-223-2530",
+    "area": "広島県"
+  },
+  {
+    "id": 6,
+    "name": "招き猫美術館",
+    "location": "広島県尾道市東土堂町19－36",
+    "business_hours": "11時〜17時（土日祝10時〜）",
+    "admission_fees": "大人：100円その他：小学生未満無料",
+    "website_url": null,
+    "phone_number": "0848-25-2201",
+    "area": "広島県"
+  },
+  {
+    "id": 7,
+    "name": "奥田元宋・小由女美術館",
+    "location": "広島県三次市東酒屋町４５３－６",
+    "business_hours": "■開館時間 ： ９：３０〜１７：００\\t（入館は閉館時間の30分前まで）　　　　　　　 　※満月の夜は開館時間を延長(2016年度の開館延長日程）",
+      "admission_fees": "大人800円大学生400円高校生・中学生・小学生　無料",
+      "website_url": null,
+      "phone_number": "0824-65-0010",
+      "area": "広島県"
+  },
+  {
+    "id": 8,
+    "name": "平山郁夫美術館",
+    "location": "広島県尾道市瀬戸田町沢２００－２",
+    "business_hours": "9：00〜17：00 （入館は16：30まで）",
+    "admission_fees": "一般900円、高・大学生400円、小・中学生200円",
+    "website_url": null,
+    "phone_number": "0845-27-3800",
+    "area": "広島県"
+  },
+  {
+    "id": 9,
+    "name": "三良坂平和美術館",
+    "location": "広島県三次市三良坂町三良坂２８２５",
+    "business_hours": "9:00〜17:00　（入館は16:30まで）",
+    "admission_fees": "一般：150円 高校生以下：無料65歳以上の方：無料障がい者手帳お持ちの方と介助者：無料",
+    "website_url": null,
+    "phone_number": "0824-44-3214",
+    "area": "広島県"
+  },
+  {
+    "id": 10,
+    "name": "呉市立美術館",
+    "location": "広島県呉市幸町",
+    "business_hours": "10:00〜17:00（入館は16:30まで）",
+    "admission_fees": "一般:300円高校生:180円小・中学生:120円",
+    "website_url": null,
+    "phone_number": "0823-25-2007",
+    "area": "広島県"
+  },
+  {
+    "id": 11,
+    "name": "下瀬美術館",
+    "location": "広島県大竹市晴海2丁目10-50",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "広島県"
+  },
+  {
+    "id": 12,
+    "name": "東広島市立美術館",
+    "location": "広島県東広島市八本松南２丁目１－３",
+    "business_hours": "午前１０時〜午後５時(入館は午後４時３０分まで)",
+    "admission_fees": "？ 所蔵作品展一般  100円大学生　70円高校生以下　無料",
+    "website_url": null,
+    "phone_number": "082-428-5713",
+    "area": "広島県"
+  },
+  {
+    "id": 13,
+    "name": "ふくやま書道美術館",
+    "location": "広島県福山市西町１丁目１－１",
+    "business_hours": "10：00〜19：00",
+    "admission_fees": "一般150円高校生以下無料",
+    "website_url": null,
+    "phone_number": "084-991-5112",
+    "area": "広島県"
+  },
+  {
+    "id": 14,
+    "name": "ウッドワン美術館",
+    "location": "広島県廿日市市吉和４２７８",
+    "business_hours": "10：00 〜 17：00　※入館は16：30まで",
+    "admission_fees": "■ 企画展一　般　1,200円、高大生　600円 ■ 特別展一　般　1,400円、高大生　700円  ※中学生以下無料",
+    "website_url": null,
+    "phone_number": "0829-40-3001",
+    "area": "広島県"
+  },
+  {
+    "id": 15,
+    "name": "かぐや姫美術館",
+    "location": "広島県竹原市忠海床浦２丁目１２－８",
+    "business_hours": "10時00分から16時00分",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0846-26-0982",
+    "area": "広島県"
+  },
+  {
+    "id": 16,
+    "name": "海の見える杜美術館",
+    "location": "広島県廿日市市大野亀ケ岡７０１",
+    "business_hours": "10：00〜17：00（入館は16：30まで）",
+    "admission_fees": "一般1,000円、高・大学生500円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "0829-56-3221",
+    "area": "広島県"
+  },
+  {
+    "id": 17,
+    "name": "中川美術館",
+    "location": "広島県福山市熊野町",
+    "business_hours": "10:00〜16:00",
+    "admission_fees": "大人:900円、大学生:900円、高校生:900円、中学生:300円、小学生:300円",
+    "website_url": null,
+    "phone_number": "084-959-1248",
+    "area": "広島県"
+  },
+  {
+    "id": 1,
+    "name": "砂の美術館",
+    "location": "鳥取県鳥取市福部町湯山2083-17",
+    "business_hours": "9時〜16時　※公式ホームページ要確認",
+    "admission_fees": "一般：800円小・中・高生：400円※小学生未満は無料",
+    "website_url": null,
+    "phone_number": "0857-20-2231",
+    "area": "鳥取県"
+  },
+  {
+    "id": 2,
+    "name": "植田正治写真美術館",
+    "location": "鳥取県西伯郡伯耆町須村３５３－３",
+    "business_hours": "午前9時から午後5時まで入館は閉館の30分前まで",
+    "admission_fees": "一般 900円 (800円) 高校大学生 500円 (400円) 小中学生 300円 (200円)",
+    "website_url": null,
+    "phone_number": "0859-39-8000",
+    "area": "鳥取県"
+  },
+  {
+    "id": 3,
+    "name": "ハピネライフケア文化広場（米子市美術館）",
+    "location": "鳥取県米子市中町１２",
+    "business_hours": "10時〜18時",
+    "admission_fees": "展覧会によって異なります。",
+    "website_url": null,
+    "phone_number": "0859-34-2424",
+    "area": "鳥取県"
+  },
+  {
+    "id": 4,
+    "name": "渡辺美術館",
+    "location": "鳥取県鳥取市覚寺堤下１－５５",
+    "business_hours": "土日祝祭日: 10:00〜17:00月水木金   : 10:00〜15:00",
+    "admission_fees": "大人 : 900円大高生 : 500円中小生 : 300円障がい者 : 400円",
+    "website_url": null,
+    "phone_number": "0857-24-1152",
+    "area": "鳥取県"
+  },
+  {
+    "id": 5,
+    "name": "日南町美術館",
+    "location": "鳥取県日野郡日南町霞７８５",
+    "business_hours": "午前８時３０分〜午後５時",
+    "admission_fees": "企画展によって異なる",
+    "website_url": null,
+    "phone_number": "0859-77-1113",
+    "area": "鳥取県"
+  },
+  {
+    "id": 6,
+    "name": "本池美術館",
+    "location": "鳥取県米子市大篠津町４８４１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0859-25-0550",
+    "area": "鳥取県"
+  },
+  {
+    "id": 7,
+    "name": "三朝バイオリン美術館",
+    "location": "鳥取県東伯郡三朝町三朝１９９－１",
+    "business_hours": "10:00〜18:00",
+    "admission_fees": "大人\\\\500／小・中・高校生\\\\250",
+    "website_url": null,
+    "phone_number": "0858-43-3111",
+    "area": "鳥取県"
+  },
+  {
+    "id": 8,
+    "name": "モトフサ現代美術館",
+    "location": "鳥取県岩美郡岩美町牧谷６９３－１",
+    "business_hours": "am 10：00 〜 pm 5：00",
+    "admission_fees": "大人600円、高校生500円、小・中学生400円",
+    "website_url": null,
+    "phone_number": "0857-72-8881",
+    "area": "鳥取県"
+  },
+  {
+    "id": 9,
+    "name": "現代工芸美術館",
+    "location": "鳥取県西伯郡大山町羽田井１４１９－３１６",
+    "business_hours": "午前9時から午後5時",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0858-58-4111",
+    "area": "鳥取県"
+  },
+  {
+    "id": 1,
+    "name": "足立美術館",
+    "location": "島根県安来市古川町320",
+    "business_hours": "夏　季 \\t4月-9月 \\t9:00-17:30冬　季 \\t10月-3月 \\t9:00-17:00 新館への入場（本館・新館連絡通路の通行）は、閉館15分前まで  新館休館日    平成28年4月26日 7月14日    10月20日〜21日 11月14日〜15日    平成29年2月2日",
+    "admission_fees": "大　人 \\t2,300円大学生 \\t1,800円高校生 \\t1,000円小中生 \\t500円",
+    "website_url": null,
+    "phone_number": "0854-28-7111",
+    "area": "島根県"
+  },
+  {
+    "id": 2,
+    "name": "島根県立美術館",
+    "location": "島根県松江市袖師町１－５",
+    "business_hours": "【10月〜2月】10:00〜18:30【3月〜9月】10:00〜日没後30分",
+    "admission_fees": "【企画展】一般1,000円   大学生600円 小中高生300円【コレクション展】一般300円   大学生200円小中高生 無料",
+    "website_url": null,
+    "phone_number": "0852-55-4700",
+    "area": "島根県"
+  },
+  {
+    "id": 3,
+    "name": "安野光雅美術館",
+    "location": "島根県鹿足郡津和野町後田イ６０－１",
+    "business_hours": "午前9：00〜午後5：00（最終入館午後4：45）",
+    "admission_fees": "一般800円中高生400円小学生250円",
+    "website_url": null,
+    "phone_number": "0856-72-4155",
+    "area": "島根県"
+  },
+  {
+    "id": 4,
+    "name": "奥出雲鉄の彫刻美術館",
+    "location": "島根県仁多郡奥出雲町八川２５００－３４",
+    "business_hours": "10：00〜16：00",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0854-52-3111",
+    "area": "島根県"
+  },
+  {
+    "id": 5,
+    "name": "石正美術館",
+    "location": "島根県浜田市三隅町古市場５８９",
+    "business_hours": "9時〜17時まで開館。特別な催しのある場合は夜8時まで開館",
+    "admission_fees": "一般\\t　600円\\t高校・大学生　300円\\t小・中学生　200円",
+    "website_url": null,
+    "phone_number": "0855-32-4388",
+    "area": "島根県"
+  },
+  {
+    "id": 6,
+    "name": "浜田市世界こども美術館",
+    "location": "島根県浜田市野原町８５９－１",
+    "business_hours": "9:30〜17:00",
+    "admission_fees": "常設展示大人100円小・中学生20円高・大学生60円　特別展示別額",
+    "website_url": null,
+    "phone_number": "0855-23-8451",
+    "area": "島根県"
+  },
+  {
+    "id": 7,
+    "name": "石見美術館",
+    "location": "島根県益田市有明町５－１５",
+    "business_hours": "10:00〜18:30（展示室への入場は18:00まで）",
+    "admission_fees": "■企画展一般1,000円、大学生600円、小中高生300円■コレクション展一般300円、大学生200円、小中高生無料■セット券一般1,150円、大学生700円、小中高生300円",
+    "website_url": null,
+    "phone_number": "0856-31-1860",
+    "area": "島根県"
+  },
+  {
+    "id": 8,
+    "name": "田部美術館",
+    "location": "島根県松江市北堀町３１０－５",
+    "business_hours": "9時〜17時（入館は16時30分迄）",
+    "admission_fees": "大人620円、高・大学生410円、中学生以下無料",
+    "website_url": null,
+    "phone_number": "0852-26-2211",
+    "area": "島根県"
+  },
+  {
+    "id": 9,
+    "name": "加納美術館",
+    "location": "島根県安来市広瀬町布部３４５－２７",
+    "business_hours": "午前9：00〜午後16：30（入館は16：00まで）",
+    "admission_fees": "一般1000円学生500円",
+    "website_url": null,
+    "phone_number": "0854-36-0880",
+    "area": "島根県"
+  },
+  {
+    "id": 10,
+    "name": "資料室はぜくら（津和野美術館）",
+    "location": "島根県鹿足郡津和野町後田ロ１９７",
+    "business_hours": "１０:００〜１６：００（資料室はぜくら）.",
+    "admission_fees": "300円（資料室はぜくら）.",
+    "website_url": null,
+    "phone_number": "0856-72-0120",
+    "area": "島根県"
+  },
+  {
+    "id": 1,
+    "name": "山口県立美術館",
+    "location": "山口県山口市亀山町３－１",
+    "business_hours": "午前9時〜午後5時(入館は午後4時30分まで)",
+    "admission_fees": "一般：300円／学生：200円70歳以上及び18歳以下の方：無料 ※高等学校、中等教育学校、特別支援学校に在籍する方等は無料。特別展は、展覧会毎に決定。",
+    "website_url": null,
+    "phone_number": "083-925-7788",
+    "area": "山口県"
+  },
+  {
+    "id": 2,
+    "name": "下関市立美術館",
+    "location": "山口県下関市長府黒門東町１－１",
+    "business_hours": "午前9時30分〜午後5時 （入館は午後4時30分まで）",
+    "admission_fees": "所蔵品展の観覧料】一般200、大学生100円 ※18歳以下の方は無料・70歳以上の方などの観覧料が免除されます※特別展の観覧料はその都度変わります",
+    "website_url": null,
+    "phone_number": "083-245-4131",
+    "area": "山口県"
+  },
+  {
+    "id": 3,
+    "name": "長門おもちゃ美術館",
+    "location": "山口県長門市仙崎４２９７－１",
+    "business_hours": "10：00〜16：00（最終入館は15：30まで）",
+    "admission_fees": "大人（中学生以上）700円、こども（１歳〜小学生）500円、ペア券（大人＋こども）1,000円※市民大人400円、市民こども200円",
+    "website_url": null,
+    "phone_number": "0837-27-0337",
+    "area": "山口県"
+  },
+  {
+    "id": 4,
+    "name": "萩美術館・浦上記念館",
+    "location": "山口県萩市平安古町５８６－１",
+    "business_hours": "9:00〜17:00（入館は16:30まで）",
+    "admission_fees": "普通展示：一般300円、学生200円  70歳以上と18歳以下の方、および高等学校、中等教育学校、 特別支援学校に在学する生徒は無料。",
+    "website_url": null,
+    "phone_number": "0838-24-2400",
+    "area": "山口県"
+  },
+  {
+    "id": 5,
+    "name": "香月泰男美術館",
+    "location": "山口県長門市三隅中２２６",
+    "business_hours": "午前9時から午後5時入館は午後4時30分まで",
+    "admission_fees": "一般　　500円　小中高生200円　未就学児　無料 その他、入館料が免除の場合あり。",
+    "website_url": null,
+    "phone_number": "0837-43-2500",
+    "area": "山口県"
+  },
+  {
+    "id": 6,
+    "name": "柏原美術館",
+    "location": "山口県岩国市横山２丁目１０－２７",
+    "business_hours": "9:00〜17:0012月から2月は16時閉館",
+    "admission_fees": "大人\\t：800円高・大学生\\t：500円小・中学生\\t：200円※特別展中は料金が異なる場合があります。",
+    "website_url": null,
+    "phone_number": "0827-41-0506",
+    "area": "山口県"
+  },
+  {
+    "id": 7,
+    "name": "和木美術館",
+    "location": "山口県玖珂郡和木町和木１－３－１",
+    "business_hours": "企画展により異なる",
+    "admission_fees": "企画展により異なる",
+    "website_url": null,
+    "phone_number": "0827-54-1009",
+    "area": "山口県"
+  },
+  {
+    "id": 1,
+    "name": "福岡アジア美術館",
+    "location": "福岡県福岡市博多区下川端町３－１",
+    "business_hours": "午前10時開館　午後8時閉館（入室は午後7時30分まで）",
+    "admission_fees": "入館料：無料 観覧料：アジアギャラリー  一　　般　200円（150円）高・大生　150円（100円）中学生以下　無料 ※特別展観覧料は別に定めます。（　）内は、20人以上の団体料金",
+    "website_url": null,
+    "phone_number": "092-263-1100",
+    "area": "福岡県"
+  },
+  {
+    "id": 2,
+    "name": "福岡市美術館",
+    "location": "福岡県福岡市中央区大濠公園１－６",
+    "business_hours": "9:30〜17:30（入館は17:00まで）7〜8月は19:30まで開館（入館は19:00まで）ただし日曜・祝日を除く",
+    "admission_fees": "常設展示一般200円高大生150円小中生以下無料 ＊次の手帳等をご提示の方は無料。療育手帳・身体障害者手帳・精神障害者保健福祉手帳（以上は介護者1人を含む）／特定医療費（指定難病）受給者証／特定疾患医療受給者証／先天性血液凝固因子障害等医療受給者証／小児慢性特定疾病医療受給者証／福岡市、北九州市、熊本市、鹿児島市在住、住所と65歳以上を確認できる証明書",
+    "website_url": null,
+    "phone_number": "092-714-6051",
+    "area": "福岡県"
+  },
+  {
+    "id": 3,
+    "name": "石橋正二郎記念館",
+    "location": "福岡県久留米市野中町１０１５",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0942-39-1131",
+    "area": "福岡県"
+  },
+  {
+    "id": 4,
+    "name": "福岡県立美術館",
+    "location": "福岡県福岡市中央区天神５丁目２－１",
+    "business_hours": "【展覧会】午前10時〜午後6時（入場は午後5時30分まで）",
+    "admission_fees": "それぞれの展覧会に料金を設定しています",
+    "website_url": null,
+    "phone_number": "092-715-3551",
+    "area": "福岡県"
+  },
+  {
+    "id": 5,
+    "name": "北九州市立美術館",
+    "location": "福岡県北九州市戸畑区西鞘ケ谷町２１－１",
+    "business_hours": "9：30〜17：30但し、入館は17：00まで",
+    "admission_fees": "一般：150円高大生：100円小中生：50円",
+    "website_url": null,
+    "phone_number": "093-882-7777",
+    "area": "福岡県"
+  },
+  {
+    "id": 6,
+    "name": "伊都郷土美術館",
+    "location": "福岡県糸島市前原東２丁目２－８",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "092-322-5661",
+    "area": "福岡県"
+  },
+  {
+    "id": 7,
+    "name": "北九州市立美術館分館",
+    "location": "福岡県北九州市小倉北区室町１丁目１－１－１",
+    "business_hours": "午前10時から午後8時（入館は午後7時30分まで）",
+    "admission_fees": "企画展により観覧料が異なります。",
+    "website_url": null,
+    "phone_number": "093-562-3215",
+    "area": "福岡県"
+  },
+  {
+    "id": 12,
+    "name": "秋月美術館",
+    "location": "福岡県朝倉市秋月野鳥６９５－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0946-25-0895",
+    "area": "福岡県"
+  },
+  {
+    "id": 8,
+    "name": "出光美術館（門司）",
+    "location": "福岡県北九州市門司区東港町２－３",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "093-332-0251",
+    "area": "福岡県"
+  },
+  {
+    "id": 9,
+    "name": "直方市美術館",
+    "location": "福岡県直方市殿町１０－３５",
+    "business_hours": "午前9時30分から午後5時30分（ただし、入館は午後5時まで）",
+    "admission_fees": "一般：100円大学生・高校生：50円中学生以下および障がい者の方：無料 土曜日は、高校生は入館無料",
+    "website_url": null,
+    "phone_number": "0949-22-0038",
+    "area": "福岡県"
+  },
+  {
+    "id": 10,
+    "name": "九州産業大学美術館",
+    "location": "福岡県福岡市東区松香台２丁目３－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "092-673-5160",
+    "area": "福岡県"
+  },
+  {
+    "id": 11,
+    "name": "田川市美術館",
+    "location": "福岡県田川市新町１１－５６",
+    "business_hours": "9時30分〜17時30分(入館は17時まで)",
+    "admission_fees": "一般100円・高大生50円・小中生30円毎週土曜日は高校生以下無料",
+    "website_url": null,
+    "phone_number": "0947-42-6161",
+    "area": "福岡県"
+  },
+  {
+    "id": 13,
+    "name": "添田町美術館",
+    "location": "福岡県田川郡添田町大字添田１７８８－２",
+    "business_hours": "10：00〜17：00",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0947-82-3325",
+    "area": "福岡県"
+  },
+  {
+    "id": 14,
+    "name": "大牟田市ともだちや絵本美術館",
+    "location": "福岡県大牟田市若宮町２－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0944-32-8050",
+    "area": "福岡県"
+  },
+  {
+    "id": 15,
+    "name": "中村美術館",
+    "location": "福岡県田川市大字弓削田３７８２－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0947-42-1018",
+    "area": "福岡県"
+  },
+  {
+    "id": 16,
+    "name": "行橋市増田美術館",
+    "location": "福岡県行橋市行事５丁目４－３８",
+    "business_hours": "10時から17時まで（入館は16時半までに）",
+    "admission_fees": "・一般　500円、・高校生・大学生　300円、・中学生以下　無料",
+    "website_url": null,
+    "phone_number": "0930-23-1824",
+    "area": "福岡県"
+  },
+  {
+    "id": 17,
+    "name": "黒川ＩＮＮ美術館",
+    "location": "福岡県朝倉市黒川１５４６－１",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0946-29-0590",
+    "area": "福岡県"
+  },
+  {
+    "id": 1,
+    "name": "佐賀県立美術館",
+    "location": "佐賀県佐賀市城内１－１５－２３",
+    "business_hours": "9時30分〜18時",
+    "admission_fees": "常設展示一般並びに高校生以下・障害者無料当館主催企画展別に定める額",
+    "website_url": null,
+    "phone_number": "0952-24-3947",
+    "area": "佐賀県"
+  },
+  {
+    "id": 2,
+    "name": "有田陶磁美術館",
+    "location": "佐賀県西松浦郡有田町大樽１丁目４－２",
+    "business_hours": "午前9時〜午後4時30分",
+    "admission_fees": "大 人100円大高生50円 小中生30円",
+    "website_url": null,
+    "phone_number": "0955-42-3372",
+    "area": "佐賀県"
+  },
+  {
+    "id": 1,
+    "name": "長崎県美術館",
+    "location": "長崎県長崎市出島町２－１",
+    "business_hours": "開館時間：10:00〜20:00（事業により時間を変更することがあります。）",
+    "admission_fees": "入館無料 コレクション展　観覧料金一般400円大学生300円小中高生200円シニア(70歳以上)300円",
+    "website_url": null,
+    "phone_number": "095-833-2110",
+    "area": "長崎県"
+  },
+  {
+    "id": 2,
+    "name": "雲仙ビードロ美術館",
+    "location": "長崎県雲仙市小浜町雲仙３２０",
+    "business_hours": "9：00〜18：00",
+    "admission_fees": "大人：700円中高生：500円小学生：300円幼児：無料",
+    "website_url": null,
+    "phone_number": "0957-73-3133",
+    "area": "長崎県"
+  },
+  {
+    "id": 3,
+    "name": "野口彌太郎記念美術館",
+    "location": "長崎県長崎市平野町７－８",
+    "business_hours": "午前9時〜午後5時（入館は、午後4時30分まで）",
+    "admission_fees": "一般：100円／団体80円小学生・中学生：50円／団体30円団体は15人以上の場合となります。",
+    "website_url": null,
+    "phone_number": "095-843-8209",
+    "area": "長崎県"
+  },
+  {
+    "id": 4,
+    "name": "ハウステンボス美術館",
+    "location": "長崎県佐世保市ハウステンボス町1-1",
+    "business_hours": "10:00‐18:00（ハウステンボスの営業時間により変動）",
+    "admission_fees": "ハウステンボスのパスポートをお持ちの方のみ利用が可能です。",
+    "website_url": null,
+    "phone_number": "情報なし",
+    "area": "長崎県"
+  },
+  {
+    "id": 1,
+    "name": "熊本県立美術館",
+    "location": "熊本県熊本市中央区二の丸２",
+    "business_hours": "9:30〜17:30　（入館は16:45まで）",
+    "admission_fees": "別棟展示室＋本館二階展示室共通券 一般：420円大学生：250円",
+    "website_url": null,
+    "phone_number": "096-352-2111",
+    "area": "熊本県"
+  },
+  {
+    "id": 2,
+    "name": "菊池夢美術館",
+    "location": "熊本県菊池市大字隈府１２７３－１",
+    "business_hours": "9：00〜18：00（12月〜2月は17：30まで）",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0968-25-0513",
+    "area": "熊本県"
+  },
+  {
+    "id": 3,
+    "name": "熊本県立美術館分館",
+    "location": "熊本県熊本市中央区千葉城町２－１８",
+    "business_hours": "火〜金／午前9:30〜午後6:30土・日・祝／午前9:30〜午後5:15（入館は30分前まで）",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "096-351-8411",
+    "area": "熊本県"
+  },
+  {
+    "id": 4,
+    "name": "つなぎ美術館",
+    "location": "熊本県葦北郡津奈木町岩城４９４",
+    "business_hours": "午前10時〜午後17時（入館は16時30分まで）",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0966-61-2222",
+    "area": "熊本県"
+  },
+  {
+    "id": 5,
+    "name": "熊本市現代美術館",
+    "location": "熊本県熊本市中央区上通町２－３",
+    "business_hours": "午前10時から午後8時 （展覧会入場は午後7時30分まで）※余震の状況によりましては変更する場合があります",
+    "admission_fees": "入館料は無料です。（企画展示室を除く）",
+    "website_url": null,
+    "phone_number": "096-278-7500",
+    "area": "熊本県"
+  },
+  {
+    "id": 6,
+    "name": "不知火美術館",
+    "location": "熊本県宇城市不知火町高良２３５２",
+    "business_hours": "午前10時から午後6時まで（土日祝は午前10時から午後5時まで）    ※入館は閉館30分前まで",
+    "admission_fees": "大人300円、大学生・高校生200円",
+    "website_url": null,
+    "phone_number": "0964-32-6222",
+    "area": "熊本県"
+  },
+  {
+    "id": 7,
+    "name": "島田美術館",
+    "location": "熊本県熊本市西区島崎４－５－２８",
+    "business_hours": "am10:00〜pm5:00(入場はpm4:30まで)",
+    "admission_fees": "一般　700円大学・高校生400円小・中学生200円保護者同伴の小学生は無料",
+    "website_url": null,
+    "phone_number": "096-352-4597",
+    "area": "熊本県"
+  },
+  {
+    "id": 8,
+    "name": "坂本善三美術館",
+    "location": "熊本県阿蘇郡小国町黒渕２８７７",
+    "business_hours": "9：00〜17：00（入館は30分前まで）",
+    "admission_fees": "一般500円、高・大学生400円、小・中学生200円",
+    "website_url": null,
+    "phone_number": "0967-46-5732",
+    "area": "熊本県"
+  },
+  {
+    "id": 9,
+    "name": "星野富弘美術館",
+    "location": "熊本県葦北郡芦北町大字湯浦１４３９－２",
+    "business_hours": "9:00〜17:00",
+    "admission_fees": "・一般（高校生以上）　　　　 500円・16歳未満（中学生以下）　300円・6歳未満（就学児未満）     無料 ・障害者手帳をお持ちの方とその介護者1名：5割引き",
+    "website_url": null,
+    "phone_number": "0966-86-1600",
+    "area": "熊本県"
+  },
+  {
+    "id": 1,
+    "name": "大分市美術館",
+    "location": "大分県大分市大字上野８６５",
+    "business_hours": "午前１０時〜午後６時（ただし、入館は午後５時３０分まで）",
+    "admission_fees": "【コレクション展観覧料】 一般  ３００円  高校生・大学生  ２００円 ※中学生以下は無料",
+    "website_url": null,
+    "phone_number": "097-554-5800",
+    "area": "大分県"
+  },
+  {
+    "id": 2,
+    "name": "中津市木村記念美術館",
+    "location": "大分県中津市片端町１３６６－３",
+    "business_hours": "9：00〜17：00（入館は16：30まで）",
+    "admission_fees": "一般 200円、高校・大学生 100円、中学生以下 無料",
+    "website_url": null,
+    "phone_number": "0979-22-7767",
+    "area": "大分県"
+  },
+  {
+    "id": 3,
+    "name": "別府市美術館",
+    "location": "大分県別府市上人ケ浜町１－１",
+    "business_hours": "9:00-16:00入館15:30まで",
+    "admission_fees": "一般・高校生 100円（70円）小・中学生 50円（30円）幼児無料※（ ）内は20名団体割引料金",
+    "website_url": null,
+    "phone_number": "0977-67-0189",
+    "area": "大分県"
+  },
+  {
+    "id": 4,
+    "name": "二階堂美術館",
+    "location": "大分県速見郡日出町川崎８３７－６",
+    "business_hours": "午前9時〜午後5時(入館は午後4時30分まで）",
+      "admission_fees": "一般800円、高・大学生500円、小・中学生300円",
+      "website_url": null,
+      "phone_number": "0977-73-1100",
+      "area": "大分県"
+  },
+  {
+    "id": 5,
+    "name": "不均質な自然と人の美術館",
+    "location": "大分県豊後高田市見目４０６０",
+    "business_hours": "情報なし",
+    "admission_fees": "情報なし",
+    "website_url": null,
+    "phone_number": "0978-25-7116",
+    "area": "大分県"
+  },
+  {
+    "id": 1,
+    "name": "宮崎県立美術館",
+    "location": "宮崎県宮崎市船塚３丁目２１０",
+    "business_hours": "10：00〜18：00（展示室への入室は17：30まで）",
+    "admission_fees": "・ コレクション展は観覧無料です。  ・ 特別展はそのつど定めます。・ アートシアター、映像ブース、美術図書室の利用は無料。",
+    "website_url": null,
+    "phone_number": "0985-20-3792",
+    "area": "宮崎県"
+  },
+  {
+    "id": 2,
+    "name": "都城市立美術館",
+    "location": "宮崎県都城市姫城町７－１８",
+    "business_hours": "午前9時〜午後5時(入館は午後4時30分まで)",
+    "admission_fees": "常設展：無料特別企画展：有料(その都度入館料が設定されます。)",
+    "website_url": null,
+    "phone_number": "0986-25-1447",
+    "area": "宮崎県"
+  },
+  {
+    "id": 3,
+    "name": "高鍋町美術館",
+    "location": "宮崎県児湯郡高鍋町南高鍋６９１６－１",
+    "business_hours": "午前10時〜午後5時（入館は午後4時30分まで）",
+    "admission_fees": "大　人 ：210円（168円） 小中高生 ：100円（80円）小学生未満 ：無　料 特別展：展覧会によって異なります。",
+    "website_url": null,
+    "phone_number": "0983-23-8887",
+    "area": "宮崎県"
+  },
+  {
+    "id": 1,
+    "name": "鹿児島市立美術館",
+    "location": "鹿児島県鹿児島市城山町4-36",
+    "business_hours": "午前9時30分〜午後6時（入館は午後5時30分まで）",
+    "admission_fees": "常設展一般300円高大生200円小中生150円",
+    "website_url": null,
+    "phone_number": "099-224-3400",
+    "area": "鹿児島県"
+  },
+  {
+    "id": 2,
+    "name": "田中一村記念美術館",
+    "location": "鹿児島県奄美市笠利町大字節田１８３４",
+    "business_hours": "９：００〜１８：００（最終入館17：30）※７，８月は９：００〜１９：００（最終入館18：30）",
+    "admission_fees": "大人： 510円高校生・大学生： 360円小学生・中学生： 250円幼児（小学生未満）：無料",
+    "website_url": null,
+    "phone_number": "0997-55-2635",
+    "area": "鹿児島県"
+  },
+  {
+    "id": 3,
+    "name": "長島美術館",
+    "location": "鹿児島県鹿児島市武3-42-18",
+    "business_hours": "午前9時〜午後5時（入館は午後4時30分まで）",
+    "admission_fees": "常 設 展　一般　１，０００円（８００円）高校生・大学生　　　８００円（６４０円）小学生・中学生　　　４００円（３２０円）シニア（６５歳以上）５００円",
+    "website_url": null,
+    "phone_number": "099-250-5400",
+    "area": "鹿児島県"
+  },
+  {
+    "id": 4,
+    "name": "中村晋也美術館",
+    "location": "鹿児島県鹿児島市石谷町２３６６－２１",
+    "business_hours": "10:00〜17:00",
+    "admission_fees": "一般500円、高校生200円、小・中学生100円",
+    "website_url": null,
+    "phone_number": "099-246-7070",
+    "area": "鹿児島県"
+  },
+  {
+    "id": 5,
+    "name": "笠沙美術館",
+    "location": "鹿児島県南さつま市笠沙町赤生木８６７０",
+    "business_hours": "9：00〜17：00",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0993-63-0990",
+    "area": "鹿児島県"
+  },
+  {
+    "id": 6,
+    "name": "三宅美術館",
+    "location": "鹿児島県鹿児島市谷山中央１丁目４３１９",
+    "business_hours": "午前10時〜午後4時30分",
+    "admission_fees": "一般500円、高校生300円、小・中学生200円、70歳以上100円",
+    "website_url": null,
+    "phone_number": "099-266-0066",
+    "area": "鹿児島県"
+  },
+  {
+    "id": 7,
+    "name": "松下美術館",
+    "location": "鹿児島県霧島市福山町福山７７１",
+    "business_hours": "10：00  〜  17：00（最終入館は16：30まで）",
+    "admission_fees": "一般500円、高・大学生300円、小・中学生200円、幼児無料",
+    "website_url": null,
+    "phone_number": "0995-55-3350",
+    "area": "鹿児島県"
+  },
+  {
+    "id": 8,
+    "name": "岩崎美術館",
+    "location": "鹿児島県指宿市十二町３７５５",
+    "business_hours": "午前８時から午後５時 (入館は午後４時３０分まで)",
+    "admission_fees": "大学生・一般　300円 / 高校生以下　無料",
+    "website_url": null,
+    "phone_number": "0993-22-4056",
+    "area": "鹿児島県"
+  },
+  {
+    "id": 9,
+    "name": "吉井淳二美術館",
+    "location": "鹿児島県南さつま市加世田武田１３８７７－３",
+    "business_hours": "午前10時〜午後5時　(入館は午後4時30分まで)",
+    "admission_fees": "無料",
+    "website_url": null,
+    "phone_number": "0993-53-6778",
+    "area": "鹿児島県"
+  },
+  {
+    "id": 1,
+    "name": "浦添市美術館",
+    "location": "沖縄県浦添市仲間１丁目９－２",
+    "business_hours": "午前9時30分〜午後5時※金曜日は午後7時まで開館しています。※入館は閉館の30分前までです。",
+    "admission_fees": "一般200円（160円）大学生130円（100円）６５歳以上１６０円※高校生以下は無料です。※（　）の料金は20名以上の団体料金です。",
+    "website_url": null,
+    "phone_number": "098-879-3219",
+    "area": "沖縄県"
+  },
+  {
+    "id": 2,
+    "name": "世界遺産座喜味城跡　ユンタンザミュージアム",
+    "location": "沖縄県中頭郡読谷村字座喜味７０８－６",
+    "business_hours": "午前９時〜午後５時（入館は４時30分まで）",
+    "admission_fees": "【観覧料】（歴史民俗資料館と共通） 大人200円 小中高生50円",
+    "website_url": null,
+    "phone_number": "098-958-3141",
+    "area": "沖縄県"
+  }
+]
