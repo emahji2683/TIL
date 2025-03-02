@@ -1,0 +1,26 @@
+require 'json'
+
+# JSONファイルがあるディレクトリ
+directory_path = './' # 必要に応じて変更
+output_file = "#{directory_path}/merged_output.jsonl" # 出力ファイル名
+
+# すべての JSON ファイルを取得
+json_files = Dir.glob("#{directory_path}/*.json")
+
+File.open(output_file, 'w') do |outfile|
+  json_files.each do |file_path|
+    File.open(file_path, 'r') do |f|
+      f.each_line do |line|
+        begin
+          # 各行を JSON としてチェック（パースできるか確認）
+          JSON.parse(line.strip)
+          outfile.puts(line.strip) # JSONL 形式で書き込む
+        rescue JSON::ParserError
+          puts "無効な JSON 行をスキップしました: #{line}"
+        end
+      end
+    end
+  end
+end
+
+puts "✅ JSONL ファイルをマージしました: #{output_file}"
