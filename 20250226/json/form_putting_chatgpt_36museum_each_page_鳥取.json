@@ -1,9 +1,18 @@
-{"id":1,"name":"砂の美術館","location":"鳥取県鳥取市福部町湯山2083-17","business_hours":"9時〜16時　※公式ホームページ要確認","admission_fees":"一般：800円小・中・高生：400円※小学生未満は無料","website_url":null,"phone_number":"0857-20-2231","area":"鳥取県"}
-{"id":2,"name":"植田正治写真美術館","location":"鳥取県西伯郡伯耆町須村３５３－３","business_hours":"午前9時から午後5時まで入館は閉館の30分前まで","admission_fees":"一般 900円 (800円) 高校大学生 500円 (400円) 小中学生 300円 (200円)","website_url":null,"phone_number":"0859-39-8000","area":"鳥取県"}
-{"id":3,"name":"ハピネライフケア文化広場（米子市美術館）","location":"鳥取県米子市中町１２","business_hours":"10時〜18時","admission_fees":"展覧会によって異なります。","website_url":null,"phone_number":"0859-34-2424","area":"鳥取県"}
-{"id":4,"name":"渡辺美術館","location":"鳥取県鳥取市覚寺堤下１－５５","business_hours":"土日祝祭日: 10:00〜17:00月水木金   : 10:00〜15:00","admission_fees":"大人 : 900円大高生 : 500円中小生 : 300円障がい者 : 400円","website_url":null,"phone_number":"0857-24-1152","area":"鳥取県"}
-{"id":5,"name":"日南町美術館","location":"鳥取県日野郡日南町霞７８５","business_hours":"午前８時３０分〜午後５時","admission_fees":"企画展によって異なる","website_url":null,"phone_number":"0859-77-1113","area":"鳥取県"}
-{"id":6,"name":"本池美術館","location":"鳥取県米子市大篠津町４８４１","business_hours":"情報なし","admission_fees":"情報なし","website_url":null,"phone_number":"0859-25-0550","area":"鳥取県"}
-{"id":7,"name":"三朝バイオリン美術館","location":"鳥取県東伯郡三朝町三朝１９９－１","business_hours":"10:00〜18:00","admission_fees":"大人\\\\500／小・中・高校生\\\\250","website_url":null,"phone_number":"0858-43-3111","area":"鳥取県"}
-{"id":8,"name":"モトフサ現代美術館","location":"鳥取県岩美郡岩美町牧谷６９３－１","business_hours":"am 10：00 〜 pm 5：00","admission_fees":"大人600円、高校生500円、小・中学生400円","website_url":null,"phone_number":"0857-72-8881","area":"鳥取県"}
-{"id":9,"name":"現代工芸美術館","location":"鳥取県西伯郡大山町羽田井１４１９－３１６","business_hours":"午前9時から午後5時","admission_fees":"無料","website_url":null,"phone_number":"0858-58-4111","area":"鳥取県"}
+{"id":1,"name":"砂の美術館","location":"鳥取県鳥取市福部町湯山2083-17","business_hours":"9時〜16時　※公式ホームページ要確認","admission_fees":"一般：800円小・中・高生：400円※小学生未満は無料","website_url":null,"phone_number":"0857-20-2231","area":"鳥取県県"}
+{"id":2,"name":"植田正治写真美術館","location":"鳥取県西伯郡伯耆町須村３５３－３","business_hours":"午前9時から午後5時まで入館は閉館の30分前まで","admission_fees":"一般 900円 (800円) 高校大学生 500円 (400円) 小中学生 300円 (200円)","website_url":null,"phone_number":"0859-39-8000","area":"鳥取県県"}
+{"id":3,"name":"ハピネライフケア文化広場（米子市美術館）","location":"鳥取県米子市中町１２","business_hours":"10時〜18時","admission_fees":"展覧会によって異なります。","website_url":null,"phone_number":"0859-34-2424","area":"鳥取県県"}
+{"id":4,"name":"渡辺美術館","location":"鳥取県鳥取市覚寺堤下１－５５","business_hours":"土日祝祭日: 10:00〜17:00月水木金   : 10:00〜15:00","admission_fees":"大人 : 900円大高生 : 500円中小生 : 300円障がい者 : 400円","website_url":null,"phone_number":"0857-24-1152","area":"鳥取県県"}
+{"id":5,"name":"日南町美術館","location":"鳥取県日野郡日南町霞７８５","business_hours":"午前８時３０分〜午後５時","admission_fees":"企画展によって異なる","website_url":null,"phone_number":"0859-77-1113","area":"鳥取県県"}
+{"id":6,"name":"本池美術館","location":"鳥取県米子市大篠津町４８４１","business_hours":"情報なし","admission_fees":"情報なし","website_url":null,"phone_number":"0859-25-0550","area":"鳥取県県"}
+{"id":7,"name":"三朝バイオリン美術館","location":"鳥取県東伯郡三朝町三朝１９９－１","business_hours":"10:00〜18:00","admission_fees":"大人\\\\500／小・中・高校生\\\\250","website_url":null,"phone_number":"0858-43-3111","area":"鳥取県県"}
+{"id":8,"name":"モトフサ現代美術館","location":"鳥取県岩美郡岩美町牧谷６９３－１","business_hours":"am 10：00 〜 pm 5：00","admission_fees":"大人600円、高校生500円、小・中学生400円","website_url":null,"phone_number":"0857-72-8881","area":"鳥取県県"}
+{"id":9,"name":"現代工芸美術館","location":"鳥取県西伯郡大山町羽田井１４１９－３１６","business_hours":"午前9時から午後5時","admission_fees":"無料","website_url":null,"phone_number":"0858-58-4111","area":"鳥取県県"}
+{"id":10,"name":"砂の美術館","location":"鳥取県鳥取市福部町湯山2083-17","business_hours":"9時〜16時　※公式ホームページ要確認","admission_fees":"一般：800円小・中・高生：400円※小学生未満は無料","website_url":null,"phone_number":"0857-20-2231","area":"鳥取県"}
+{"id":11,"name":"植田正治写真美術館","location":"鳥取県西伯郡伯耆町須村３５３－３","business_hours":"午前9時から午後5時まで入館は閉館の30分前まで","admission_fees":"一般 900円 (800円) 高校大学生 500円 (400円) 小中学生 300円 (200円)","website_url":null,"phone_number":"0859-39-8000","area":"鳥取県"}
+{"id":12,"name":"ハピネライフケア文化広場（米子市美術館）","location":"鳥取県米子市中町１２","business_hours":"10時〜18時","admission_fees":"展覧会によって異なります。","website_url":null,"phone_number":"0859-34-2424","area":"鳥取県"}
+{"id":13,"name":"渡辺美術館","location":"鳥取県鳥取市覚寺堤下１－５５","business_hours":"土日祝祭日: 10:00〜17:00月水木金   : 10:00〜15:00","admission_fees":"大人 : 900円大高生 : 500円中小生 : 300円障がい者 : 400円","website_url":null,"phone_number":"0857-24-1152","area":"鳥取県"}
+{"id":14,"name":"日南町美術館","location":"鳥取県日野郡日南町霞７８５","business_hours":"午前８時３０分〜午後５時","admission_fees":"企画展によって異なる","website_url":null,"phone_number":"0859-77-1113","area":"鳥取県"}
+{"id":15,"name":"本池美術館","location":"鳥取県米子市大篠津町４８４１","business_hours":"情報なし","admission_fees":"情報なし","website_url":null,"phone_number":"0859-25-0550","area":"鳥取県"}
+{"id":16,"name":"三朝バイオリン美術館","location":"鳥取県東伯郡三朝町三朝１９９－１","business_hours":"10:00〜18:00","admission_fees":"大人\\\\500／小・中・高校生\\\\250","website_url":null,"phone_number":"0858-43-3111","area":"鳥取県"}
+{"id":17,"name":"モトフサ現代美術館","location":"鳥取県岩美郡岩美町牧谷６９３－１","business_hours":"am 10：00 〜 pm 5：00","admission_fees":"大人600円、高校生500円、小・中学生400円","website_url":null,"phone_number":"0857-72-8881","area":"鳥取県"}
+{"id":18,"name":"現代工芸美術館","location":"鳥取県西伯郡大山町羽田井１４１９－３１６","business_hours":"午前9時から午後5時","admission_fees":"無料","website_url":null,"phone_number":"0858-58-4111","area":"鳥取県"}
