@@ -214,3 +214,29 @@ HTTP 401: This endpoint requires you to be authenticated. (https://api.github.co
 Try authenticating with:  gh auth login
 non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
 ブランチ '2025-02-28' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-03-05'
+[2025-03-05 95c9518] Add learning records for 2025-03-05
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: 
+remote: Create a pull request for '2025-03-05' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/studyapp_v01/pull/new/2025-03-05        
+remote: 
+To github.com:emahji2683/studyapp_v01.git
+ * [new branch]      2025-03-05 -> 2025-03-05
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-03-05' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-03-06'
+[2025-03-06 44b3622] Add learning records for 2025-03-06
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: 
+remote: Create a pull request for '2025-03-06' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/studyapp_v01/pull/new/2025-03-06        
+remote: 
+To github.com:emahji2683/studyapp_v01.git
+ * [new branch]      2025-03-06 -> 2025-03-06
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-03-06' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
