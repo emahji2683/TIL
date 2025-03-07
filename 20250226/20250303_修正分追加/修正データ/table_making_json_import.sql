@@ -6,6 +6,6 @@ CREATE TABLE json_import_mod (
 );
 
 COPY json_import_mod(data) 
-FROM '/Users/a81906/TIL/20250226/add_mod_prefs/modified_json_josonl/merged_output_json_modified_nag,tko,nigata.jsonl' 
+FROM '/Users/a81906/TIL/20250226/add_mod_prefs/modified_json_josonl/修正後merged_output_json_modified_nag,tko,nigata.jsonl' 
 WITH (FORMAT text);
 

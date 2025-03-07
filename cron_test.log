@@ -1687,3 +1687,32 @@ Try authenticating with:  gh auth login
 non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
 ブランチ '2025-03-03' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
 Switched to a new branch '2025-03-04'
+[2025-03-04 e3040fc] Add learning records for 2025-03-04
+ 69 files changed, 2243 insertions(+), 1256 deletions(-)
+ create mode 100755 "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\343\203\207\343\203\274\343\202\277\346\225\260\343\201\256\346\257\224\350\274\203.numbers"
+ delete mode 100644 "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\345\220\204\351\203\275\351\201\223\345\272\234\347\234\214\343\201\256\347\276\216\350\241\223\351\244\250\344\270\200\350\246\247/pages/1"
+ create mode 100644 20250226/add_mod_prefs/making_csv_for_chatGPT.sql
+ create mode 100644 "20250226/add_mod_prefs/modified_json_josonl/form_putting_chatgpt_00museum_each_page_\346\226\260\346\275\237.json"
+ create mode 100644 "20250226/add_mod_prefs/modified_json_josonl/form_putting_chatgpt_00museum_each_page_\351\225\267\351\207\216.json"
+ create mode 100644 "20250226/add_mod_prefs/modified_json_josonl/form_putting_chatgpt_01museum_each_page_\346\235\261\344\272\254.json"
+ create mode 100644 20250226/add_mod_prefs/modified_json_josonl/merged_output_json_modified_nag,tko,nigata.jsonl
+ create mode 100644 20250226/add_mod_prefs/table_insert_JSON.sql
+ create mode 100644 20250226/add_mod_prefs/table_making_json_import.sql
+ create mode 100644 20250226/add_mod_prefs/table_making_museums_json_expand.sql
+ delete mode 100644 20250226/json/1
+ delete mode 100644 20250226/json/form_putting_chatgpt_.write_csv.rb.swp.json
+ delete mode 100644 20250226/json/form_putting_chatgpt_prompts.md.json
+ create mode 100644 "20250226/send_get_data/20250302_taku\346\260\217\343\201\270\351\200\201\344\273\230/merged_output_json_modified_nag,tko,nigata.jsonl"
+ create mode 100644 "20250226/send_get_data/json_taku\344\277\256\346\255\243\345\276\214/file_watch.sh"
+ create mode 100644 "20250226/send_get_data/json_taku\344\277\256\346\255\243\345\276\214/prompts.md"
+remote: 
+remote: Create a pull request for '2025-03-04' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-03-04        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-03-04 -> 2025-03-04
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-03-04' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-03-07'
