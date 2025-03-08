@@ -1716,3 +1716,34 @@ Try authenticating with:  gh auth login
 non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
 ブランチ '2025-03-04' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
 Switched to a new branch '2025-03-07'
+[2025-03-07 0f7208f] Add learning records for 2025-03-07
+ 22 files changed, 970 insertions(+), 22 deletions(-)
+ rename 20250226/add_mod_prefs/making_csv_for_chatGPT.sql => "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\344\277\256\346\255\243\343\203\207\343\203\274\343\202\277/making_csv_for_chatGPT.sql" (100%)
+ rename "20250226/add_mod_prefs/modified_json_josonl/form_putting_chatgpt_00museum_each_page_\346\226\260\346\275\237.json" => "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\344\277\256\346\255\243\343\203\207\343\203\274\343\202\277/modified_json_josonl/form_putting_chatgpt_00museum_each_page_\346\226\260\346\275\237.json" (100%)
+ rename "20250226/add_mod_prefs/modified_json_josonl/form_putting_chatgpt_00museum_each_page_\351\225\267\351\207\216.json" => "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\344\277\256\346\255\243\343\203\207\343\203\274\343\202\277/modified_json_josonl/form_putting_chatgpt_00museum_each_page_\351\225\267\351\207\216.json" (100%)
+ rename "20250226/add_mod_prefs/modified_json_josonl/form_putting_chatgpt_01museum_each_page_\346\235\261\344\272\254.json" => "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\344\277\256\346\255\243\343\203\207\343\203\274\343\202\277/modified_json_josonl/form_putting_chatgpt_01museum_each_page_\346\235\261\344\272\254.json" (100%)
+ rename 20250226/add_mod_prefs/modified_json_josonl/merged_output_json_modified_nag,tko,nigata.jsonl => "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\344\277\256\346\255\243\343\203\207\343\203\274\343\202\277/modified_json_josonl/merged_output_json_modified_nag,tko,nigata.jsonl" (100%)
+ create mode 100644 "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\344\277\256\346\255\243\343\203\207\343\203\274\343\202\277/modified_json_josonl/\344\277\256\346\255\243\345\276\214merged_output_json_modified_nag,tko,nigata.jsonl"
+ rename 20250226/add_mod_prefs/table_insert_JSON.sql => "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\344\277\256\346\255\243\343\203\207\343\203\274\343\202\277/table_insert_JSON.sql" (100%)
+ rename 20250226/add_mod_prefs/table_making_json_import.sql => "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\344\277\256\346\255\243\343\203\207\343\203\274\343\202\277/table_making_json_import.sql" (78%)
+ rename 20250226/add_mod_prefs/table_making_museums_json_expand.sql => "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\344\277\256\346\255\243\343\203\207\343\203\274\343\202\277/table_making_museums_json_expand.sql" (100%)
+ delete mode 100755 "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\345\220\204\347\276\216\350\241\223\351\244\250\345\205\254\345\274\217\343\203\232\343\203\274\343\202\270\345\217\216\351\233\206/open_urls.sh"
+ create mode 100644 "20250226/20250303_\344\277\256\346\255\243\345\210\206\350\277\275\345\212\240/\347\276\216\350\241\223\351\244\250\345\206\231\347\234\237URL\345\217\216\351\233\206/1"
+ create mode 100644 "20250226/send_get_data/20250304_\343\202\277\343\202\257\346\260\217\345\217\227\351\240\230/\344\277\256\346\255\243\345\276\214merged_output_json_modified_nag,tko,nigata.jsonl"
+ create mode 100644 "20250304/\347\276\216\350\241\223\351\244\250\343\203\207\343\203\274\343\202\277\343\201\256\346\212\225\345\205\245.md"
+ create mode 100644 20250306/N1.log
+ create mode 100644 "20250306/\343\202\255\343\203\243\343\203\203\343\202\267\343\203\245\343\201\250\343\201\257.md"
+ create mode 100644 "20250306/\343\203\217\343\203\203\343\202\267\343\203\245\351\226\242\346\225\260.md"
+ create mode 100644 "20250306/\343\203\231\343\203\263\343\203\201\343\203\236\343\203\274\343\202\257\343\201\253\343\201\244\343\201\204\343\201\246.md"
+ create mode 100644 "20250306/\343\203\254\343\203\223\343\203\245\343\203\274\343\201\253\343\201\244\343\201\204\343\201\246.md"
+remote: 
+remote: Create a pull request for '2025-03-07' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-03-07        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-03-07 -> 2025-03-07
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-03-07' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-03-08'
