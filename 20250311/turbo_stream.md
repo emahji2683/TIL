@@ -6,7 +6,11 @@
 TurboStreamにより、更新する要素を記述するファイル。
 > Turbo Streamを使って非同期通信を行う際、更新する要素の情報を書いておくファイルです。
 
-以下の通り、
+以下の通り、実行対象に描画する素材を元に特定のアクションを行う。
+
+```
+<%= turbo_stream.アクション名 "実行する対象", partial: "描画する素材", locals: {渡す変数} %>
+```
 
 ```
 <%= turbo_stream.append "comments_list", partial: "comments/comment", locals: { comment: @comment } %>
