@@ -63,13 +63,83 @@ end
 Mod.メソッド名
 ```
 
-# モジュールの使用意義
+# モジュールの応用
+モジュールの応用事例としては、他のクラスでメソッドを使用できるようにする(ミックスイン)、ネームスペースの定義等がある。
+
 - クラスにインスタンスメソッドを追加する(ミックスイン)
 - クラスにクラスメソッドを追加する(ミックスイン)
 - クラス名などの重複を防ぐためにネームスペース(名前空間)を作成する
-- ミックスインせずにモジュール単体としてメソッドを定義
 
+## 前提知識
+### ミックスインとは
+> モジュール（module）をクラスに組み込むことで、クラスにメソッド(インスタンス、クラス)を追加できる仕組みのことです。
 
 ## クラスにインスタンスメソッドを追加する(ミックスイン)
-## クラスにクラスメソッドを追加する(ミックスイン)
+> include を使うと、モジュールのメソッドがインスタンスメソッドとしてクラスに追加されます。
 
+```
+module Greet
+  def hello
+    puts "こんにちは！"
+  end
+end
+
+class User
+  include Greet
+end
+
+user = User.new
+user.hello  # => こんにちは！
+```
+
+## クラスにクラスメソッドを追加する(ミックスイン)
+> extend を使うと、モジュールのメソッドがクラスメソッドとして追加されます。
+
+```
+module Greet
+  def hello
+    puts "こんにちは！"
+  end
+end
+
+class User
+  extend Greet
+end
+
+User.hello  # => こんにちは！
+```
+
+## クラス名などの重複を防ぐためにネームスペース(名前空間)を作成する
+### 名前空間とは
+メソッドをカプセル化すること。同名のメソッド、変数が衝突しないようにする。逆に、衝突した場合は、後述されたメソッドで前述のメソッドが上書きされる。
+> 名前空間とは、メソッド名や変数名などが衝突しないようにするための機能のことです。例を使いながら簡単に説明します。
+
+### 名前空間の定義事例
+以下の通り、同名メソッド・クラスの衝突を避けるため、moduleを用いて名前空間を定義した。結果として、衝突は起きなかった。
+
+```
+module Myapp
+  class User
+    attr_accessor :name
+    def initialize(name)
+      @name = name
+    end
+  end
+end
+
+module OtherApp
+  class User
+    attr_accessor :name
+    def initialize(name)
+      @name = name
+    end
+  end
+end
+
+puts Myapp::User.new("EM").name =>"EM"
+puts OtherApp::User.new("OtherM").name =>"OtherM"
+```
+
+# 参考資料
+- [Rubyの名前空間（namespace）について現役エンジニアが解説【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/22391)
+- [Moduleのミックスインと名前空間に関して [Ruby]｜koki.](https://note.com/kokitecture/n/n1595aeb7d8a9)
