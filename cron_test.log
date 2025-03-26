@@ -1994,3 +1994,21 @@ Try authenticating with:  gh auth login
 non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
 ブランチ '2025-03-25' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
 fatal: a branch named '2025-03-26' already exists
+[2025-03-26 6a47bdd] Add learning records for 2025-03-26
+ 9 files changed, 151 insertions(+)
+ create mode 100644 20250326/TCP_IP.md
+ create mode 100644 20250326/arr_take.md
+ create mode 100644 20250326/httparty.md
+ create mode 100644 20250326/input.txt
+ create mode 100644 20250326/lsof.md
+ create mode 100644 20250326/string_index.md
+ create mode 100644 "20250326/\343\203\241\343\202\277\343\203\227\343\203\255\343\202\260\343\203\251\343\203\237\343\203\263\343\202\260.md"
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+error connecting to api.github.com
+check your internet connection or https://githubstatus.com
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-03-26' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
