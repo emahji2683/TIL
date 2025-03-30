@@ -7,17 +7,25 @@
 @media (prefers-color-scheme: dark) {
   /* このなかにダークモード時のスタイルを記述します */
   body {
-    background-color: #333;
     width: 1400px;
-  }
-
-  h1, h2, h3, p, li, details {
-    color: #ddd;
   }
 }
 
+.gray-text {
+  color: #808080;
+}
+
+.yellow {
+  background-color: #D0A900;
+}
+
+.blue {
+  color: #223670;
+}
+
 .red {
-  color: red;
+  color: #862040;
+  background-color: #FFFFFF;
 }
 
 img {
@@ -60,7 +68,7 @@ p {
 
 table {
   border-collapse: collapse; /* セルの境界を結合 */
-  font-size: 16px;
+  font-size: 12px;
   width: 100%; /* テーブルの幅 */
   border: 1px solid #ddd; /* テーブル全体の枠線 */
 }

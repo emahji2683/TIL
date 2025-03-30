@@ -1,0 +1,1 @@
+  FROM ":table_name"

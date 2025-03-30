@@ -1,0 +1,2 @@
+selenium_test.rb:1:in `<main>': undefined local variable or method `selenium' for main:Object (NameError)
+selenium_test.rb:1:in `<main>': undefined local variable or method `selenium' for main:Object (NameError)

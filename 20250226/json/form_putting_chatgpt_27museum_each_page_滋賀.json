@@ -1,0 +1,18 @@
+{"id":1,"name":"佐川美術館","location":"滋賀県守山市水保町北川２８９１","business_hours":"9時30分〜17時（最終入館は16時30分迄）","admission_fees":"一般1,000円、高・大学生600円、中学生以下無料","website_url":null,"phone_number":"077-585-7800","area":"滋賀県県"}
+{"id":2,"name":"成田美術館","location":"滋賀県長浜市朝日町34-24","business_hours":"10:00〜17:00","admission_fees":"一般800円、学生600円、中学生以下500円","website_url":null,"phone_number":"0749-65-0234","area":"滋賀県県"}
+{"id":3,"name":"日登美美術館","location":"滋賀県東近江市山上町２０８３","business_hours":"10：00 〜 17：00（入館は17：00まで）","admission_fees":"500円（中学・小学生は大人同伴は無料）","website_url":null,"phone_number":"0748-27-1707","area":"滋賀県県"}
+{"id":4,"name":"滋賀県立美術館","location":"滋賀県大津市瀬田南大萱町１７４０－１","business_hours":"午前９時30分〜午後５時（入館は午後４時30分まで）","admission_fees":"一般 540円  高・大生 320円  小・中生 無料","website_url":null,"phone_number":"077-543-2111","area":"滋賀県県"}
+{"id":5,"name":"ボーダレス・アートミュージアムＮＯ－ＭＡ","location":"滋賀県近江八幡市永原町上16","business_hours":"AM11:00〜PM5:00","admission_fees":"大人200円※展示会により異なる料金","website_url":null,"phone_number":"074-836-5018","area":"滋賀県県"}
+{"id":6,"name":"谷寛窯ギャラリー　陶ほうざん","location":"滋賀県甲賀市信楽町長野788","business_hours":"AM 10:30 ~ PM 5:00","admission_fees":"無料","website_url":null,"phone_number":"0748-82-2462","area":"滋賀県県"}
+{"id":7,"name":"醒井木彫美術館","location":"滋賀県米原市醒井95","business_hours":"10：00〜16：00（入館は15:30まで）","admission_fees":"大人300円、中高生・75歳以上200円、小学生以下無料","website_url":null,"phone_number":"0749-54-0842","area":"滋賀県県"}
+{"id":8,"name":"長等創作展示館・三橋節子美術館","location":"滋賀県大津市小関町１－１","business_hours":"9時〜17時（展示観覧のための入館は16時30分まで）","admission_fees":"一般320円、高・大学生240円、小・中学生160円、市内65歳以上160円","website_url":null,"phone_number":"077-523-5101","area":"滋賀県県"}
+{"id":9,"name":"木下美術館","location":"滋賀県大津市比叡平２丁目２８－２１","business_hours":"10時から16時開館期間：　毎年4月1日から11月30日まで","admission_fees":"一律 500円","website_url":null,"phone_number":"077-575-1148","area":"滋賀県県"}
+{"id":10,"name":"佐川美術館","location":"滋賀県守山市水保町北川２８９１","business_hours":"9時30分〜17時（最終入館は16時30分迄）","admission_fees":"一般1,000円、高・大学生600円、中学生以下無料","website_url":null,"phone_number":"077-585-7800","area":"滋賀県"}
+{"id":11,"name":"成田美術館","location":"滋賀県長浜市朝日町34-24","business_hours":"10:00〜17:00","admission_fees":"一般800円、学生600円、中学生以下500円","website_url":null,"phone_number":"0749-65-0234","area":"滋賀県"}
+{"id":12,"name":"日登美美術館","location":"滋賀県東近江市山上町２０８３","business_hours":"10：00 〜 17：00（入館は17：00まで）","admission_fees":"500円（中学・小学生は大人同伴は無料）","website_url":null,"phone_number":"0748-27-1707","area":"滋賀県"}
+{"id":13,"name":"滋賀県立美術館","location":"滋賀県大津市瀬田南大萱町１７４０－１","business_hours":"午前９時30分〜午後５時（入館は午後４時30分まで）","admission_fees":"一般 540円  高・大生 320円  小・中生 無料","website_url":null,"phone_number":"077-543-2111","area":"滋賀県"}
+{"id":14,"name":"ボーダレス・アートミュージアムＮＯ－ＭＡ","location":"滋賀県近江八幡市永原町上16","business_hours":"AM11:00〜PM5:00","admission_fees":"大人200円※展示会により異なる料金","website_url":null,"phone_number":"074-836-5018","area":"滋賀県"}
+{"id":15,"name":"谷寛窯ギャラリー　陶ほうざん","location":"滋賀県甲賀市信楽町長野788","business_hours":"AM 10:30 ~ PM 5:00","admission_fees":"無料","website_url":null,"phone_number":"0748-82-2462","area":"滋賀県"}
+{"id":16,"name":"醒井木彫美術館","location":"滋賀県米原市醒井95","business_hours":"10：00〜16：00（入館は15:30まで）","admission_fees":"大人300円、中高生・75歳以上200円、小学生以下無料","website_url":null,"phone_number":"0749-54-0842","area":"滋賀県"}
+{"id":17,"name":"長等創作展示館・三橋節子美術館","location":"滋賀県大津市小関町１－１","business_hours":"9時〜17時（展示観覧のための入館は16時30分まで）","admission_fees":"一般320円、高・大学生240円、小・中学生160円、市内65歳以上160円","website_url":null,"phone_number":"077-523-5101","area":"滋賀県"}
+{"id":18,"name":"木下美術館","location":"滋賀県大津市比叡平２丁目２８－２１","business_hours":"10時から16時開館期間：　毎年4月1日から11月30日まで","admission_fees":"一律 500円","website_url":null,"phone_number":"077-575-1148","area":"滋賀県"}

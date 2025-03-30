@@ -1,3 +1,4 @@
 *.rb
 *.csv
 *.swp
+*.env
