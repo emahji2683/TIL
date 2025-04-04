@@ -1,0 +1,12 @@
+
+def match(target, arr)
+  arr = {}
+  arr.each do
+    return true if arr[target - num]
+    arr[num] = true
+  end
+  p arr
+  false
+end
+
+match(7, Array.new(40) { rand(1..10) })
