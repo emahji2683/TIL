@@ -384,3 +384,18 @@ HTTP 401: This endpoint requires you to be authenticated. (https://api.github.co
 Try authenticating with:  gh auth login
 non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
 ブランチ '2025-04-05' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-04-06'
+[2025-04-06 bc4b248] Add learning records for 2025-04-06
+ 4 files changed, 104 deletions(-)
+ delete mode 100644 app/views/data/1
+ delete mode 100644 "db/excels/~$\343\202\263\343\203\224\343\203\274\345\255\246\347\277\222\345\261\245\346\255\264V20.xlsx"
+remote: 
+remote: Create a pull request for '2025-04-06' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/studyapp_v01/pull/new/2025-04-06        
+remote: 
+To github.com:emahji2683/studyapp_v01.git
+ * [new branch]      2025-04-06 -> 2025-04-06
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-06' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
