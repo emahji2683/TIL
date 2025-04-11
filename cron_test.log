@@ -2186,3 +2186,145 @@ Try authenticating with:  gh auth login
 non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
 ブランチ '2025-04-06' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
 Switched to a new branch '2025-04-07'
+[2025-04-07 f987cb4] Add learning records for 2025-04-07
+ 6 files changed, 137 insertions(+)
+ create mode 100644 20250407/Knapsack.md
+ create mode 100644 20250407/Multiples_of_2_Sequenced.md
+ create mode 100644 20250407/tousa.md
+remote: 
+remote: Create a pull request for '2025-04-07' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-04-07        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-04-07 -> 2025-04-07
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-07' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+fatal: a branch named '2025-04-08' already exists
+error: '20250408/sudoku_solver/' does not have a commit checked out
+fatal: adding files failed
+On branch 2025-04-08
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_test.log
+	modified:   cron_test_makeTIL.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	20250407/1
+	20250407/algo.json
+	20250407/benchmark_plot.png
+	20250407/json_parse.md
+	20250407/sample.md
+	"20250407/\350\250\210\347\256\227\351\207\217\343\201\256\346\246\202\345\277\265.md"
+	20250408/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-08' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-04-09'
+error: '20250408/sudoku_solver/' does not have a commit checked out
+fatal: adding files failed
+On branch 2025-04-09
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_test.log
+	modified:   cron_test_makeTIL.log
+	deleted:    "\345\213\225\347\232\204\350\250\210\347\224\273\346\263\225.md"
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	20250407/1
+	20250407/algo.json
+	20250407/benchmark_plot.png
+	20250407/json_parse.md
+	20250407/sample.md
+	"20250407/\350\250\210\347\256\227\351\207\217\343\201\256\346\246\202\345\277\265.md"
+	20250408/
+	20250409/
+	sample.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+remote: 
+remote: Create a pull request for '2025-04-09' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-04-09        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-04-09 -> 2025-04-09
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-09' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-04-10'
+error: '20250408/sudoku_solver/' does not have a commit checked out
+fatal: adding files failed
+On branch 2025-04-10
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_test.log
+	modified:   cron_test_makeTIL.log
+	deleted:    "\345\213\225\347\232\204\350\250\210\347\224\273\346\263\225.md"
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	20250407/algo.json
+	20250407/benchmark_plot.png
+	20250407/json_parse.md
+	20250407/sample.md
+	"20250407/\350\250\210\347\256\227\351\207\217\343\201\256\346\246\202\345\277\265.md"
+	20250408/
+	20250409/
+	sample.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+remote: 
+remote: Create a pull request for '2025-04-10' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-04-10        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-04-10 -> 2025-04-10
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-10' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-04-11'
+error: '20250408/sudoku_solver/' does not have a commit checked out
+fatal: adding files failed
+On branch 2025-04-11
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_test.log
+	modified:   cron_test_makeTIL.log
+	modified:   cron_test_studyapp.log
+	deleted:    "\345\213\225\347\232\204\350\250\210\347\224\273\346\263\225.md"
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	20250407/algo.json
+	20250407/benchmark_plot.png
+	20250407/json_parse.md
+	20250407/sample.md
+	"20250407/\350\250\210\347\256\227\351\207\217\343\201\256\346\246\202\345\277\265.md"
+	20250408/
+	20250409/
+	sample.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+remote: 
+remote: Create a pull request for '2025-04-11' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-04-11        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-04-11 -> 2025-04-11
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-11' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
