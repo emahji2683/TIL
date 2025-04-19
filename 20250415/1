@@ -1,3 +1,0 @@
-require "numo/narray"
-a = Numo::DFloat.new(10,20).seq
-p a
