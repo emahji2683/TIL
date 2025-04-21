@@ -12,14 +12,18 @@ end
 n: フィボナッチ数列のn項目
 fib(3, memo)を実行した場合
 
-`memo[3]`:false
 `n <= 1`: false
+`memo[3]`:false
 memo[3] = fib(2, memo) + fib(1, memo)
+
 1. fib(2, memo)が実行
-2. fib(1, memo)が実行
-前提条件: memo[2] = fib(1, memo) + fib(1, memo) == 2はfib(2, memo)の時点で実行されているので。
+前提条件: memo[2] = fib(1, memo) + fib(0, memo) == 1によりmemoに登録される。
 1より、memo[n]はこの場合、memo[2]となり。memo[n]は存在するので。
 
+2. fib(1, memo)が実行
+returnで1が帰り値
+
+これらよりmemo[3] == 2
 
 ```
 def fib(n, memo = {})
