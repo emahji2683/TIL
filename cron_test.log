@@ -2661,3 +2661,55 @@ HTTP 401: This endpoint requires you to be authenticated. (https://api.github.co
 Try authenticating with:  gh auth login
 non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
 ブランチ '2025-04-28' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+fatal: a branch named '2025-04-29' already exists
+[2025-04-29 5669609] Add learning records for 2025-04-29
+ 2 files changed, 2 insertions(+)
+To github.com:emahji2683/TIL.git
+   6fca647..5669609  2025-04-29 -> 2025-04-29
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-29' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+fatal: a branch named '2025-04-29' already exists
+[2025-04-29 27a01db] Add learning records for 2025-04-29
+ 4 files changed, 19 insertions(+)
+ create mode 100644 "20250429/.\343\203\217\343\203\203\343\202\267\343\203\245\346\247\213\351\200\240\343\201\256\350\246\217\345\256\232.md.swo"
+ create mode 100644 "20250429/\343\203\217\343\203\203\343\202\267\343\203\245\346\247\213\351\200\240\343\201\256\350\246\217\345\256\232.md"
+To github.com:emahji2683/TIL.git
+   5669609..27a01db  2025-04-29 -> 2025-04-29
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-29' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+Switched to a new branch '2025-04-30'
+[2025-04-30 a4d3d31] Add learning records for 2025-04-30
+ 2 files changed, 12 insertions(+)
+remote: 
+remote: Create a pull request for '2025-04-30' on GitHub by visiting:        
+remote:      https://github.com/emahji2683/TIL/pull/new/2025-04-30        
+remote: 
+To github.com:emahji2683/TIL.git
+ * [new branch]      2025-04-30 -> 2025-04-30
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-30' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+fatal: a branch named '2025-04-30' already exists
+[2025-04-30 e00a36b] Add learning records for 2025-04-30
+ 4 files changed, 36 insertions(+), 3 deletions(-)
+ delete mode 100644 "20250429/.\343\203\217\343\203\203\343\202\267\343\203\245\346\247\213\351\200\240\343\201\256\350\246\217\345\256\232.md.swo"
+To github.com:emahji2683/TIL.git
+   a4d3d31..e00a36b  2025-04-30 -> 2025-04-30
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-30' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
+fatal: a branch named '2025-04-30' already exists
+[2025-04-30 bd2aadc] Add learning records for 2025-04-30
+ 1 file changed, 10 insertions(+)
+To github.com:emahji2683/TIL.git
+   e00a36b..bd2aadc  2025-04-30 -> 2025-04-30
+HTTP 401: This endpoint requires you to be authenticated. (https://api.github.com/graphql)
+Try authenticating with:  gh auth login
+non-200 OK status code: 401 Unauthorized body: "{\"message\":\"This endpoint requires you to be authenticated.\",\"documentation_url\":\"https://docs.github.com/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql\",\"status\":\"401\"}"
+ブランチ '2025-04-30' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。
