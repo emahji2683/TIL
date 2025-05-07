@@ -34,7 +34,7 @@ git push origin $BRANCH_NAME
 /opt/homebrew/bin/gh pr merge --auto --merge
 
 
-open "https://github.com/users/emahji2683/contributions"
+open "https://github.com/emahji2683"
 
 # 成功メッセージを表示
 echo "ブランチ '$BRANCH_NAME' を作成し、変更をコミットしてプッシュしました。プルリクエストが作成され、マージされました。"
