@@ -1,0 +1,262 @@
+./20241211/動的OGP.md:<summary>railsコマンド</summary>
+./20241211/動的OGP.md:rails g meta_tags:install
+./20241211/geocording_apiによる住所変更.md:[【Rails】 find_eachメソッドでメモリを節約して大量データを扱う方法](https://pikawaka.com/rails/find_each)
+./20250306/devise_parameter_sanitizer.md:- [Action Controller の概要 - Railsガイド](https://railsguides.jp/action_controller_overview.html)
+./20241210/プライバシーポリシー画面の実装.md:railsの場合は、クラス名とファイル名を分けることで、ソースコードの判別をしやすくしているということか？
+./20241210/プライバシーポリシー画面の実装.md:## railsでのキャメルケース、スネークケース
+./20241210/プライバシーポリシー画面の実装.md:``rails generate controller StaticPages privacy_policy``
+./20241226/トップページの実装.md:``rails g controller top``
+./20241226/トップページの実装.md:- [railsアプリの新規作成〜TOPページの作成](https://qiita.com/makimaki2525/items/b3babd59cf9b1096ee6c)
+./20250104/chatGPT実装例.md:rails g controller openai/speak
+./20250104/chatGPT実装例.md:rails g controller openai/recommend
+./20250104/bin_devの修正.md:bin/rails assets:clobber
+./20250104/bin_devの修正.md:bin/rails assets:precompile
+./20250104/問い合わせメールの作成.md:引用:railsガイド
+./20250104/問い合わせメールの作成.md:- [【Rails7】Windows ActionMailerを使ってGmailからメール送信してみよう【初心者用】](https://sumiox.com/rails-actionmailer-gmail/)
+./20250104/問い合わせメールの作成.md:- [【rails6】お問合せフォームの実装（メール送信を含む）](https://qiita.com/takapon21/items/bd2dd148ad6ae38238f4)
+./20250104/action_mailer設定.md:- [Rails アプリケーションの設定項目](https://railsguides.jp/configuring.html#action-mailer%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
+./20250331/RspecV03.md:rails g rspec:model review
+./20250331/value_object.md:- [Railsのデザインパターン: Valueオブジェクト - applis](https://applis.io/posts/rails-design-pattern-value-objects)
+./20250221/OAuth2.0.md:railsの関連Gemをインストールする。
+./20250221/OAuth2.0.md:- [たった30分でわかるcredentials.yml.enc[rails5.2] - 環境変数を定義する使い方 - #Ruby - Qiita](https://qiita.com/gyu_outputs/items/92c4a2a2f96edb10e298)
+./20250210/simpleCov.md:  # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
+./20250210/simpleCov.md:以下の通り、simplecovをrails_helperで読み込むようにした。
+./20250210/simpleCov.md:<summary>spec/rails_helper.rb</summary>
+./20250210/rails_helper.md:# rails_helperとは
+./20250210/rails_helper.md:ビューを使いまわせるように、メソッド化するrailsの機能。
+./20250210/ransack.md:- [検索元](https://www.google.com/search?q=%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%80%80rails%E3%80%80ransack&client=firefox-b-d&sca_esv=a7c8b91352f94de3&sxsrf=ADLYWIJ9LfcTW4LguCr2dwVqStTZ1K8pLQ%3A1732695355774&ei=O9VGZ8_2Lpyl2roPl7uYyQc&ved=0ahUKEwiPgL2ZifyJAxWcklYBHZcdJnkQ4dUDCA8&uact=5&oq=%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%80%80rails%E3%80%80ransack&gs_lp=Egxnd3Mtd2l6LXNlcnAiHuaknOe0ouapn-iDveOAgHJhaWxz44CAcmFuc2FjazIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESPEPUNUBWJ8OcAF4AZABAJgB9AGgAc0MqgEFMC4yLja4AQPIAQD4AQGYAgmgAuYMwgIKEAAYsAMY1gQYR8ICBBAAGB7CAggQABiiBBiJBZgDAIgGAZAGCpIHBTEuMi42oAfdEg&sclient=gws-wiz-serp)
+./20250210/ransack.md:- [【Rails】 ransackを使って検索機能がついたアプリを作ろう！](https://pikawaka.com/rails/ransack)
+./20250202/サブ写真の登録.md:出典：railsガイド
+./20250202/サブ写真の登録.md:参考：railsガイド
+./20250202/サブ写真の登録.md:- [Action View フォームヘルパー - Railsガイド](https://railsguides.jp/form_helpers.html)
+./20250202/サブ写真の登録.md:- [Action View フォームヘルパー - Railsガイド](https://railsguides.jp/form_helpers.html)
+./20250202/サブ写真の登録.md:- [ActionView::Helpers](https://api.rubyonrails.org/v8.0/classes/ActionView/Helpers.html)
+./20250205/tailwind.md:- [railsで解像度や画質を落とす方法](https://teratail.com/questions/15779)
+./20241118/モデルへのリレーションの追加.md:docker compose exec app rails g migration AddColumnReviews
+./20241118/GooglePlaceAPI.md:- [【Rails】Googleマップに掲載されている店舗情報をAPIで自由に取得する](https://labo.kon-ruri.co.jp/rails-google-places-api/)
+./20241111/daisyUIの導入.md:[Dockerでrails7 + tailwind + daisyuiの環境構築をする](https://qiita.com/ICU1234/items/4c7c3e974ae290e68792#docker-composeyml)
+./20241111/アセットパイプライン.md:- `importmap-rails`
+./20241111/アセットパイプライン.md:- `sprockets-rails`
+./20241111/アセットパイプライン.md:rails new appname --skip-asset-pipeline
+./20241129/データ型の変更.md:rails g migration ChangeDatatypeCommentOfPosts
+./20241129/データ型の変更.md:rails g migration ChangeDatatypeRating01OfReviews
+./20250204/タブ名の動的更新.md:- [レイアウトとレンダリング - Railsガイド](https://railsguides.jp/layouts_and_rendering.html#%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%82%BF%E3%82%B0%E3%83%98%E3%83%AB%E3%83%91%E3%83%BC)
+./20241110/Tailwind環境構築.md:gem "cssbundling-rails"
+./20241110/Tailwind環境構築.md:3. bin/rails css:install:tailwind 実行
+./20241110/render_deploy.md:- https://railsguides.jp/v7.1/asset_pipeline.html
+./20241126/設定ファイル一覧.md:[設定ファイル(config) ](https://railsdoc.com/config)
+./20250126/キャッシュストア.md:googlePlaceAPIが何度も呼び出されることにより、クレジットが消費されないことを意図して、railsのキャッシュシステムを導入することにした。
+./20250110/sites_seen.md:- [【rails】chartkick導入ガイド #Ruby - Qiita](https://qiita.com/Yu_unI1/items/42ee303173739c26cf60)
+./20250110/sites_seen.md:- [Action Controller の概要 - Railsガイド](https://railsguides.jp/action_controller_overview.html)
+./20250110/sites_seen.md:- [【Rails7】JavaScript + Stimulusでフォームの自動入力補完機能を実装してみた（DBからJSへの値受け渡し） – こばっちプログ(PLOG)](https://plog.kobacchi.com/rails7-db-instance-value-to-javascript-stimulus-controller/)
+./20241203/i18nの実装.md:- rails-18nの導入
+./20241204/CRUD操作.md:- [redirect_to](https://railsdoc.com/page/redirect_to)
+./20241204/卒制_指摘整理.md:rails-i18nを使用し、ja.ymlファイルを使う。
+./20241204/activerecordの複数投稿20241204.md:1. [Rails7】ActiveStorageで複数枚画像を投稿・更新する（プレビュー表示も実装）](https://plog.kobacchi.com/rails7-activestorage-images-upload-preview/)
+./20250129/バリデーションの実装_review.md:- [Active Record バリデーション - Railsガイド](https://railsguides.jp/active_record_validations.html)
+./20250116/バリデーション_validation.md:- [Active Record バリデーション - Railsガイド](https://railsguides.jp/active_record_validations.html#%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B-errors)
+./20250111/いいね数ランキング.md:- [Ruby on Rails | コントローラの作成と命名規則(命名規約)](https://www.javadrive.jp/rails/controller/index1.html)
+./20250118/openAIのビュー改良.md:よって、imgタグをrailsのimage_tagに置き換えた前提で、assets/images内のファイルを参照した。
+./20250106/入館料の表示について.md:``rails g model AdmissionFee museum:references``
+./20250106/外部キー.md:# railsにおける外部キー
+./20250106/外部キー.md:``rails g model モデル名 親テーブル名:references``
+./20250106/外部キー.md:- [Active Record の基礎](https://railsguides.jp/active_record_basics.html)
+./20250106/modelの作成.md:rails g model モデル名 カラム名:データ型:uniq
+./20250101/CSVとは.md:- rails db::seedを入力する。
+./20250101/CSVとは.md:- [データベースに初期データを投入](https://railsdoc.com/page/rails_db_seed)
+./20250130/has_belong_to.md:docker compose exec app rails g model Tag title:string
+./20250130/has_belong_to.md:rails g migration CreateJoinTableReviewsTags review tag
+./20241223/stimulusの基本設定.md:bin/rails assets:clobber
+./20241223/stimulusの基本設定.md:bin/rails assets:precompile
+./20250507/migration.md:railsでデータベースを変更する際は、マイグレーションファイルを作成し・編集して読み込ませる。
+./20250507/migration.md:> railsでデータベースに対して何らかの変更を行いたい場合、全てマイグレーションファイルというファイルを作成・編集して読み込ませることによりテーブルを作成したり、カラムを追加したりします。
+./20250509/cloudstrage.md:# 使用方法(rails)
+./20250509/cloudstrage.md:rails上で使用する方法。railsのActiveStorageを用いて、特定のクラウドストレージを使用することができる。
+./20250131/RspecV02.md:rails g rspec:model review
+./20250131/form_with.md:> form_withとは、railsで情報を送信するためのヘルパーメソッドです。 form_withを使うことにより、簡単に入力フォームに必要なHTMLを作成することができます。
+./20250508/turbo.md:https://www.next.inc/articles/2025/rails%E3%81%AEhotwire%E3%81%A8turbo%E3%81%A8%E3%81%AF%EF%BC%9F.html
+./20241225/chart.js.md:- rails7
+./20241109/render_deploy.md:https://railsguides.jp/v7.1/asset_pipeline.html
+./20250212/例外処理.md:railsにおける例外処理を行う。メソッドを以下に示す。
+./20250212/form_with_model.md:- [Rails のルーティング - Railsガイド](https://railsguides.jp/routing.html#%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-rails%E3%81%AE%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88)
+./20250212/form_with_model.md:- [Rails のルーティング - Railsガイド](https://railsguides.jp/routing.html#%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-rails%E3%81%AE%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88)
+./20250212/リクエストスペック.md:rails g rspec:request コントローラー名
+./20241130/render_デプロイ.md:rails db:schema:load
+./20241130/render_amazonS3.md:- [Active Storage の概要](https://railsguides.jp/active_storage_overview.html)
+./20241124/美術館データの表示.md:rails g migration ChangeDatatypeカラム名Ofテーブル名
+./20241124/美術館データの表示.md:rails g migration ChangeDatatypeAdmission_feesOfMuseums
+./20241124/モデルへのリレーションの追加_MuseumToReview.md:docker compose exec app rails g migration AddColumnMuseum_idOfReviews
+./20241124/モデルへのリレーションの追加_UserToReview.md:docker compose exec app rails g migration AddColumnReviews
+./20241124/外部キー制約.md:[【Rails】マイグレーションファイルで外部キー、インデックスを設定する方法](https://blog.to-ko-s.com/rails-migration/)
+./20241123/Dockerrun.md:**docker compose run —rm web rails new . —force —no-deps —database=mysql**
+./20241115/GooglePlaceAPI.md:- [【Rails】Googleマップに掲載されている店舗情報をAPIで自由に取得する](https://labo.kon-ruri.co.jp/rails-google-places-api/)
+./20241112/devise実装.md:docker compose exec app rails g devise:install
+./20241112/devise実装.md:docker compose exec app rails g devise user
+./20241112/devise実装.md:docker compose exec app rails db:migrate
+./20241112/devise実装.md:docker compose exec app rails g migration AddNameToUsers name:string
+./20241112/devise実装.md:rails db:migrate
+./20241112/devise実装.md:docker compose exex app rails g devise:i18n:views
+./20241112/devise実装.md:rails g devise:controllers users
+./20241112/devise実装.md:rails g devise:i18n:locale ja
+./20241112/devise実装.md:docker compose exec app rails active_storage:install
+./20241112/devise実装.md:docker compose exec app rails db:migrate
+./20241112/deviseとは.md:deviseとはrailsで作ったwebアプリケーションに簡単に認証機能を実装できるgemのことです。
+./20241112/deviseとは.md:[rails devise完全入門！結局deviseって何ができるの？](https://www.sejuku.net/blog/13378)
+./20241122/railsgcontrollerについて美術館データの表示.md:モデル、スキャフォールドと同様にrails gを使用して作成する。
+./20241122/railsgcontrollerについて美術館データの表示.md:rails g controller (モデルの複数形、小文字)
+./20241122/railsgcontrollerについて美術館データの表示.md:rails destroy controller (モデルの複数形、小文字)
+./20241122/railsgcontrollerについて美術館データの表示.md:[rails generateコマンドを取り消す方法](https://qiita.com/shuhei_m/items/32731468ff64a8947222)
+./20241209/chatGPT.md:    rails g controller openai/speak
+./20241209/joins.md:[【Rails】 joinsメソッドの使い方 ~ テーブル結合からネストまで学ぶ](https://pikawaka.com/rails/joins)
+./20250122/taiwind_reponsive.md:そもそもrailsはbin/devでforemanを起動し、Procfile.dev中のプロセスを実行している。
+./20250122/taiwind_reponsive.md:web: bin/rails server -b 0.0.0.0 -p 3000
+./20250122/taiwind_reponsive.md:- [[rails7] bin/devの役割とその仕組み #Rails - Qiita](https://qiita.com/sinke_123/items/20f93bdcf7cefce11da9)
+./20250319/Gemfile.md:> このGemfileは、先ほどのgem 'rails', '~> 6.1.0'などのインストールしたいパッケージをまとめて記述したファイルのことです。
+./20250114/Rspqc,Iterm2,Ohmyzsh.md: [【Ruby on Rails】RSpec（rspec-rails）を使ってみよう #Rails - Qiita](https://qiita.com/ukwhatn/items/468d2ee700f79b7c5587)
+./20250114/current_user以外の削除・編集規制.md:- [[Ruby on rails][アクションdestroy]ユーザーが登録したものをユーザーのみが削除する | 岡田デザインラボ](https://www.okadalabo.com/ruby-on-rails%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3destory%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%8C%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E3%83%A6%E3%83%BC/)
+./20250113/Rspec.md:  gem 'rspec-rails', '~> 6.1.0'
+./20250113/Rspec.md:  gem 'factory_bot_rails'
+./20250113/Rspec.md:``rails generate rspec:install``
+./20250113/Rspec.md:`rails g rspec:model book`
+./20250113/Rspec.md:require "rails_helper"
+./20250113/Rspec.md:rails g factory_bot:model モデル名
+./20250113/Rspec.md:- [【Ruby on Rails】RSpec（rspec-rails）を使ってみよう #Rails - Qiita](https://qiita.com/ukwhatn/items/468d2ee700f79b7c5587)
+./20241230/複数項目による美術館レビュー.md:``docker compose exec app rails g migration AddColumnsToReview``
+./20241230/複数項目による美術館レビューV02.md:``docker compose exec app rails g migration AddColumnsToReview``
+./20241230/複数項目による美術館レビューV02.md:railsのインスタンスメソッド内で、インスタンス属性を指定した場合、その属性値を出力するようになっていることに注意する(参照:[インスタンスメソッドについてて](./インスタンスメソッドに変数を渡す必要がない理由.md) )。
+./20241208/いいね機能の実装.md:いいね、機能、rails
+./20241208/いいね機能の実装.md:- [【Rails】 exists?メソッドの使い方~present?との違い](https://pikawaka.com/rails/exists)⇦まとめは別ページに
+./20241201/ransack.md:- [検索元](https://www.google.com/search?q=%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%80%80rails%E3%80%80ransack&client=firefox-b-d&sca_esv=a7c8b91352f94de3&sxsrf=ADLYWIJ9LfcTW4LguCr2dwVqStTZ1K8pLQ%3A1732695355774&ei=O9VGZ8_2Lpyl2roPl7uYyQc&ved=0ahUKEwiPgL2ZifyJAxWcklYBHZcdJnkQ4dUDCA8&uact=5&oq=%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%80%80rails%E3%80%80ransack&gs_lp=Egxnd3Mtd2l6LXNlcnAiHuaknOe0ouapn-iDveOAgHJhaWxz44CAcmFuc2FjazIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESPEPUNUBWJ8OcAF4AZABAJgB9AGgAc0MqgEFMC4yLja4AQPIAQD4AQGYAgmgAuYMwgIKEAAYsAMY1gQYR8ICBBAAGB7CAggQABiiBBiJBZgDAIgGAZAGCpIHBTEuMi42oAfdEg&sclient=gws-wiz-serp)
+./20241201/ransack.md:- [【Rails】 ransackを使って検索機能がついたアプリを作ろう！](https://pikawaka.com/rails/ransack)
+./20250124/特定のURLにおける非表示.md:- [[rails]navbarやヘッダーをTOPページのみ非表示にする #Ruby - Qiita](https://qiita.com/piya_study/items/0b6218bdc8d39a0cae7c)
+./20241211/動的OGP.md:<summary>railsコマンド</summary>
+./20241211/動的OGP.md:rails g meta_tags:install
+./20241211/geocording_apiによる住所変更.md:[【Rails】 find_eachメソッドでメモリを節約して大量データを扱う方法](https://pikawaka.com/rails/find_each)
+./20250306/devise_parameter_sanitizer.md:- [Action Controller の概要 - Railsガイド](https://railsguides.jp/action_controller_overview.html)
+./20241210/プライバシーポリシー画面の実装.md:railsの場合は、クラス名とファイル名を分けることで、ソースコードの判別をしやすくしているということか？
+./20241210/プライバシーポリシー画面の実装.md:## railsでのキャメルケース、スネークケース
+./20241210/プライバシーポリシー画面の実装.md:``rails generate controller StaticPages privacy_policy``
+./20241226/トップページの実装.md:``rails g controller top``
+./20241226/トップページの実装.md:- [railsアプリの新規作成〜TOPページの作成](https://qiita.com/makimaki2525/items/b3babd59cf9b1096ee6c)
+./20250104/chatGPT実装例.md:rails g controller openai/speak
+./20250104/chatGPT実装例.md:rails g controller openai/recommend
+./20250104/bin_devの修正.md:bin/rails assets:clobber
+./20250104/bin_devの修正.md:bin/rails assets:precompile
+./20250104/問い合わせメールの作成.md:引用:railsガイド
+./20250104/問い合わせメールの作成.md:- [【Rails7】Windows ActionMailerを使ってGmailからメール送信してみよう【初心者用】](https://sumiox.com/rails-actionmailer-gmail/)
+./20250104/問い合わせメールの作成.md:- [【rails6】お問合せフォームの実装（メール送信を含む）](https://qiita.com/takapon21/items/bd2dd148ad6ae38238f4)
+./20250104/action_mailer設定.md:- [Rails アプリケーションの設定項目](https://railsguides.jp/configuring.html#action-mailer%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
+./20250331/RspecV03.md:rails g rspec:model review
+./20250331/value_object.md:- [Railsのデザインパターン: Valueオブジェクト - applis](https://applis.io/posts/rails-design-pattern-value-objects)
+./20250221/OAuth2.0.md:railsの関連Gemをインストールする。
+./20250221/OAuth2.0.md:- [たった30分でわかるcredentials.yml.enc[rails5.2] - 環境変数を定義する使い方 - #Ruby - Qiita](https://qiita.com/gyu_outputs/items/92c4a2a2f96edb10e298)
+./20250210/simpleCov.md:  # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
+./20250210/simpleCov.md:以下の通り、simplecovをrails_helperで読み込むようにした。
+./20250210/simpleCov.md:<summary>spec/rails_helper.rb</summary>
+./20250210/rails_helper.md:# rails_helperとは
+./20250210/rails_helper.md:ビューを使いまわせるように、メソッド化するrailsの機能。
+./20250210/ransack.md:- [検索元](https://www.google.com/search?q=%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%80%80rails%E3%80%80ransack&client=firefox-b-d&sca_esv=a7c8b91352f94de3&sxsrf=ADLYWIJ9LfcTW4LguCr2dwVqStTZ1K8pLQ%3A1732695355774&ei=O9VGZ8_2Lpyl2roPl7uYyQc&ved=0ahUKEwiPgL2ZifyJAxWcklYBHZcdJnkQ4dUDCA8&uact=5&oq=%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%80%80rails%E3%80%80ransack&gs_lp=Egxnd3Mtd2l6LXNlcnAiHuaknOe0ouapn-iDveOAgHJhaWxz44CAcmFuc2FjazIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESPEPUNUBWJ8OcAF4AZABAJgB9AGgAc0MqgEFMC4yLja4AQPIAQD4AQGYAgmgAuYMwgIKEAAYsAMY1gQYR8ICBBAAGB7CAggQABiiBBiJBZgDAIgGAZAGCpIHBTEuMi42oAfdEg&sclient=gws-wiz-serp)
+./20250210/ransack.md:- [【Rails】 ransackを使って検索機能がついたアプリを作ろう！](https://pikawaka.com/rails/ransack)
+./20250202/サブ写真の登録.md:出典：railsガイド
+./20250202/サブ写真の登録.md:参考：railsガイド
+./20250202/サブ写真の登録.md:- [Action View フォームヘルパー - Railsガイド](https://railsguides.jp/form_helpers.html)
+./20250202/サブ写真の登録.md:- [Action View フォームヘルパー - Railsガイド](https://railsguides.jp/form_helpers.html)
+./20250202/サブ写真の登録.md:- [ActionView::Helpers](https://api.rubyonrails.org/v8.0/classes/ActionView/Helpers.html)
+./20250205/tailwind.md:- [railsで解像度や画質を落とす方法](https://teratail.com/questions/15779)
+./20241118/モデルへのリレーションの追加.md:docker compose exec app rails g migration AddColumnReviews
+./20241118/GooglePlaceAPI.md:- [【Rails】Googleマップに掲載されている店舗情報をAPIで自由に取得する](https://labo.kon-ruri.co.jp/rails-google-places-api/)
+./20241111/daisyUIの導入.md:[Dockerでrails7 + tailwind + daisyuiの環境構築をする](https://qiita.com/ICU1234/items/4c7c3e974ae290e68792#docker-composeyml)
+./20241111/アセットパイプライン.md:- `importmap-rails`
+./20241111/アセットパイプライン.md:- `sprockets-rails`
+./20241111/アセットパイプライン.md:rails new appname --skip-asset-pipeline
+./20241129/データ型の変更.md:rails g migration ChangeDatatypeCommentOfPosts
+./20241129/データ型の変更.md:rails g migration ChangeDatatypeRating01OfReviews
+./20250204/タブ名の動的更新.md:- [レイアウトとレンダリング - Railsガイド](https://railsguides.jp/layouts_and_rendering.html#%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%82%BF%E3%82%B0%E3%83%98%E3%83%AB%E3%83%91%E3%83%BC)
+./20241110/Tailwind環境構築.md:gem "cssbundling-rails"
+./20241110/Tailwind環境構築.md:3. bin/rails css:install:tailwind 実行
+./20241110/render_deploy.md:- https://railsguides.jp/v7.1/asset_pipeline.html
+./20241126/設定ファイル一覧.md:[設定ファイル(config) ](https://railsdoc.com/config)
+./20250126/キャッシュストア.md:googlePlaceAPIが何度も呼び出されることにより、クレジットが消費されないことを意図して、railsのキャッシュシステムを導入することにした。
+./20250110/sites_seen.md:- [【rails】chartkick導入ガイド #Ruby - Qiita](https://qiita.com/Yu_unI1/items/42ee303173739c26cf60)
+./20250110/sites_seen.md:- [Action Controller の概要 - Railsガイド](https://railsguides.jp/action_controller_overview.html)
+./20250110/sites_seen.md:- [【Rails7】JavaScript + Stimulusでフォームの自動入力補完機能を実装してみた（DBからJSへの値受け渡し） – こばっちプログ(PLOG)](https://plog.kobacchi.com/rails7-db-instance-value-to-javascript-stimulus-controller/)
+./20241203/i18nの実装.md:- rails-18nの導入
+./20241204/CRUD操作.md:- [redirect_to](https://railsdoc.com/page/redirect_to)
+./20241204/卒制_指摘整理.md:rails-i18nを使用し、ja.ymlファイルを使う。
+./20241204/activerecordの複数投稿20241204.md:1. [Rails7】ActiveStorageで複数枚画像を投稿・更新する（プレビュー表示も実装）](https://plog.kobacchi.com/rails7-activestorage-images-upload-preview/)
+./20250129/バリデーションの実装_review.md:- [Active Record バリデーション - Railsガイド](https://railsguides.jp/active_record_validations.html)
+./20250116/バリデーション_validation.md:- [Active Record バリデーション - Railsガイド](https://railsguides.jp/active_record_validations.html#%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B-errors)
+./20250111/いいね数ランキング.md:- [Ruby on Rails | コントローラの作成と命名規則(命名規約)](https://www.javadrive.jp/rails/controller/index1.html)
+./20250118/openAIのビュー改良.md:よって、imgタグをrailsのimage_tagに置き換えた前提で、assets/images内のファイルを参照した。
+./20250106/入館料の表示について.md:``rails g model AdmissionFee museum:references``
+./20250106/外部キー.md:# railsにおける外部キー
+./20250106/外部キー.md:``rails g model モデル名 親テーブル名:references``
+./20250106/外部キー.md:- [Active Record の基礎](https://railsguides.jp/active_record_basics.html)
+./20250106/modelの作成.md:rails g model モデル名 カラム名:データ型:uniq
+./20250101/CSVとは.md:- rails db::seedを入力する。
+./20250101/CSVとは.md:- [データベースに初期データを投入](https://railsdoc.com/page/rails_db_seed)
+./20250130/has_belong_to.md:docker compose exec app rails g model Tag title:string
+./20250130/has_belong_to.md:rails g migration CreateJoinTableReviewsTags review tag
+./20241223/stimulusの基本設定.md:bin/rails assets:clobber
+./20241223/stimulusの基本設定.md:bin/rails assets:precompile
+./20250507/migration.md:railsでデータベースを変更する際は、マイグレーションファイルを作成し・編集して読み込ませる。
+./20250507/migration.md:> railsでデータベースに対して何らかの変更を行いたい場合、全てマイグレーションファイルというファイルを作成・編集して読み込ませることによりテーブルを作成したり、カラムを追加したりします。
+./20250509/cloudstrage.md:# 使用方法(rails)
+./20250509/cloudstrage.md:rails上で使用する方法。railsのActiveStorageを用いて、特定のクラウドストレージを使用することができる。
+./20250131/RspecV02.md:rails g rspec:model review
+./20250131/form_with.md:> form_withとは、railsで情報を送信するためのヘルパーメソッドです。 form_withを使うことにより、簡単に入力フォームに必要なHTMLを作成することができます。
+./20250508/turbo.md:https://www.next.inc/articles/2025/rails%E3%81%AEhotwire%E3%81%A8turbo%E3%81%A8%E3%81%AF%EF%BC%9F.html
+./20241225/chart.js.md:- rails7
+./20241109/render_deploy.md:https://railsguides.jp/v7.1/asset_pipeline.html
+./20250212/例外処理.md:railsにおける例外処理を行う。メソッドを以下に示す。
+./20250212/form_with_model.md:- [Rails のルーティング - Railsガイド](https://railsguides.jp/routing.html#%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-rails%E3%81%AE%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88)
+./20250212/form_with_model.md:- [Rails のルーティング - Railsガイド](https://railsguides.jp/routing.html#%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-rails%E3%81%AE%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88)
+./20250212/リクエストスペック.md:rails g rspec:request コントローラー名
+./20241130/render_デプロイ.md:rails db:schema:load
+./20241130/render_amazonS3.md:- [Active Storage の概要](https://railsguides.jp/active_storage_overview.html)
+./20241124/美術館データの表示.md:rails g migration ChangeDatatypeカラム名Ofテーブル名
+./20241124/美術館データの表示.md:rails g migration ChangeDatatypeAdmission_feesOfMuseums
+./20241124/モデルへのリレーションの追加_MuseumToReview.md:docker compose exec app rails g migration AddColumnMuseum_idOfReviews
+./20241124/モデルへのリレーションの追加_UserToReview.md:docker compose exec app rails g migration AddColumnReviews
+./20241124/外部キー制約.md:[【Rails】マイグレーションファイルで外部キー、インデックスを設定する方法](https://blog.to-ko-s.com/rails-migration/)
+./20241123/Dockerrun.md:**docker compose run —rm web rails new . —force —no-deps —database=mysql**
+./20241115/GooglePlaceAPI.md:- [【Rails】Googleマップに掲載されている店舗情報をAPIで自由に取得する](https://labo.kon-ruri.co.jp/rails-google-places-api/)
+./20241112/devise実装.md:docker compose exec app rails g devise:install
+./20241112/devise実装.md:docker compose exec app rails g devise user
+./20241112/devise実装.md:docker compose exec app rails db:migrate
+./20241112/devise実装.md:docker compose exec app rails g migration AddNameToUsers name:string
+./20241112/devise実装.md:rails db:migrate
+./20241112/devise実装.md:docker compose exex app rails g devise:i18n:views
+./20241112/devise実装.md:rails g devise:controllers users
+./20241112/devise実装.md:rails g devise:i18n:locale ja
+./20241112/devise実装.md:docker compose exec app rails active_storage:install
+./20241112/devise実装.md:docker compose exec app rails db:migrate
+./20241112/deviseとは.md:deviseとはrailsで作ったwebアプリケーションに簡単に認証機能を実装できるgemのことです。
+./20241112/deviseとは.md:[rails devise完全入門！結局deviseって何ができるの？](https://www.sejuku.net/blog/13378)
+./20241122/railsgcontrollerについて美術館データの表示.md:モデル、スキャフォールドと同様にrails gを使用して作成する。
+./20241122/railsgcontrollerについて美術館データの表示.md:rails g controller (モデルの複数形、小文字)
+./20241122/railsgcontrollerについて美術館データの表示.md:rails destroy controller (モデルの複数形、小文字)
+./20241122/railsgcontrollerについて美術館データの表示.md:[rails generateコマンドを取り消す方法](https://qiita.com/shuhei_m/items/32731468ff64a8947222)
+./20241209/chatGPT.md:    rails g controller openai/speak
+./20241209/joins.md:[【Rails】 joinsメソッドの使い方 ~ テーブル結合からネストまで学ぶ](https://pikawaka.com/rails/joins)
+./20250122/taiwind_reponsive.md:そもそもrailsはbin/devでforemanを起動し、Procfile.dev中のプロセスを実行している。
+./20250122/taiwind_reponsive.md:web: bin/rails server -b 0.0.0.0 -p 3000
+./20250122/taiwind_reponsive.md:- [[rails7] bin/devの役割とその仕組み #Rails - Qiita](https://qiita.com/sinke_123/items/20f93bdcf7cefce11da9)
+./20250319/Gemfile.md:> このGemfileは、先ほどのgem 'rails', '~> 6.1.0'などのインストールしたいパッケージをまとめて記述したファイルのことです。
+./20250114/Rspqc,Iterm2,Ohmyzsh.md: [【Ruby on Rails】RSpec（rspec-rails）を使ってみよう #Rails - Qiita](https://qiita.com/ukwhatn/items/468d2ee700f79b7c5587)
+./20250114/current_user以外の削除・編集規制.md:- [[Ruby on rails][アクションdestroy]ユーザーが登録したものをユーザーのみが削除する | 岡田デザインラボ](https://www.okadalabo.com/ruby-on-rails%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3destory%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%8C%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E3%83%A6%E3%83%BC/)
+./20250113/Rspec.md:  gem 'rspec-rails', '~> 6.1.0'
+./20250113/Rspec.md:  gem 'factory_bot_rails'
+./20250113/Rspec.md:``rails generate rspec:install``
+./20250113/Rspec.md:`rails g rspec:model book`
+./20250113/Rspec.md:require "rails_helper"
+./20250113/Rspec.md:rails g factory_bot:model モデル名
+./20250113/Rspec.md:- [【Ruby on Rails】RSpec（rspec-rails）を使ってみよう #Rails - Qiita](https://qiita.com/ukwhatn/items/468d2ee700f79b7c5587)
+./20241230/複数項目による美術館レビュー.md:``docker compose exec app rails g migration AddColumnsToReview``
+./20241230/複数項目による美術館レビューV02.md:``docker compose exec app rails g migration AddColumnsToReview``
+./20241230/複数項目による美術館レビューV02.md:railsのインスタンスメソッド内で、インスタンス属性を指定した場合、その属性値を出力するようになっていることに注意する(参照:[インスタンスメソッドについてて](./インスタンスメソッドに変数を渡す必要がない理由.md) )。
+./20241208/いいね機能の実装.md:いいね、機能、rails
+./20241208/いいね機能の実装.md:- [【Rails】 exists?メソッドの使い方~present?との違い](https://pikawaka.com/rails/exists)⇦まとめは別ページに
+./20241201/ransack.md:- [検索元](https://www.google.com/search?q=%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%80%80rails%E3%80%80ransack&client=firefox-b-d&sca_esv=a7c8b91352f94de3&sxsrf=ADLYWIJ9LfcTW4LguCr2dwVqStTZ1K8pLQ%3A1732695355774&ei=O9VGZ8_2Lpyl2roPl7uYyQc&ved=0ahUKEwiPgL2ZifyJAxWcklYBHZcdJnkQ4dUDCA8&uact=5&oq=%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%80%80rails%E3%80%80ransack&gs_lp=Egxnd3Mtd2l6LXNlcnAiHuaknOe0ouapn-iDveOAgHJhaWxz44CAcmFuc2FjazIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESPEPUNUBWJ8OcAF4AZABAJgB9AGgAc0MqgEFMC4yLja4AQPIAQD4AQGYAgmgAuYMwgIKEAAYsAMY1gQYR8ICBBAAGB7CAggQABiiBBiJBZgDAIgGAZAGCpIHBTEuMi42oAfdEg&sclient=gws-wiz-serp)
+./20241201/ransack.md:- [【Rails】 ransackを使って検索機能がついたアプリを作ろう！](https://pikawaka.com/rails/ransack)
+./20250124/特定のURLにおける非表示.md:- [[rails]navbarやヘッダーをTOPページのみ非表示にする #Ruby - Qiita](https://qiita.com/piya_study/items/0b6218bdc8d39a0cae7c)
